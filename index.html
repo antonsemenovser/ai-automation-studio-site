@@ -71,6 +71,20 @@
   .feat h4{ font-size:16px; margin-bottom:5px; }
   .feat p{ color:var(--muted); font-size:14px; }
 
+  .catalog{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
+  @media(max-width:880px){ .catalog{ grid-template-columns:1fr 1fr; } }
+  @media(max-width:600px){ .catalog{ grid-template-columns:1fr; } }
+  .cat{ background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:22px;
+        display:flex; flex-direction:column; }
+  .cat-h{ display:flex; align-items:center; gap:10px; margin-bottom:14px; }
+  .cat-h .ic{ font-size:22px; width:40px; height:40px; border-radius:11px; background:var(--panel2);
+              display:flex; align-items:center; justify-content:center; flex:0 0 auto; }
+  .cat-h h3{ font-size:16px; line-height:1.25; }
+  .cat ul{ list-style:none; color:var(--muted); font-size:14px; flex:1; }
+  .cat ul li{ padding:5px 0 5px 20px; position:relative; }
+  .cat ul li:before{ content:"›"; position:absolute; left:4px; color:var(--accent); font-weight:700; }
+  .cat .price{ margin-top:14px; color:var(--green); font-weight:700; font-size:14px; }
+
   .steps{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; counter-reset:s; }
   @media(max-width:780px){ .steps{ grid-template-columns:1fr; } }
   .step{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; position:relative; }
@@ -92,9 +106,10 @@
 <header><div class="wrap nav">
   <div class="brand"><span class="dot">🤖</span> AI Automation Studio</div>
   <nav class="links">
-    <a href="#offers">Services</a>
+    <a href="#offers">Demos</a>
+    <a href="#services">Services</a>
     <a href="#how">How it works</a>
-    <a href="https://t.me/cotsemen_lead_bot">Live demo</a>
+    <a href="https://t.me/cotsemen_lead_bot">Live bot</a>
   </nav>
 </div></header>
 
@@ -102,9 +117,9 @@
 
   <section class="hero">
     <h1>Custom AI bots & automation<br>for your business</h1>
-    <p>Telegram bots and AI chatbots that capture leads 24/7, answer in your
-       customer's own language, and never invent answers. Built fast, all in text —
-       no calls.</p>
+    <p>Bots, AI assistants trained on your data, automation, content and web —
+       built fast, all in text, no calls. From capturing leads 24/7 to answering
+       customers in any language without ever inventing facts.</p>
     <div class="cta">
       <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">💬 Try the live demo bot</a>
       <a class="btn btn-ghost" href="#offers">See what I build</a>
@@ -119,8 +134,8 @@
   </section>
 
   <section id="offers">
-    <h2 class="sec-title">What I build</h2>
-    <p class="sec-sub">Working examples — not slides. Try them live.</p>
+    <h2 class="sec-title">Featured — try them live</h2>
+    <p class="sec-sub">Working bots you can test right now, not slides.</p>
     <div class="offers">
       <div class="card">
         <div class="shot"><img src="assets/lead-bot.png" alt="Telegram lead-capture bot demo"></div>
@@ -151,6 +166,90 @@
         </div>
       </div>
     </div>
+  </section>
+
+  <section id="services">
+    <h2 class="sec-title">Everything we can build for you</h2>
+    <p class="sec-sub">Bots, AI assistants, automation, content and web — pick what moves your business.</p>
+    <div class="catalog">
+
+      <div class="cat">
+        <div class="cat-h"><span class="ic">🤖</span><h3>Chatbots &amp; messaging bots</h3></div>
+        <ul>
+          <li>Telegram lead-capture &amp; FAQ bots</li>
+          <li>WhatsApp / Instagram / Messenger bots</li>
+          <li>Discord &amp; Slack bots for teams &amp; communities</li>
+          <li>Booking &amp; appointment bots</li>
+          <li>Order &amp; delivery notification bots</li>
+        </ul>
+        <div class="price">from €60</div>
+      </div>
+
+      <div class="cat">
+        <div class="cat-h"><span class="ic">🧠</span><h3>AI assistants on your data</h3></div>
+        <ul>
+          <li>AI chatbot trained on your FAQ, prices &amp; docs</li>
+          <li>Website chat widget that answers 24/7</li>
+          <li>Internal assistant that searches company docs</li>
+          <li>Support auto-responder with human handoff</li>
+          <li>Multilingual answers in any language</li>
+        </ul>
+        <div class="price">from €100</div>
+      </div>
+
+      <div class="cat">
+        <div class="cat-h"><span class="ic">⚙️</span><h3>Automation &amp; integrations</h3></div>
+        <ul>
+          <li>Connect your tools: forms → Sheets → email → CRM</li>
+          <li>Auto-reply &amp; smart email routing</li>
+          <li>Scraping &amp; price / competitor monitoring</li>
+          <li>Scheduled reports &amp; alerts</li>
+          <li>Invoice / receipt processing (OCR + extraction)</li>
+        </ul>
+        <div class="price">from €80</div>
+      </div>
+
+      <div class="cat">
+        <div class="cat-h"><span class="ic">✍️</span><h3>AI content &amp; language</h3></div>
+        <ul>
+          <li>Blog, product &amp; SEO content generation</li>
+          <li>Social media posts + auto-scheduling</li>
+          <li>Translation &amp; localization</li>
+          <li>Email, offer &amp; proposal drafting</li>
+          <li>Document &amp; meeting summarization</li>
+        </ul>
+        <div class="price">from €40</div>
+      </div>
+
+      <div class="cat">
+        <div class="cat-h"><span class="ic">📊</span><h3>Data &amp; reports</h3></div>
+        <ul>
+          <li>CSV / Excel → insights &amp; charts</li>
+          <li>Automated dashboards</li>
+          <li>Lead enrichment &amp; list building</li>
+          <li>Review &amp; feedback analysis</li>
+          <li>Survey / form analysis</li>
+        </ul>
+        <div class="price">from €70</div>
+      </div>
+
+      <div class="cat">
+        <div class="cat-h"><span class="ic">🌐</span><h3>Web presence</h3></div>
+        <ul>
+          <li>Landing pages &amp; one-page sites</li>
+          <li>Portfolio / menu / catalog sites</li>
+          <li>Booking &amp; contact pages</li>
+          <li>Telegram channel setup + content automation</li>
+          <li>Email newsletter automation</li>
+        </ul>
+        <div class="price">from €90</div>
+      </div>
+
+    </div>
+    <p class="sec-sub" style="margin-top:26px;margin-bottom:0">
+      Don't see your exact need? <a href="https://t.me/cotsemen_lead_bot" style="color:#8aa0c8">Message the bot</a> —
+      if it can be done in text or code, we can probably build it.
+    </p>
   </section>
 
   <section>
