@@ -1,0 +1,25 @@
+# Defaults render a working deploy on the kotkan node (Oracle Cloud ARM64, k3s).
+# Woodpecker overrides `image` per build; Flux pins the chart version.
+
+image: git.oleks.space/oleks/ai-studio-site:latest
+imagePullPolicy: IfNotPresent
+
+imagePullSecrets:
+  - name: gitea-registry-creds
+
+nodeSelector:
+  kubernetes.io/hostname: kotkan
+
+# Subdomain this site answers on. Traefik ingress, same class as kotkanagrilli.
+ingress:
+  host: studio.kotkanagrilli.fi
+  className: kube-system-traefik
+
+replicas: 2          # stateless static — safe to run two for zero-downtime rollout
+
+resources:
+  requests:
+    cpu: 10m
+    memory: 24Mi
+  limits:
+    memory: 64Mi

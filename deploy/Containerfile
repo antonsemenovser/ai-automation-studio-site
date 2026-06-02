@@ -1,0 +1,18 @@
+# syntax=docker/dockerfile:1.7
+#
+# Static marketing site image for the kotkan k8s cluster (Oracle Cloud ARM64).
+# CI builds it --platform linux/arm64 (see deploy/.woodpecker.yaml); nginx
+# unprivileged is multi-arch and also builds/runs natively on amd64 for local
+# testing. Build context = the site root:
+#   docker build -f deploy/Containerfile -t ai-studio-site .
+#
+# nginx-unprivileged listens on :8080 and runs as a non-root user, so it works
+# under the cluster's runAsNonRoot policy with no extra config.
+
+FROM nginxinc/nginx-unprivileged:1.27-alpine
+
+# Static assets only — no .git, no deploy/.
+COPY index.html /usr/share/nginx/html/
+COPY assets/ /usr/share/nginx/html/assets/
+
+EXPOSE 8080

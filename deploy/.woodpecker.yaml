@@ -1,0 +1,93 @@
+# CI for the AI Automation Studio static site — mirrors the kotkanagrilli pipeline.
+#
+# Triggered by:
+#   - push to `staging`  -> tag = 0.0.<pipeline_number>
+#   - tag matching v*    -> tag = <stripped tag>
+#
+# Produces:
+#   - site image at git.oleks.space/oleks/ai-studio-site:<tag>
+#   - Helm chart  at git.oleks.space/oleks/charts/ai-studio-site:<tag>
+# Flux HelmRelease pinned to the chart version rolls it out; subdomain via Ingress.
+
+labels:
+  arch: arm64
+
+when:
+  - event: push
+    branch: staging
+  - event: tag
+    ref: refs/tags/v*
+
+clone:
+  - name: clone
+    image: woodpeckerci/plugin-git
+    environment:
+      CI_NETRC_MACHINE: git.oleks.space
+      CI_NETRC_USERNAME: oleks
+      CI_NETRC_PASSWORD:
+        from_secret: gitea_clone_token
+      PLUGIN_TAGS: "false"
+      PLUGIN_DEPTH: "1"
+
+steps:
+  - name: compute-tag
+    image: alpine:3
+    commands:
+      - |
+        if [ -n "$CI_COMMIT_TAG" ]; then
+          TAG="${CI_COMMIT_TAG#v}"
+        else
+          TAG="0.0.$CI_PIPELINE_NUMBER"
+        fi
+        printf 'export TAG=%s\n' "$TAG" > "$CI_WORKSPACE/.tag.env"
+        cat "$CI_WORKSPACE/.tag.env"
+    backend_options: &kube_arm64
+      kubernetes:
+        nodeSelector:
+          kubernetes.io/arch: arm64
+        labels:
+          commit-sha: "${CI_COMMIT_SHA}"
+          commit-branch: "${CI_COMMIT_BRANCH}"
+          pipeline-number: "${CI_PIPELINE_NUMBER}"
+
+  - name: build-image
+    image: docker:27-cli
+    environment:
+      REGISTRY_TOKEN:
+        from_secret: gitea_packages_token
+    commands:
+      - . "$CI_WORKSPACE/.tag.env"
+      - IMAGE="git.oleks.space/oleks/ai-studio-site"
+      - BUILDER_HOST="buildkit-rootless-arm64.infra.svc.cluster.local"
+      - BUILDER_PORT="1234"
+      - |
+        echo "Waiting for buildkit at $BUILDER_HOST:$BUILDER_PORT..."
+        for i in $(seq 1 30); do
+          if nc -z "$BUILDER_HOST" "$BUILDER_PORT" 2>/dev/null; then echo "Builder ready"; break; fi
+          [ "$i" -eq 30 ] && echo "Builder not available" && exit 1
+          sleep 10
+        done
+      - echo "$REGISTRY_TOKEN" | docker login git.oleks.space -u oleks --password-stdin
+      - docker buildx create --name studio-builder --driver remote "tcp://$BUILDER_HOST:$BUILDER_PORT"
+      - docker buildx build
+          --builder studio-builder
+          --platform linux/arm64
+          --file deploy/Containerfile
+          --tag "$IMAGE:$TAG"
+          --push
+          "$CI_WORKSPACE"
+    backend_options: *kube_arm64
+
+  - name: package-and-push-chart
+    image: alpine/helm:3.17.3
+    environment:
+      REGISTRY_TOKEN:
+        from_secret: gitea_packages_token
+    commands:
+      - apk add --no-cache yq
+      - . "$CI_WORKSPACE/.tag.env"
+      - yq -i ".image = \"git.oleks.space/oleks/ai-studio-site:$TAG\"" deploy/chart/values.yaml
+      - helm package deploy/chart --version "$TAG" --app-version "$TAG" --destination /tmp
+      - echo "$REGISTRY_TOKEN" | helm registry login git.oleks.space --username oleks --password-stdin
+      - helm push "/tmp/ai-studio-site-$TAG.tgz" oci://git.oleks.space/oleks/charts
+    backend_options: *kube_arm64
