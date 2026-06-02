@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Automation Studio — custom AI bots & automation for your business</title>
+<meta name="description" content="Custom Telegram bots, AI chatbots trained on your data, and business automation. 24/7 lead capture, multilingual, no hallucinations. From €60, delivered in 2–4 days.">
+<meta property="og:title" content="AI Automation Studio — custom AI bots for your business">
+<meta property="og:description" content="Telegram bots & AI chatbots that capture leads 24/7, answer in your customer's language, and never invent answers. From €60.">
+<meta property="og:type" content="website">
+<style>
+  :root{ --bg:#0b1120; --panel:#111c34; --panel2:#16223d; --line:#243049;
+         --accent:#6366f1; --accent2:#4f46e5; --text:#eef2f7; --muted:#93a4c0; --green:#5eba7d; }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html{ scroll-behavior:smooth; }
+  body{ font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+        background:var(--bg); color:var(--text); line-height:1.55; }
+  a{ color:inherit; text-decoration:none; }
+  .wrap{ max-width:1000px; margin:0 auto; padding:0 20px; }
+  .btn{ display:inline-block; padding:13px 22px; border-radius:12px; font-weight:600;
+        font-size:15px; cursor:pointer; transition:transform .08s ease, opacity .2s; }
+  .btn:hover{ transform:translateY(-1px); }
+  .btn-primary{ background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff; }
+  .btn-ghost{ background:#18233d; color:#cdd7ea; border:1px solid var(--line); }
+
+  header{ padding:18px 0; border-bottom:1px solid var(--line); position:sticky; top:0;
+          background:rgba(11,17,32,.85); backdrop-filter:blur(8px); z-index:10; }
+  .nav{ display:flex; align-items:center; justify-content:space-between; }
+  .brand{ font-weight:700; font-size:17px; display:flex; align-items:center; gap:9px; }
+  .brand .dot{ width:26px; height:26px; border-radius:8px; background:linear-gradient(135deg,#6366f1,#4f46e5);
+               display:flex; align-items:center; justify-content:center; font-size:15px; }
+  .nav .links{ display:flex; gap:22px; font-size:14px; color:var(--muted); }
+  .nav .links a:hover{ color:#fff; }
+  @media(max-width:680px){ .nav .links{ display:none; } }
+
+  .hero{ text-align:center; padding:72px 0 56px; }
+  .hero h1{ font-size:42px; line-height:1.15; font-weight:800; letter-spacing:-.02em;
+            background:linear-gradient(180deg,#fff,#b9c4dc); -webkit-background-clip:text;
+            background-clip:text; color:transparent; }
+  .hero p{ color:var(--muted); font-size:18px; max-width:640px; margin:18px auto 30px; }
+  .hero .cta{ display:flex; gap:12px; justify-content:center; flex-wrap:wrap; }
+  .chips{ display:flex; gap:9px; justify-content:center; flex-wrap:wrap; margin-top:34px; }
+  .chips span{ background:var(--panel); border:1px solid var(--line); color:#cbd5e1;
+               padding:7px 13px; border-radius:20px; font-size:13px; }
+  @media(max-width:680px){ .hero h1{ font-size:32px; } }
+
+  section{ padding:54px 0; }
+  .sec-title{ text-align:center; font-size:28px; font-weight:700; margin-bottom:8px; }
+  .sec-sub{ text-align:center; color:var(--muted); margin-bottom:38px; }
+
+  .offers{ display:grid; grid-template-columns:1fr 1fr; gap:22px; }
+  @media(max-width:780px){ .offers{ grid-template-columns:1fr; } }
+  .card{ background:var(--panel); border:1px solid var(--line); border-radius:18px;
+         overflow:hidden; display:flex; flex-direction:column; }
+  .card .shot{ background:var(--panel2); padding:16px; text-align:center; border-bottom:1px solid var(--line); }
+  .card .shot img{ max-width:100%; border-radius:10px; max-height:360px; }
+  .card .body{ padding:22px; flex:1; display:flex; flex-direction:column; }
+  .card h3{ font-size:20px; margin-bottom:6px; }
+  .card .price{ color:var(--green); font-weight:700; margin-bottom:12px; }
+  .card ul{ list-style:none; color:var(--muted); font-size:14px; margin-bottom:18px; }
+  .card ul li{ padding:4px 0 4px 22px; position:relative; }
+  .card ul li:before{ content:"✓"; position:absolute; left:0; color:var(--accent); }
+  .card .btn{ margin-top:auto; text-align:center; }
+
+  .features{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
+  @media(max-width:780px){ .features{ grid-template-columns:1fr; } }
+  .feat{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; }
+  .feat .ic{ font-size:24px; margin-bottom:10px; }
+  .feat h4{ font-size:16px; margin-bottom:5px; }
+  .feat p{ color:var(--muted); font-size:14px; }
+
+  .steps{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; counter-reset:s; }
+  @media(max-width:780px){ .steps{ grid-template-columns:1fr; } }
+  .step{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; position:relative; }
+  .step:before{ counter-increment:s; content:counter(s); position:absolute; top:-14px; left:20px;
+                width:30px; height:30px; border-radius:9px; background:var(--accent2); color:#fff;
+                display:flex; align-items:center; justify-content:center; font-weight:700; }
+  .step h4{ margin:10px 0 5px; font-size:16px; }
+  .step p{ color:var(--muted); font-size:14px; }
+
+  .final{ text-align:center; background:linear-gradient(135deg,#1a2342,#141d36);
+          border:1px solid var(--line); border-radius:20px; padding:48px 24px; }
+  .final h2{ font-size:30px; margin-bottom:10px; }
+  .final p{ color:var(--muted); margin-bottom:26px; }
+
+  footer{ text-align:center; color:#5b6b86; font-size:13px; padding:36px 0 50px; border-top:1px solid var(--line); margin-top:20px; }
+</style>
+</head>
+<body>
+<header><div class="wrap nav">
+  <div class="brand"><span class="dot">🤖</span> AI Automation Studio</div>
+  <nav class="links">
+    <a href="#offers">Services</a>
+    <a href="#how">How it works</a>
+    <a href="https://t.me/cotsemen_lead_bot">Live demo</a>
+  </nav>
+</div></header>
+
+<main class="wrap">
+
+  <section class="hero">
+    <h1>Custom AI bots & automation<br>for your business</h1>
+    <p>Telegram bots and AI chatbots that capture leads 24/7, answer in your
+       customer's own language, and never invent answers. Built fast, all in text —
+       no calls.</p>
+    <div class="cta">
+      <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">💬 Try the live demo bot</a>
+      <a class="btn btn-ghost" href="#offers">See what I build</a>
+    </div>
+    <div class="chips">
+      <span>🌍 Multilingual (EN/DE/RU/UK)</span>
+      <span>🛟 No hallucinations</span>
+      <span>⚡ 24/7</span>
+      <span>🚀 Ready in 2–4 days</span>
+      <span>💬 Text-based</span>
+    </div>
+  </section>
+
+  <section id="offers">
+    <h2 class="sec-title">What I build</h2>
+    <p class="sec-sub">Working examples — not slides. Try them live.</p>
+    <div class="offers">
+      <div class="card">
+        <div class="shot"><img src="assets/lead-bot.png" alt="Telegram lead-capture bot demo"></div>
+        <div class="body">
+          <h3>Telegram Lead-Capture Bot</h3>
+          <div class="price">from €60</div>
+          <ul>
+            <li>Captures every lead 24/7, even after hours</li>
+            <li>Auto-answers FAQs in the customer's language</li>
+            <li>Instantly notifies you about each new lead</li>
+            <li>Built-in mini-CRM (/leads, /stats)</li>
+          </ul>
+          <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">Try it live →</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="shot"><img src="assets/ai-chatbot.png" alt="AI chatbot trained on business data demo"></div>
+        <div class="body">
+          <h3>AI Chatbot on Your Data</h3>
+          <div class="price">from €100</div>
+          <ul>
+            <li>Answers strictly from your FAQ, prices &amp; policies</li>
+            <li>Replies in any language your customer writes in</li>
+            <li>Hands off to a human when unsure — never invents</li>
+            <li>Closes up to 80% of routine support questions</li>
+          </ul>
+          <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">Request this bot →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec-title">Why it works</h2>
+    <p class="sec-sub">The things a business actually cares about.</p>
+    <div class="features">
+      <div class="feat"><div class="ic">🌍</div><h4>Speaks your customer's language</h4><p>Auto-detects and replies in EN, DE, RU, UK — one bot, every visitor.</p></div>
+      <div class="feat"><div class="ic">🛟</div><h4>Never makes things up</h4><p>Answers only from your data; hands off to a human when it doesn't know.</p></div>
+      <div class="feat"><div class="ic">⚡</div><h4>Always on</h4><p>Captures and answers 24/7, so you never lose a lead to a slow reply.</p></div>
+      <div class="feat"><div class="ic">🚀</div><h4>Delivered in days</h4><p>A working bot in 2–4 days, with source code and a short guide.</p></div>
+      <div class="feat"><div class="ic">💬</div><h4>All in text</h4><p>Everything async and in writing — precise, with a clear record. No calls.</p></div>
+      <div class="feat"><div class="ic">🔧</div><h4>Yours to keep</h4><p>You get the source. Re-skin or extend it anytime.</p></div>
+    </div>
+  </section>
+
+  <section id="how">
+    <h2 class="sec-title">How it works</h2>
+    <p class="sec-sub">From idea to a working bot in three steps.</p>
+    <div class="steps">
+      <div class="step"><h4>1 · Tell me the task</h4><p>Message the bot or me with what you need. I sketch a solution for free.</p></div>
+      <div class="step"><h4>2 · I build it</h4><p>A working bot in 2–4 days, customised to your texts, branding and logic.</p></div>
+      <div class="step"><h4>3 · You go live</h4><p>I deploy it, hand over the source, and stay on for support.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="final">
+      <h2>Got a task to automate?</h2>
+      <p>Message the live bot — it'll take your request in your language. Free assessment, no calls.</p>
+      <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">💬 Message the bot</a>
+      &nbsp;
+      <a class="btn btn-ghost" href="https://t.me/ai_bots_for_business">📢 Follow the channel</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  AI Automation Studio · custom AI bots &amp; automation ·
+  <a href="https://t.me/cotsemen_lead_bot" style="color:#8aa0c8">@cotsemen_lead_bot</a>
+</footer>
+</body>
+</html>
