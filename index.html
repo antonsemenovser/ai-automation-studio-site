@@ -1,10 +1,9 @@
 <!doctype html>
-<html lang="en" translate="no">
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="google" content="notranslate">
 <meta http-equiv="Content-Language" content="en">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>AI Automation Studio — custom AI bots & automation for your business</title>
 <meta name="description" content="Custom Telegram bots, AI chatbots trained on your data, and business automation. 24/7 lead capture, multilingual, no hallucinations. From €60, delivered in 2–4 days.">
 <meta property="og:title" content="AI Automation Studio — custom AI bots for your business">
@@ -14,28 +13,41 @@
   :root{ --bg:#0b1120; --panel:#111c34; --panel2:#16223d; --line:#243049;
          --accent:#6366f1; --accent2:#4f46e5; --text:#eef2f7; --muted:#93a4c0; --green:#5eba7d; }
   *{ box-sizing:border-box; margin:0; padding:0; }
-  html{ scroll-behavior:smooth; }
+  html{ scroll-behavior:smooth; -webkit-text-size-adjust:100%; }
   body{ font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-        background:var(--bg); color:var(--text); line-height:1.55; }
+        background:var(--bg); color:var(--text); line-height:1.55;
+        overflow-x:hidden; }
   a{ color:inherit; text-decoration:none; }
+  img{ max-width:100%; height:auto; }
   .wrap{ max-width:1000px; margin:0 auto; padding:0 20px; }
-  .btn{ display:inline-block; padding:13px 22px; border-radius:12px; font-weight:600;
+  .btn{ display:inline-block; padding:14px 22px; border-radius:12px; font-weight:600;
         font-size:15px; cursor:pointer; transition:transform .08s ease, opacity .2s; }
   .btn:hover{ transform:translateY(-1px); }
   .btn-primary{ background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff; }
   .btn-ghost{ background:#18233d; color:#cdd7ea; border:1px solid var(--line); }
 
-  header{ padding:18px 0; border-bottom:1px solid var(--line); position:sticky; top:0;
-          background:rgba(11,17,32,.85); backdrop-filter:blur(8px); z-index:10; }
-  .nav{ display:flex; align-items:center; justify-content:space-between; }
+  header{ padding:14px 0; border-bottom:1px solid var(--line); position:sticky; top:0;
+          background:rgba(11,17,32,.92); backdrop-filter:blur(8px); z-index:10; }
+  .nav{ display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; }
   .brand{ font-weight:700; font-size:17px; display:flex; align-items:center; gap:9px; }
   .brand .dot{ width:26px; height:26px; border-radius:8px; background:linear-gradient(135deg,#6366f1,#4f46e5);
-               display:flex; align-items:center; justify-content:center; font-size:15px; }
-  .nav .links{ display:flex; gap:22px; font-size:14px; color:var(--muted); }
+               display:flex; align-items:center; justify-content:center; font-size:15px; flex:0 0 auto; }
+  .nav-right{ display:flex; align-items:center; gap:16px; }
+  .nav .links{ display:flex; gap:20px; font-size:14px; color:var(--muted); }
   .nav .links a:hover{ color:#fff; }
   @media(max-width:680px){ .nav .links{ display:none; } }
 
-  .hero{ text-align:center; padding:72px 0 56px; }
+  /* language switcher */
+  .lang{ position:relative; display:flex; align-items:center; }
+  .lang select{ -webkit-appearance:none; appearance:none; cursor:pointer;
+                background:#18233d; color:#dbe4f5; border:1px solid var(--line);
+                border-radius:11px; padding:9px 34px 9px 34px; font-size:14px; font-weight:600;
+                max-width:160px; }
+  .lang:before{ content:"🌐"; position:absolute; left:11px; font-size:14px; pointer-events:none; }
+  .lang:after{ content:"▾"; position:absolute; right:13px; color:var(--muted); pointer-events:none; }
+  .lang select:focus{ outline:none; border-color:var(--accent); }
+
+  .hero{ text-align:center; padding:64px 0 50px; }
   .hero h1{ font-size:42px; line-height:1.15; font-weight:800; letter-spacing:-.02em;
             background:linear-gradient(180deg,#fff,#b9c4dc); -webkit-background-clip:text;
             background-clip:text; color:transparent; }
@@ -44,11 +56,17 @@
   .chips{ display:flex; gap:9px; justify-content:center; flex-wrap:wrap; margin-top:34px; }
   .chips span{ background:var(--panel); border:1px solid var(--line); color:#cbd5e1;
                padding:7px 13px; border-radius:20px; font-size:13px; }
-  @media(max-width:680px){ .hero h1{ font-size:32px; } }
+  @media(max-width:680px){
+    .hero{ padding:40px 0 36px; }
+    .hero h1{ font-size:30px; }
+    .hero p{ font-size:16px; }
+    .hero .cta .btn{ width:100%; }
+  }
 
-  section{ padding:54px 0; }
+  section{ padding:48px 0; }
   .sec-title{ text-align:center; font-size:28px; font-weight:700; margin-bottom:8px; }
-  .sec-sub{ text-align:center; color:var(--muted); margin-bottom:38px; }
+  .sec-sub{ text-align:center; color:var(--muted); margin-bottom:34px; }
+  @media(max-width:680px){ section{ padding:36px 0; } .sec-title{ font-size:23px; } }
 
   .offers{ display:grid; grid-template-columns:repeat(3,1fr); gap:22px; }
   @media(max-width:880px){ .offers{ grid-template-columns:1fr; max-width:440px; margin:0 auto; } }
@@ -98,19 +116,84 @@
           border:1px solid var(--line); border-radius:20px; padding:48px 24px; }
   .final h2{ font-size:30px; margin-bottom:10px; }
   .final p{ color:var(--muted); margin-bottom:26px; }
+  .final .btn{ margin:6px; }
+  @media(max-width:680px){ .final{ padding:36px 18px; } .final h2{ font-size:24px; } .final .btn{ width:100%; } }
 
   footer{ text-align:center; color:#5b6b86; font-size:13px; padding:36px 0 50px; border-top:1px solid var(--line); margin-top:20px; }
+
+  /* hide Google Translate chrome (banner / tooltip / body shift) */
+  .goog-te-banner-frame, .goog-te-gadget, #google_translate_element{ display:none !important; }
+  .goog-tooltip, .goog-tooltip:hover{ display:none !important; }
+  .goog-text-highlight{ background:none !important; box-shadow:none !important; }
+  body{ top:0 !important; position:static !important; }
 </style>
 </head>
 <body>
 <header><div class="wrap nav">
   <div class="brand"><span class="dot">🤖</span> AI Automation Studio</div>
-  <nav class="links">
-    <a href="#offers">Demos</a>
-    <a href="#services">Services</a>
-    <a href="#how">How it works</a>
-    <a href="https://t.me/cotsemen_lead_bot">Live bot</a>
-  </nav>
+  <div class="nav-right">
+    <nav class="links">
+      <a href="#offers">Demos</a>
+      <a href="#services">Services</a>
+      <a href="#how">How it works</a>
+    </nav>
+    <div class="lang">
+      <select id="langSelect" aria-label="Choose language" onchange="doGTranslate(this.value)">
+        <option value="en">English</option>
+        <optgroup label="Europe">
+          <option value="de">Deutsch — German</option>
+          <option value="fr">Français — French</option>
+          <option value="es">Español — Spanish</option>
+          <option value="it">Italiano — Italian</option>
+          <option value="pt">Português — Portuguese</option>
+          <option value="nl">Nederlands — Dutch</option>
+          <option value="pl">Polski — Polish</option>
+          <option value="sv">Svenska — Swedish</option>
+          <option value="fi">Suomi — Finnish</option>
+          <option value="da">Dansk — Danish</option>
+          <option value="no">Norsk — Norwegian</option>
+          <option value="is">Íslenska — Icelandic</option>
+          <option value="ru">Русский — Russian</option>
+          <option value="uk">Українська — Ukrainian</option>
+          <option value="be">Беларуская — Belarusian</option>
+          <option value="cs">Čeština — Czech</option>
+          <option value="sk">Slovenčina — Slovak</option>
+          <option value="hu">Magyar — Hungarian</option>
+          <option value="ro">Română — Romanian</option>
+          <option value="bg">Български — Bulgarian</option>
+          <option value="el">Ελληνικά — Greek</option>
+          <option value="hr">Hrvatski — Croatian</option>
+          <option value="sr">Српски — Serbian</option>
+          <option value="sl">Slovenščina — Slovenian</option>
+          <option value="bs">Bosanski — Bosnian</option>
+          <option value="mk">Македонски — Macedonian</option>
+          <option value="sq">Shqip — Albanian</option>
+          <option value="lt">Lietuvių — Lithuanian</option>
+          <option value="lv">Latviešu — Latvian</option>
+          <option value="et">Eesti — Estonian</option>
+          <option value="ga">Gaeilge — Irish</option>
+          <option value="mt">Malti — Maltese</option>
+          <option value="ca">Català — Catalan</option>
+          <option value="eu">Euskara — Basque</option>
+          <option value="gl">Galego — Galician</option>
+          <option value="cy">Cymraeg — Welsh</option>
+          <option value="lb">Lëtzebuergesch — Luxembourgish</option>
+          <option value="tr">Türkçe — Turkish</option>
+        </optgroup>
+        <optgroup label="World">
+          <option value="ar">العربية — Arabic</option>
+          <option value="he">עברית — Hebrew</option>
+          <option value="zh-CN">中文 — Chinese</option>
+          <option value="ja">日本語 — Japanese</option>
+          <option value="ko">한국어 — Korean</option>
+          <option value="hi">हिन्दी — Hindi</option>
+          <option value="id">Bahasa Indonesia</option>
+          <option value="vi">Tiếng Việt — Vietnamese</option>
+          <option value="th">ไทย — Thai</option>
+        </optgroup>
+      </select>
+    </div>
+  </div>
 </div></header>
 
 <main class="wrap">
@@ -125,7 +208,7 @@
       <a class="btn btn-ghost" href="#offers">See what I build</a>
     </div>
     <div class="chips">
-      <span>🌍 Multilingual (EN/DE/RU/UK)</span>
+      <span>🌍 Any language</span>
       <span>🛟 No hallucinations</span>
       <span>⚡ 24/7</span>
       <span>🚀 Ready in 2–4 days</span>
@@ -270,7 +353,7 @@
     <h2 class="sec-title">Why it works</h2>
     <p class="sec-sub">The things a business actually cares about.</p>
     <div class="features">
-      <div class="feat"><div class="ic">🌍</div><h4>Speaks your customer's language</h4><p>Auto-detects and replies in EN, DE, RU, UK — one bot, every visitor.</p></div>
+      <div class="feat"><div class="ic">🌍</div><h4>Speaks your customer's language</h4><p>Auto-detects and replies in the visitor's own language — one bot, every visitor.</p></div>
       <div class="feat"><div class="ic">🛟</div><h4>Never makes things up</h4><p>Answers only from your data; hands off to a human when it doesn't know.</p></div>
       <div class="feat"><div class="ic">⚡</div><h4>Always on</h4><p>Captures and answers 24/7, so you never lose a lead to a slow reply.</p></div>
       <div class="feat"><div class="ic">🚀</div><h4>Delivered in days</h4><p>A working bot in 2–4 days, with source code and a short guide.</p></div>
@@ -294,7 +377,6 @@
       <h2>Got a task to automate?</h2>
       <p>Message the live bot — it'll take your request in your language. Free assessment, no calls.</p>
       <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">💬 Message the bot</a>
-      &nbsp;
       <a class="btn btn-ghost" href="https://t.me/ai_bots_for_business">📢 Follow the channel</a>
     </div>
   </section>
@@ -305,5 +387,52 @@
   AI Automation Studio · custom AI bots &amp; automation ·
   <a href="https://t.me/cotsemen_lead_bot" style="color:#8aa0c8">@cotsemen_lead_bot</a>
 </footer>
+
+<!-- language engine: hidden Google Translate, driven by our own dropdown -->
+<div id="google_translate_element"></div>
+<script>
+  function googleTranslateElementInit(){
+    new google.translate.TranslateElement(
+      { pageLanguage:'en', autoDisplay:false }, 'google_translate_element');
+  }
+  function setCookie(name, value){
+    document.cookie = name+'='+value+'; path=/';
+    try{
+      var h = location.hostname;
+      document.cookie = name+'='+value+'; path=/; domain=.'+h;
+    }catch(e){}
+  }
+  function doGTranslate(lang){
+    if(!lang){ return; }
+    localStorage.setItem('site_lang', lang);
+    if(lang === 'en'){
+      // back to source: clear translate cookie and reload clean
+      setCookie('googtrans', '');
+      location.reload();
+      return;
+    }
+    setCookie('googtrans', '/en/'+lang);
+    (function fire(tries){
+      var c = document.querySelector('.goog-te-combo');
+      if(c){ c.value = lang; c.dispatchEvent(new Event('change')); }
+      else if(tries < 25){ setTimeout(function(){ fire(tries+1); }, 250); }
+      else { location.reload(); }
+    })(0);
+  }
+  // restore the visitor's last choice + sync the dropdown
+  (function(){
+    var saved = localStorage.getItem('site_lang');
+    if(saved && saved !== 'en'){
+      var apply = function(){
+        var sel = document.getElementById('langSelect');
+        if(sel){ sel.value = saved; }
+        doGTranslate(saved);
+      };
+      if(document.readyState !== 'loading'){ apply(); }
+      else { document.addEventListener('DOMContentLoaded', apply); }
+    }
+  })();
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html>
