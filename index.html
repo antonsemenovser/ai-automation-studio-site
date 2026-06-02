@@ -50,8 +50,8 @@
   .sec-title{ text-align:center; font-size:28px; font-weight:700; margin-bottom:8px; }
   .sec-sub{ text-align:center; color:var(--muted); margin-bottom:38px; }
 
-  .offers{ display:grid; grid-template-columns:1fr 1fr; gap:22px; }
-  @media(max-width:780px){ .offers{ grid-template-columns:1fr; } }
+  .offers{ display:grid; grid-template-columns:repeat(3,1fr); gap:22px; }
+  @media(max-width:880px){ .offers{ grid-template-columns:1fr; max-width:440px; margin:0 auto; } }
   .card{ background:var(--panel); border:1px solid var(--line); border-radius:18px;
          overflow:hidden; display:flex; flex-direction:column; }
   .card .shot{ background:var(--panel2); padding:16px; text-align:center; border-bottom:1px solid var(--line); }
@@ -163,6 +163,20 @@
             <li>Closes up to 80% of routine support questions</li>
           </ul>
           <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">Request this bot →</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="shot"><img src="assets/automation.png" alt="Automated daily report delivered to Telegram"></div>
+        <div class="body">
+          <h3>Automated Daily Report</h3>
+          <div class="price">from €80</div>
+          <ul>
+            <li>Turns your raw data into a morning briefing</li>
+            <li>KPIs, trends &amp; top performers, auto-calculated</li>
+            <li>Plain-language AI summary — no spreadsheets</li>
+            <li>Delivered to Telegram on a schedule</li>
+          </ul>
+          <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot">Automate my reports →</a>
         </div>
       </div>
     </div>
