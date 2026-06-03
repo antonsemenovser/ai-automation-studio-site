@@ -162,6 +162,19 @@
   .vbody .m .src{ color:#9fb0d0; font-weight:600; }
   .feed-updated{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:20px; }
 
+  /* in-page video player (lightbox) — keeps the visitor on the site */
+  .vmodal{ position:fixed; inset:0; background:rgba(4,7,14,.86); backdrop-filter:blur(3px);
+           display:none; align-items:center; justify-content:center; z-index:60; padding:20px; }
+  .vmodal.open{ display:flex; }
+  .vmodal-box{ width:min(920px,100%); position:relative; }
+  .vmodal-frame{ position:relative; aspect-ratio:16/9; background:#000; border-radius:14px;
+                 overflow:hidden; box-shadow:0 30px 80px rgba(0,0,0,.6); }
+  .vmodal-frame iframe{ position:absolute; inset:0; width:100%; height:100%; border:0; }
+  .vmodal-x{ position:absolute; top:-46px; right:0; width:38px; height:38px; border-radius:50%;
+             background:#1b2949; border:1px solid var(--line); color:#fff; font-size:20px; cursor:pointer;
+             display:flex; align-items:center; justify-content:center; }
+  .vmodal-x:hover{ background:#26365c; }
+
   .features{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
   @media(max-width:780px){ .features{ grid-template-columns:1fr; } }
   .feat{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px;
@@ -538,16 +551,36 @@
   })();
 </script>
 
-<!-- live video feed: pull feed.json (auto-updated by automation/site_feed.py) -->
+<!-- in-page video player -->
+<div class="vmodal" id="vmodal" role="dialog" aria-modal="true">
+  <div class="vmodal-box">
+    <button class="vmodal-x" id="vmodalX" aria-label="Close">×</button>
+    <div class="vmodal-frame" id="vmodalFrame"></div>
+  </div>
+</div>
+
+<!-- live video feed: pull feed.json (auto-updated by automation/site_feed.py); click = play in-page -->
 <script>
   (function(){
     var grid=document.getElementById('feedGrid'); if(!grid) return;
+    var modal=document.getElementById('vmodal'), frame=document.getElementById('vmodalFrame');
     function esc(s){ return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+    function openVid(em){ if(!modal||!frame||!em) return;
+      frame.innerHTML='<iframe src="'+em+'?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
+      modal.classList.add('open'); document.body.style.overflow='hidden'; }
+    function closeVid(){ if(!modal||!frame) return; modal.classList.remove('open'); frame.innerHTML=''; document.body.style.overflow=''; }
+    if(modal){
+      grid.addEventListener('click',function(ev){ var c=ev.target.closest('.vcard'); if(!c) return;
+        var em=c.getAttribute('data-embed'); if(!em) return; ev.preventDefault(); openVid(em); });
+      modal.addEventListener('click',function(ev){ if(ev.target===modal) closeVid(); });
+      var x=document.getElementById('vmodalX'); if(x) x.addEventListener('click',closeVid);
+      document.addEventListener('keydown',function(ev){ if(ev.key==='Escape') closeVid(); });
+    }
     fetch('https://antonsemenovser.github.io/ai-automation-studio-site/feed.json?cb='+Date.now()).then(function(r){ return r.json(); }).then(function(d){
       var items=(d&&d.items)||[];
       if(!items.length){ var s=document.getElementById('feed'); if(s) s.style.display='none'; return; }
       grid.innerHTML=items.map(function(it){
-        return '<a class="vcard" href="'+esc(it.url)+'" target="_blank" rel="noopener">'
+        return '<a class="vcard" href="'+esc(it.url)+'" target="_blank" rel="noopener" data-embed="'+esc(it.embed)+'">'
           +'<div class="vthumb"><img loading="lazy" src="'+esc(it.thumb)+'" alt=""><div class="play"><span>▶</span></div></div>'
           +'<div class="vbody"><div class="t">'+esc(it.title)+'</div>'
           +'<div class="m"><span class="src">'+esc(it.source)+'</span><span>· '+esc(it.published)+'</span></div></div></a>';
