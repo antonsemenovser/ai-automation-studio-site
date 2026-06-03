@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-03 13:35 UTC",
-  "count": 12,
+  "updated": "2026-06-03 14:07 UTC",
+  "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "thumb": "",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "thumb": "",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "thumb": "",
+      "published": "2026-06-02"
+    },
     {
       "kind": "video",
       "id": "J3JyVL6Jld0",
@@ -10,6 +64,15 @@
       "url": "https://www.youtube.com/watch?v=J3JyVL6Jld0",
       "embed": "https://www.youtube.com/embed/J3JyVL6Jld0",
       "thumb": "https://i.ytimg.com/vi/J3JyVL6Jld0/hqdefault.jpg",
+      "published": "2026-06-02"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-02"
     },
     {
@@ -71,56 +134,6 @@
       "embed": "https://www.youtube.com/embed/7TG78vIYI-Q",
       "thumb": "https://i.ytimg.com/vi/7TG78vIYI-Q/hqdefault.jpg",
       "published": "2026-05-29"
-    },
-    {
-      "kind": "video",
-      "id": "WjafiTfvp0Q",
-      "title": "n8n Community Livestream: Women+ in Automation, Community Challenge & n8n Fest",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=WjafiTfvp0Q",
-      "embed": "https://www.youtube.com/embed/WjafiTfvp0Q",
-      "thumb": "https://i.ytimg.com/vi/WjafiTfvp0Q/hqdefault.jpg",
-      "published": "2026-05-29"
-    },
-    {
-      "kind": "video",
-      "id": "4n_pxHZfTC8",
-      "title": "OPUS 4.8!!! (also maybe GPT5.6??)",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
-      "embed": "https://www.youtube.com/embed/4n_pxHZfTC8",
-      "thumb": "https://i.ytimg.com/vi/4n_pxHZfTC8/hqdefault.jpg",
-      "published": "2026-05-28"
-    },
-    {
-      "kind": "video",
-      "id": "FXtjGGAazT0",
-      "title": "Claude's Workflows Actually Work Now | MCP Live Build",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=FXtjGGAazT0",
-      "embed": "https://www.youtube.com/embed/FXtjGGAazT0",
-      "thumb": "https://i.ytimg.com/vi/FXtjGGAazT0/hqdefault.jpg",
-      "published": "2026-05-28"
-    },
-    {
-      "kind": "video",
-      "id": "xjarVOaUz3k",
-      "title": "DeepMind's CTO Explains Their Invisible \"AI Watermark\"",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=xjarVOaUz3k",
-      "embed": "https://www.youtube.com/embed/xjarVOaUz3k",
-      "thumb": "https://i.ytimg.com/vi/xjarVOaUz3k/hqdefault.jpg",
-      "published": "2026-05-26"
-    },
-    {
-      "kind": "video",
-      "id": "x9koDy1LxJI",
-      "title": "Testei 50+ ferramentas de IA em 2026",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=x9koDy1LxJI",
-      "embed": "https://www.youtube.com/embed/x9koDy1LxJI",
-      "thumb": "https://i.ytimg.com/vi/x9koDy1LxJI/hqdefault.jpg",
-      "published": "2026-05-26"
     }
   ]
 }

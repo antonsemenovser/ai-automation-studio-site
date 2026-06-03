@@ -155,6 +155,12 @@
   .vcard:hover .vthumb .play{ opacity:1; }
   .vthumb .play span{ width:52px; height:52px; border-radius:50%; background:rgba(99,102,241,.95);
                  display:flex; align-items:center; justify-content:center; font-size:19px; color:#fff; padding-left:3px; }
+  .vthumb .vtag{ position:absolute; top:10px; left:10px; background:rgba(8,12,24,.8);
+                 border:1px solid var(--line); color:#cbd5e1; font-size:11px; font-weight:600;
+                 padding:4px 9px; border-radius:20px; }
+  .vph{ position:absolute; inset:0; display:flex; align-items:center; justify-content:center; text-align:center;
+        padding:16px; background:radial-gradient(120% 100% at 50% 0%,#1b2949,#0e1730);
+        color:#9fb0d0; font-weight:700; font-size:15px; }
   .vbody{ padding:14px 15px 16px; display:flex; flex-direction:column; gap:9px; flex:1; }
   .vbody .t{ font-size:14.5px; font-weight:600; line-height:1.35; display:-webkit-box;
              -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
@@ -394,8 +400,8 @@
 
   <section id="feed">
     <h2 class="sec-title">Fresh in AI &amp; automation</h2>
-    <p class="sec-sub">Hand-picked videos worth your time — auto-updated daily by our own bots,
-       fresh and straight from the source. A taste of the automation we build.</p>
+    <p class="sec-sub">Fresh videos &amp; news worth your time — auto-updated daily by our own bots,
+       straight from the source. A taste of the automation we build.</p>
     <div class="feed" id="feedGrid"></div>
     <p class="feed-updated" id="feedUpdated"></p>
   </section>
@@ -580,8 +586,12 @@
       var items=(d&&d.items)||[];
       if(!items.length){ var s=document.getElementById('feed'); if(s) s.style.display='none'; return; }
       grid.innerHTML=items.map(function(it){
-        return '<a class="vcard" href="'+esc(it.url)+'" target="_blank" rel="noopener" data-embed="'+esc(it.embed)+'">'
-          +'<div class="vthumb"><img loading="lazy" src="'+esc(it.thumb)+'" alt=""><div class="play"><span>▶</span></div></div>'
+        var isVideo = it.kind==='video';
+        var thumb = it.thumb ? '<img loading="lazy" src="'+esc(it.thumb)+'" alt="">' : '<div class="vph">'+esc(it.source)+'</div>';
+        var overlay = isVideo ? '<div class="play"><span>▶</span></div>' : '<div class="vtag">📰 News</div>';
+        var extra = isVideo ? (' data-embed="'+esc(it.embed)+'"') : '';
+        return '<a class="vcard" href="'+esc(it.url)+'" target="_blank" rel="noopener"'+extra+'>'
+          +'<div class="vthumb">'+thumb+overlay+'</div>'
           +'<div class="vbody"><div class="t">'+esc(it.title)+'</div>'
           +'<div class="m"><span class="src">'+esc(it.source)+'</span><span>· '+esc(it.published)+'</span></div></div></a>';
       }).join('');
