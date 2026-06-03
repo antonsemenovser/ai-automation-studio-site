@@ -37,7 +37,7 @@
   a{ color:inherit; text-decoration:none; }
   img{ max-width:100%; height:auto; }
   section[id]{ scroll-margin-top:78px; }
-  .wrap{ max-width:1240px; margin:0 auto; padding:0 24px; }
+  .wrap{ max-width:1300px; margin:0 auto; padding:0 24px; }
   @media(max-width:680px){ .wrap{ padding:0 16px; } }
   .btn{ display:inline-block; padding:14px 24px; border-radius:12px; font-weight:600;
         font-size:15px; cursor:pointer; transition:transform .12s ease, box-shadow .2s, opacity .2s; }
@@ -164,11 +164,15 @@
         color:#9fb0d0; font-weight:700; font-size:15px; }
 
   /* 3-column layout: news rails flank the central video grid */
-  .feed-layout{ display:grid; grid-template-columns:minmax(0,1fr) minmax(0,2.1fr) minmax(0,1fr); gap:18px; align-items:start; }
-  .feed-layout .feed{ grid-template-columns:repeat(2,1fr); }
-  .news-rail{ display:flex; flex-direction:column; gap:14px; }
-  .news-rail .rail-h{ font-size:12px; font-weight:700; letter-spacing:.04em; text-transform:uppercase;
-                      color:var(--muted); padding:0 2px 2px; }
+  .feed-layout{ display:grid; grid-template-columns:minmax(0,1fr) minmax(0,2.2fr) minmax(0,1fr); gap:20px; align-items:start;
+                position:relative; left:50%; transform:translateX(-50%); width:min(95vw,1560px); }
+  .feed-center{ padding:18px 22px 22px; border:1px solid var(--line); border-radius:16px;
+                background:linear-gradient(180deg,rgba(255,255,255,.025),rgba(255,255,255,0)); }
+  .feed-center .feed{ grid-template-columns:repeat(2,1fr); }
+  .news-rail{ display:flex; flex-direction:column; gap:14px; padding:0; }
+  .rail-h{ font-size:12px; font-weight:700; letter-spacing:.05em; text-transform:uppercase;
+           color:var(--muted); padding:0 2px 13px; }
+  .center-h{ color:#aab8d6; }
   .nrail-card{ background:var(--panel); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:block;
                transition:transform .16s ease, border-color .2s ease, box-shadow .2s ease; }
   .nrail-card:hover{ transform:translateY(-2px); border-color:#3a4a73; box-shadow:var(--shadow); }
@@ -181,14 +185,14 @@
                    -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
   .nrail-card .nm{ font-size:11.5px; color:var(--muted); margin-top:7px; }
   @media(max-width:980px){
-    .feed-layout{ grid-template-columns:1fr; }
-    .feed-layout .feed{ order:-1; }
-    .news-rail{ flex-direction:row; flex-wrap:wrap; }
+    .feed-layout{ grid-template-columns:1fr; left:auto; transform:none; width:auto; gap:26px; }
+    .feed-center{ order:-1; border:0; padding:0; background:none; }
+    .news-rail{ flex-direction:row; flex-wrap:wrap; padding:0; }
     .news-rail .rail-h{ flex-basis:100%; }
     .news-rail .nrail-card{ flex:1 1 calc(50% - 7px); }
   }
   @media(max-width:560px){
-    .feed-layout .feed{ grid-template-columns:1fr; }
+    .feed-center .feed{ grid-template-columns:1fr; }
     .news-rail .nrail-card{ flex-basis:100%; }
   }
   .vbody{ padding:14px 15px 16px; display:flex; flex-direction:column; gap:9px; flex:1; }
@@ -434,7 +438,10 @@
        by our own bots, straight from the source. A taste of the automation we build.</p>
     <div class="feed-layout">
       <aside class="news-rail" id="newsLeft" aria-label="Latest AI news"></aside>
-      <div class="feed" id="feedGrid"></div>
+      <div class="feed-center">
+        <div class="rail-h center-h">🎬 Fresh videos</div>
+        <div class="feed" id="feedGrid"></div>
+      </div>
       <aside class="news-rail" id="newsRight" aria-label="Latest AI news"></aside>
     </div>
     <p class="feed-updated" id="feedUpdated"></p>
