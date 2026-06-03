@@ -543,7 +543,7 @@
   (function(){
     var grid=document.getElementById('feedGrid'); if(!grid) return;
     function esc(s){ return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
-    fetch('feed.json?cb='+Date.now()).then(function(r){ return r.json(); }).then(function(d){
+    fetch('https://antonsemenovser.github.io/ai-automation-studio-site/feed.json?cb='+Date.now()).then(function(r){ return r.json(); }).then(function(d){
       var items=(d&&d.items)||[];
       if(!items.length){ var s=document.getElementById('feed'); if(s) s.style.display='none'; return; }
       grid.innerHTML=items.map(function(it){
