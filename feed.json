@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-03 14:07 UTC",
+  "updated": "2026-06-03 14:15 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-03"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
@@ -18,15 +27,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "thumb": "",
-      "published": "2026-06-03"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-03"
     },
     {
