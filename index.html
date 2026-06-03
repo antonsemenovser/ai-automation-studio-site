@@ -9,22 +9,43 @@
 <meta property="og:title" content="AI Automation Studio — custom AI bots for your business">
 <meta property="og:description" content="Telegram bots & AI chatbots that capture leads 24/7, answer in your customer's language, and never invent answers. From €150 — quoted to your scope.">
 <meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%236366f1'/><stop offset='1' stop-color='%234f46e5'/></linearGradient></defs><rect width='64' height='64' rx='16' fill='url(%23g)'/><text x='32' y='44' font-family='Arial,Helvetica,sans-serif' font-size='30' font-weight='700' fill='white' text-anchor='middle'>AI</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
-  :root{ --bg:#0b1120; --panel:#111c34; --panel2:#16223d; --line:#243049;
-         --accent:#6366f1; --accent2:#4f46e5; --text:#eef2f7; --muted:#93a4c0; --green:#5eba7d; }
+  :root{ --bg:#0a0f1e; --panel:#111c34; --panel2:#16223d; --line:#243049;
+         --accent:#6366f1; --accent2:#4f46e5; --accent3:#22d3ee; --text:#eef2f7; --muted:#93a4c0; --green:#5eba7d;
+         --shadow:0 18px 40px rgba(0,0,0,.42); }
   *{ box-sizing:border-box; margin:0; padding:0; }
   html{ scroll-behavior:smooth; -webkit-text-size-adjust:100%; }
-  body{ font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  body{ font-family:'Inter',-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
         background:var(--bg); color:var(--text); line-height:1.55;
-        overflow-x:hidden; }
+        overflow-x:hidden; -webkit-font-smoothing:antialiased; }
+  /* ambient background glow + faint grid — gives the page depth like a real SaaS site */
+  body:before{ content:""; position:fixed; inset:0; z-index:-2; pointer-events:none;
+        background:
+          radial-gradient(58% 44% at 50% -8%, rgba(99,102,241,.22), transparent 72%),
+          radial-gradient(40% 30% at 88% 6%, rgba(34,211,238,.10), transparent 70%),
+          radial-gradient(45% 35% at 10% 12%, rgba(79,70,229,.12), transparent 72%); }
+  body:after{ content:""; position:fixed; inset:0; z-index:-2; pointer-events:none; opacity:.5;
+        background-image:linear-gradient(rgba(255,255,255,.025) 1px,transparent 1px),
+                         linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);
+        background-size:46px 46px;
+        -webkit-mask-image:radial-gradient(70% 55% at 50% 0%,#000,transparent 75%);
+        mask-image:radial-gradient(70% 55% at 50% 0%,#000,transparent 75%); }
   a{ color:inherit; text-decoration:none; }
   img{ max-width:100%; height:auto; }
+  section[id]{ scroll-margin-top:78px; }
   .wrap{ max-width:1000px; margin:0 auto; padding:0 20px; }
-  .btn{ display:inline-block; padding:14px 22px; border-radius:12px; font-weight:600;
-        font-size:15px; cursor:pointer; transition:transform .08s ease, opacity .2s; }
-  .btn:hover{ transform:translateY(-1px); }
-  .btn-primary{ background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff; }
-  .btn-ghost{ background:#18233d; color:#cdd7ea; border:1px solid var(--line); }
+  .btn{ display:inline-block; padding:14px 24px; border-radius:12px; font-weight:600;
+        font-size:15px; cursor:pointer; transition:transform .12s ease, box-shadow .2s, opacity .2s; }
+  .btn:hover{ transform:translateY(-2px); }
+  .btn-primary{ background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff;
+        box-shadow:0 10px 26px rgba(79,70,229,.42); }
+  .btn-primary:hover{ box-shadow:0 14px 34px rgba(99,102,241,.55); }
+  .btn-ghost{ background:rgba(24,35,61,.7); color:#cdd7ea; border:1px solid var(--line); }
+  .btn-ghost:hover{ border-color:#3a4a73; background:#1d2a49; }
 
   header{ padding:14px 0; border-bottom:1px solid var(--line); position:sticky; top:0;
           background:rgba(11,17,32,.92); backdrop-filter:blur(8px); z-index:10; }
@@ -47,18 +68,26 @@
   .lang:after{ content:"▾"; position:absolute; right:13px; color:var(--muted); pointer-events:none; }
   .lang select:focus{ outline:none; border-color:var(--accent); }
 
-  .hero{ text-align:center; padding:64px 0 50px; }
-  .hero h1{ font-size:42px; line-height:1.15; font-weight:800; letter-spacing:-.02em;
-            background:linear-gradient(180deg,#fff,#b9c4dc); -webkit-background-clip:text;
+  .hero{ text-align:center; padding:76px 0 54px; position:relative; }
+  .badge{ display:inline-flex; align-items:center; gap:8px; margin-bottom:22px;
+          background:rgba(99,102,241,.12); border:1px solid rgba(99,102,241,.35);
+          color:#c7d0f0; padding:7px 15px; border-radius:30px; font-size:13px; font-weight:500; }
+  .badge .pulse{ width:8px; height:8px; border-radius:50%; background:var(--green);
+          box-shadow:0 0 0 0 rgba(94,186,125,.6); animation:pulse 2.2s infinite; }
+  @keyframes pulse{ 0%{box-shadow:0 0 0 0 rgba(94,186,125,.55);} 70%{box-shadow:0 0 0 9px rgba(94,186,125,0);} 100%{box-shadow:0 0 0 0 rgba(94,186,125,0);} }
+  .hero h1{ font-size:50px; line-height:1.1; font-weight:800; letter-spacing:-.025em;
+            background:linear-gradient(180deg,#fff,#aab8d6); -webkit-background-clip:text;
             background-clip:text; color:transparent; }
-  .hero p{ color:var(--muted); font-size:18px; max-width:640px; margin:18px auto 30px; }
+  .hero h1 .grad{ background:linear-gradient(120deg,#818cf8,#22d3ee); -webkit-background-clip:text;
+            background-clip:text; color:transparent; }
+  .hero p{ color:var(--muted); font-size:18.5px; max-width:660px; margin:20px auto 32px; }
   .hero .cta{ display:flex; gap:12px; justify-content:center; flex-wrap:wrap; }
-  .chips{ display:flex; gap:9px; justify-content:center; flex-wrap:wrap; margin-top:34px; }
-  .chips span{ background:var(--panel); border:1px solid var(--line); color:#cbd5e1;
-               padding:7px 13px; border-radius:20px; font-size:13px; }
+  .chips{ display:flex; gap:9px; justify-content:center; flex-wrap:wrap; margin-top:36px; }
+  .chips span{ background:rgba(17,28,52,.7); border:1px solid var(--line); color:#cbd5e1;
+               padding:8px 14px; border-radius:20px; font-size:13px; backdrop-filter:blur(4px); }
   @media(max-width:680px){
-    .hero{ padding:40px 0 36px; }
-    .hero h1{ font-size:30px; }
+    .hero{ padding:46px 0 38px; }
+    .hero h1{ font-size:33px; }
     .hero p{ font-size:16px; }
     .hero .cta .btn{ width:100%; }
   }
@@ -70,10 +99,12 @@
 
   .offers{ display:grid; grid-template-columns:repeat(3,1fr); gap:22px; }
   @media(max-width:880px){ .offers{ grid-template-columns:1fr; max-width:440px; margin:0 auto; } }
-  .card{ background:var(--panel); border:1px solid var(--line); border-radius:18px;
-         overflow:hidden; display:flex; flex-direction:column; }
-  .card .shot{ background:var(--panel2); padding:16px; text-align:center; border-bottom:1px solid var(--line); }
-  .card .shot img{ max-width:100%; border-radius:10px; max-height:360px; }
+  .card{ background:linear-gradient(180deg,#13203b,#101a31); border:1px solid var(--line); border-radius:18px;
+         overflow:hidden; display:flex; flex-direction:column;
+         transition:transform .16s ease, box-shadow .2s ease, border-color .2s ease; }
+  .card:hover{ transform:translateY(-4px); border-color:#3a4a73; box-shadow:var(--shadow); }
+  .card .shot{ background:radial-gradient(120% 100% at 50% 0%,#1b2949,#13203b); padding:18px; text-align:center; border-bottom:1px solid var(--line); }
+  .card .shot img{ max-width:100%; border-radius:10px; max-height:360px; box-shadow:0 8px 22px rgba(0,0,0,.4); }
   .card .body{ padding:22px; flex:1; display:flex; flex-direction:column; }
   .card h3{ font-size:20px; margin-bottom:6px; }
   .card .price{ color:var(--green); font-weight:700; margin-bottom:12px; }
@@ -84,7 +115,9 @@
 
   .features{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
   @media(max-width:780px){ .features{ grid-template-columns:1fr; } }
-  .feat{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; }
+  .feat{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px;
+         transition:transform .16s ease, border-color .2s ease, box-shadow .2s ease; }
+  .feat:hover{ transform:translateY(-3px); border-color:#3a4a73; box-shadow:var(--shadow); }
   .feat .ic{ font-size:24px; margin-bottom:10px; }
   .feat h4{ font-size:16px; margin-bottom:5px; }
   .feat p{ color:var(--muted); font-size:14px; }
@@ -93,10 +126,13 @@
   @media(max-width:880px){ .catalog{ grid-template-columns:1fr 1fr; } }
   @media(max-width:600px){ .catalog{ grid-template-columns:1fr; } }
   .cat{ background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:22px;
-        display:flex; flex-direction:column; }
+        display:flex; flex-direction:column;
+        transition:transform .16s ease, border-color .2s ease, box-shadow .2s ease; }
+  .cat:hover{ transform:translateY(-3px); border-color:#3a4a73; box-shadow:var(--shadow); }
+  .cat:hover .cat-h .ic{ background:linear-gradient(135deg,#6366f1,#4f46e5); }
   .cat-h{ display:flex; align-items:center; gap:10px; margin-bottom:14px; }
   .cat-h .ic{ font-size:22px; width:40px; height:40px; border-radius:11px; background:var(--panel2);
-              display:flex; align-items:center; justify-content:center; flex:0 0 auto; }
+              display:flex; align-items:center; justify-content:center; flex:0 0 auto; transition:background .2s ease; }
   .cat-h h3{ font-size:16px; line-height:1.25; }
   .cat ul{ list-style:none; color:var(--muted); font-size:14px; flex:1; }
   .cat ul li{ padding:5px 0 5px 20px; position:relative; }
@@ -105,7 +141,9 @@
 
   .steps{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; counter-reset:s; }
   @media(max-width:780px){ .steps{ grid-template-columns:1fr; } }
-  .step{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; position:relative; }
+  .step{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:22px; position:relative;
+         transition:transform .16s ease, border-color .2s ease, box-shadow .2s ease; }
+  .step:hover{ transform:translateY(-3px); border-color:#3a4a73; box-shadow:var(--shadow); }
   .step:before{ counter-increment:s; content:counter(s); position:absolute; top:-14px; left:20px;
                 width:30px; height:30px; border-radius:9px; background:var(--accent2); color:#fff;
                 display:flex; align-items:center; justify-content:center; font-weight:700; }
@@ -120,6 +158,11 @@
   @media(max-width:680px){ .final{ padding:36px 18px; } .final h2{ font-size:24px; } .final .btn{ width:100%; } }
 
   footer{ text-align:center; color:#5b6b86; font-size:13px; padding:36px 0 50px; border-top:1px solid var(--line); margin-top:20px; }
+
+  /* scroll-reveal — subtle fade-up as sections enter view (added via JS, degrades safely) */
+  .reveal{ opacity:0; transform:translateY(18px); transition:opacity .6s ease, transform .6s ease; }
+  .reveal.in{ opacity:1; transform:none; }
+  @media(prefers-reduced-motion:reduce){ .reveal{ opacity:1; transform:none; transition:none; } }
 
   /* hide Google Translate chrome (banner / tooltip / body shift) */
   .goog-te-banner-frame, .goog-te-gadget, #google_translate_element{ display:none !important; }
@@ -199,7 +242,8 @@
 <main class="wrap">
 
   <section class="hero">
-    <h1>Custom AI bots & automation<br>for your business</h1>
+    <span class="badge"><span class="pulse"></span> Live demo bots you can try right now</span>
+    <h1>Custom AI bots &amp; <span class="grad">automation</span><br>for your business</h1>
     <p>Bots, AI assistants trained on your data, automation, content and web —
        built fast, all in text, no calls. From capturing leads 24/7 to answering
        customers in any language without ever inventing facts.</p>
@@ -402,6 +446,19 @@
   AI Automation Studio · custom AI bots &amp; automation ·
   <a href="https://t.me/cotsemen_lead_bot?start=site" style="color:#8aa0c8">@cotsemen_lead_bot</a>
 </footer>
+
+<!-- subtle scroll-reveal; if unsupported, content stays fully visible -->
+<script>
+  (function(){
+    if(!('IntersectionObserver' in window)) return;
+    var els = document.querySelectorAll('#offers .card, .catalog .cat, .features .feat, .steps .step, .final');
+    els.forEach(function(el){ el.classList.add('reveal'); });
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, { threshold:0.06, rootMargin:'0px 0px -30px 0px' });
+    els.forEach(function(el){ io.observe(el); });
+  })();
+</script>
 
 <!-- language engine: hidden Google Translate, driven by our own dropdown -->
 <div id="google_translate_element"></div>
