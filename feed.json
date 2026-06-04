@@ -1,69 +1,99 @@
 {
-  "updated": "2026-06-04 07:57 UTC",
+  "updated": "2026-06-04 17:23 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "id": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-      "published": "2026-06-03"
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
+      "published": "2026-06-04"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "id": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
-      "published": "2026-06-03"
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
+      "published": "2026-06-04"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "title": "As AI gets better, it reveals an empty promise",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "title": "Let us filter AI slop, you cowards",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11503853/mdoying_180419_1777_0454_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-03"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-04"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "title": "AI has a water problem — Google thinks it has a fix",
+      "id": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-03"
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-04"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "id": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-03"
+      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_DCD_0604_Musk_IPO_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-04"
+    },
+    {
+      "kind": "video",
+      "id": "xOi8K_-GLRM",
+      "title": "n8n Now Speaks OpenTelemetry: Production Tracing for Workflows",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=xOi8K_-GLRM",
+      "embed": "https://www.youtube.com/embed/xOi8K_-GLRM",
+      "thumb": "https://i.ytimg.com/vi/xOi8K_-GLRM/hqdefault.jpg",
+      "published": "2026-06-04"
+    },
+    {
+      "kind": "video",
+      "id": "BNKTPkhSibQ",
+      "title": "YouTube Is Cracking Down On AI Slop",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=BNKTPkhSibQ",
+      "embed": "https://www.youtube.com/embed/BNKTPkhSibQ",
+      "thumb": "https://i.ytimg.com/vi/BNKTPkhSibQ/hqdefault.jpg",
+      "published": "2026-06-04"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "title": "Amazon will show AI product images when you search for some reason",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.16.52-AM.jpg?resize=1200,695",
-      "published": "2026-06-03"
+      "id": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-04"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Athx-Pictures_-Right-Mariama-Left-Ayooluwa.jpg?resize=1200,675",
-      "published": "2026-06-03"
+      "id": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-04"
+    },
+    {
+      "kind": "video",
+      "id": "4r80bMX_kGg",
+      "title": "OpenCode + Ollama: Claude Code Failed. This Works. (Full Setup)",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=4r80bMX_kGg",
+      "embed": "https://www.youtube.com/embed/4r80bMX_kGg",
+      "thumb": "https://i.ytimg.com/vi/4r80bMX_kGg/hqdefault.jpg",
+      "published": "2026-06-04"
     },
     {
       "kind": "video",
@@ -103,36 +133,6 @@
       "url": "https://www.youtube.com/watch?v=5wx8e-JJT90",
       "embed": "https://www.youtube.com/embed/5wx8e-JJT90",
       "thumb": "https://i.ytimg.com/vi/5wx8e-JJT90/hqdefault.jpg",
-      "published": "2026-05-29"
-    },
-    {
-      "kind": "video",
-      "id": "HoMvCjnpAJ8",
-      "title": "Breaking Down the Pope's AI Essay",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=HoMvCjnpAJ8",
-      "embed": "https://www.youtube.com/embed/HoMvCjnpAJ8",
-      "thumb": "https://i.ytimg.com/vi/HoMvCjnpAJ8/hqdefault.jpg",
-      "published": "2026-05-29"
-    },
-    {
-      "kind": "video",
-      "id": "7TG78vIYI-Q",
-      "title": "AI News: Claude Opus 4.8, Insane Omni Use-Case, and A Dog Translator?",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=7TG78vIYI-Q",
-      "embed": "https://www.youtube.com/embed/7TG78vIYI-Q",
-      "thumb": "https://i.ytimg.com/vi/7TG78vIYI-Q/hqdefault.jpg",
-      "published": "2026-05-29"
-    },
-    {
-      "kind": "video",
-      "id": "WjafiTfvp0Q",
-      "title": "n8n Community Livestream: Women+ in Automation, Community Challenge & n8n Fest",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=WjafiTfvp0Q",
-      "embed": "https://www.youtube.com/embed/WjafiTfvp0Q",
-      "thumb": "https://i.ytimg.com/vi/WjafiTfvp0Q/hqdefault.jpg",
       "published": "2026-05-29"
     }
   ]
