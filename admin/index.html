@@ -200,6 +200,7 @@ async function gh(path,opts={}){
     ...(opts.headers||{})}});
   if(r.status===401) throw new Error("401 — токен неверный или истёк");
   if(r.status===403) throw new Error("403 — токену не хватает прав (нужно Actions: read&write)");
+  if(r.status===404) throw new Error(`404 — токен не видит приватный репо ${OWNER}/${REPO}. Добавь его в fine-grained PAT (Repository access → Only select → ${REPO}) с Actions: Read`);
   if(!r.ok && r.status!==204) throw new Error(r.status+" "+(await r.text()).slice(0,120));
   return r.status===204?null:r.json();
 }
