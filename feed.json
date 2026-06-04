@@ -1,38 +1,38 @@
 {
-  "updated": "2026-06-03 14:18 UTC",
+  "updated": "2026-06-04 07:57 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "id": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "title": "As AI gets better, it reveals an empty promise",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-03"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-      "published": "2026-06-03"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11503853/mdoying_180419_1777_0454_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-03"
     },
     {
       "kind": "news",
       "id": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "title": "AI has a water problem. Google thinks it has a fix",
+      "title": "AI has a water problem — Google thinks it has a fix",
       "source": "The Verge",
       "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
@@ -40,21 +40,30 @@
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "id": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-03"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "id": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "title": "Amazon will show AI product images when you search for some reason",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-      "published": "2026-06-02"
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.16.52-AM.jpg?resize=1200,695",
+      "published": "2026-06-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Athx-Pictures_-Right-Mariama-Left-Ayooluwa.jpg?resize=1200,675",
+      "published": "2026-06-03"
     },
     {
       "kind": "video",
@@ -64,25 +73,6 @@
       "url": "https://www.youtube.com/watch?v=J3JyVL6Jld0",
       "embed": "https://www.youtube.com/embed/J3JyVL6Jld0",
       "thumb": "https://i.ytimg.com/vi/J3JyVL6Jld0/hqdefault.jpg",
-      "published": "2026-06-02"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-02"
-    },
-    {
-      "kind": "video",
-      "id": "gyXjvzMDV7s",
-      "title": "Is AI actually helping?",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
-      "embed": "https://www.youtube.com/embed/gyXjvzMDV7s",
-      "thumb": "https://i.ytimg.com/vi/gyXjvzMDV7s/hqdefault.jpg",
       "published": "2026-06-02"
     },
     {
@@ -133,6 +123,16 @@
       "url": "https://www.youtube.com/watch?v=7TG78vIYI-Q",
       "embed": "https://www.youtube.com/embed/7TG78vIYI-Q",
       "thumb": "https://i.ytimg.com/vi/7TG78vIYI-Q/hqdefault.jpg",
+      "published": "2026-05-29"
+    },
+    {
+      "kind": "video",
+      "id": "WjafiTfvp0Q",
+      "title": "n8n Community Livestream: Women+ in Automation, Community Challenge & n8n Fest",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=WjafiTfvp0Q",
+      "embed": "https://www.youtube.com/embed/WjafiTfvp0Q",
+      "thumb": "https://i.ytimg.com/vi/WjafiTfvp0Q/hqdefault.jpg",
       "published": "2026-05-29"
     }
   ]
