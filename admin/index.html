@@ -267,6 +267,32 @@ async function loadActivity(){
   }catch(e){box.innerHTML='<div class="note">⚠ '+e.message+'</div>';}
 }
 
+async function loadLeads(){
+  const box=$("#leads");
+  try{
+    const r=await fetch(`${API}/repos/${OWNER}/${REPO}/contents/state/leads.json?ref=${BRANCH}&_=`+Date.now(),
+      {headers:{"Authorization":"Bearer "+TOKEN,"Accept":"application/vnd.github.raw",
+                "X-GitHub-Api-Version":"2022-11-28"}});
+    if(r.status===404){box.innerHTML='<div class="note">Снимок лидов ещё не опубликован ботом. Полная CRM — в боте (<code>/panel</code>).</div>';return;}
+    if(!r.ok) throw new Error(r.status===401?"токен":r.status);
+    const d=await r.json();
+    box.innerHTML="";
+    box.appendChild(el("div","kpis",
+      `<div class="kpi"><div class="big">${d.total}</div><div class="lbl">всего лидов</div></div>
+       <div class="kpi"><div class="big">${d.today}</div><div class="lbl">сегодня</div></div>`));
+    if(d.by_source&&d.by_source.length)
+      box.appendChild(el("div","sub","Источники: "+d.by_source.map(s=>`${s.source} · ${s.n}`).join("  ")));
+    (d.recent||[]).forEach(L=>{
+      const who=[L.name,L.username?("@"+L.username):""].filter(Boolean).join(" ")||"аноним";
+      box.appendChild(el("div","feeditem",
+        `<div><div class="t">🎯 ${who} <span class="s">· ${L.source||"direct"}${L.bot?(" · "+L.bot):""}</span></div>
+         <div class="s">${((L.request||"").slice(0,70))||"—"}${L.contact?(" · "+L.contact):""}</div></div>`));
+    });
+    if(!(d.recent||[]).length) box.appendChild(el("div","note","Лидов пока нет."));
+    box.appendChild(el("div","note",`обновлено ${ago(d.generated_at)} · полная CRM в боте /panel`));
+  }catch(e){box.innerHTML='<div class="note">⚠ лиды: '+e.message+'</div>';}
+}
+
 async function loadFeed(){
   const box=$("#feed");
   try{
@@ -296,7 +322,7 @@ function setConn(){
 async function refreshAll(){
   setConn();
   loadFeed();
-  if(TOKEN){ loadProcs(); loadActivity(); }
+  if(TOKEN){ loadProcs(); loadActivity(); loadLeads(); }
   else { $("#procs").innerHTML='<div class="note">Подключи токен, чтобы увидеть статус и управлять.</div>';
          $("#activity").innerHTML='<div class="note">Нужен токен.</div>'; }
 }
