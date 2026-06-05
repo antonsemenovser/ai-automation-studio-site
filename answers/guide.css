@@ -1,0 +1,37 @@
+:root{ --bg:#0a0f1e; --panel:#111c34; --panel2:#16223d; --line:#243049;
+       --accent:#6366f1; --accent2:#4f46e5; --accent3:#22d3ee; --text:#eef2f7; --muted:#93a4c0; --green:#5eba7d; }
+*{ margin:0; padding:0; box-sizing:border-box; }
+body{ font-family:'Inter',-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+      background:var(--bg); color:var(--text); line-height:1.65; }
+a{ color:var(--accent3); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+.wrap{ max-width:760px; margin:0 auto; padding:0 22px; }
+header{ padding:14px 0; border-bottom:1px solid var(--line); position:sticky; top:0;
+        background:rgba(10,15,30,.85); backdrop-filter:blur(8px); z-index:9; }
+.brand{ font-weight:800; font-size:17px; }
+.brand .dot{ margin-right:6px; }
+.crumb{ font-size:13px; color:var(--muted); padding:22px 0 0; }
+article{ padding:14px 0 10px; }
+h1{ font-size:32px; line-height:1.2; margin:10px 0 8px; font-weight:800; }
+@media(max-width:600px){ h1{ font-size:25px; } }
+.lede{ color:var(--muted); font-size:18px; margin-bottom:22px; }
+h2{ font-size:22px; margin:32px 0 10px; font-weight:700; }
+h3{ font-size:17px; margin:22px 0 6px; font-weight:600; }
+p{ margin:10px 0; color:#d6deec; }
+ul,ol{ margin:10px 0 10px 22px; color:#d6deec; }
+li{ margin:5px 0; }
+table{ width:100%; border-collapse:collapse; margin:16px 0; font-size:14.5px; }
+th,td{ border:1px solid var(--line); padding:10px 12px; text-align:left; }
+th{ background:var(--panel2); color:#fff; }
+td .g{ color:var(--green); font-weight:700; }
+.box{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:20px 22px; margin:22px 0; }
+.cta{ display:inline-block; background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff;
+      padding:13px 22px; border-radius:12px; font-weight:600; margin:8px 8px 8px 0; }
+.cta:hover{ text-decoration:none; box-shadow:0 12px 30px rgba(99,102,241,.5); }
+.cta.ghost{ background:rgba(24,35,61,.7); border:1px solid var(--line); color:#cdd7ea; }
+.faq dt{ font-weight:700; margin-top:16px; }
+.faq dd{ color:#d6deec; margin:4px 0 0; }
+.related{ margin:26px 0; font-size:14.5px; }
+.related a{ display:block; padding:4px 0; }
+footer{ text-align:center; color:#5b6b86; font-size:13px; padding:34px 0 50px; border-top:1px solid var(--line); margin-top:30px; }
+.updated{ color:#6b7c98; font-size:13px; }
