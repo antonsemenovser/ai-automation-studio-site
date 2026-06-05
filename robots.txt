@@ -1,0 +1,22 @@
+# AI Automation Studio — open to search and AI crawlers (we want to be found & cited)
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Explicitly welcome AI search / answer engines — being cited there is our #1 lead channel
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://antonsemenovser.github.io/ai-automation-studio-site/sitemap.xml
