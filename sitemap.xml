@@ -55,4 +55,24 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/telegram-bot-for-real-estate.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/lead-generation-bot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/appointment-booking-bot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/chatbot-vs-human-support.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
