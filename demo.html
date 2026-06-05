@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Live AI chatbot demo — ask a sample business bot | AI Automation Studio</title>
+<meta name="description" content="Try a live AI chatbot demo: ask a sample coffee-shop bot anything. It answers only from its knowledge base and hands off to a human when it doesn't know — exactly how your real bot would work, with no hallucinations.">
+<link rel="canonical" href="https://antonsemenovser.github.io/ai-automation-studio-site/demo.html">
+<meta property="og:title" content="Live AI chatbot demo — try it yourself">
+<meta property="og:description" content="Ask a sample business bot anything. It answers from its data and hands off honestly when it doesn't know — no hallucinations. This is how your real bot works.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://antonsemenovser.github.io/ai-automation-studio-site/demo.html">
+<meta property="og:image" content="https://antonsemenovser.github.io/ai-automation-studio-site/assets/ai-chatbot.png">
+<meta property="og:site_name" content="AI Automation Studio">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://antonsemenovser.github.io/ai-automation-studio-site/assets/ai-chatbot.png">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%236366f1'/><stop offset='1' stop-color='%234f46e5'/></linearGradient></defs><rect width='64' height='64' rx='16' fill='url(%23g)'/><text x='32' y='44' font-family='Arial' font-size='30' font-weight='700' fill='white' text-anchor='middle'>AI</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": "Live AI chatbot demo",
+      "description": "An interactive demo of an AI chatbot that answers only from its knowledge base and hands off to a human when it doesn't know.",
+      "url": "https://antonsemenovser.github.io/ai-automation-studio-site/demo.html",
+      "inLanguage": "en",
+      "isPartOf": { "@type": "WebSite", "name": "AI Automation Studio", "url": "https://antonsemenovser.github.io/ai-automation-studio-site/" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "AI Automation Studio", "item": "https://antonsemenovser.github.io/ai-automation-studio-site/" },
+        { "@type": "ListItem", "position": 2, "name": "Live demo", "item": "https://antonsemenovser.github.io/ai-automation-studio-site/demo.html" }
+      ]
+    }
+  ]
+}
+</script>
+<style>
+  :root{ --bg:#0a0f1e; --panel:#111c34; --line:#243049; --accent:#6366f1; --muted:#93a4c0; --text:#e8eefc; --green:#5eba7d; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; background:radial-gradient(1200px 600px at 50% -10%,#16223f 0,var(--bg) 55%) no-repeat,var(--bg);
+        color:var(--text); font-family:Inter,system-ui,sans-serif; -webkit-font-smoothing:antialiased; }
+  a{ color:#8aa0c8; }
+  header{ border-bottom:1px solid var(--line); }
+  .wrap{ max-width:880px; margin:0 auto; padding:0 18px; }
+  header .wrap{ display:flex; align-items:center; justify-content:space-between; height:62px; }
+  .brand{ font-weight:800; color:var(--text); text-decoration:none; display:flex; align-items:center; gap:9px; }
+  .brand .dot{ font-size:20px; }
+  .hbtn{ font-size:14px; font-weight:600; color:#cdd7ea; text-decoration:none; border:1px solid var(--line);
+         padding:8px 14px; border-radius:10px; background:rgba(24,35,61,.6); }
+  .intro{ text-align:center; padding:40px 0 8px; }
+  .intro h1{ font-size:34px; line-height:1.12; font-weight:800; letter-spacing:-.02em; margin:0 0 12px; }
+  .intro h1 .grad{ background:linear-gradient(120deg,#818cf8,#22d3ee); -webkit-background-clip:text;
+                   background-clip:text; -webkit-text-fill-color:transparent; }
+  .intro p{ color:var(--muted); font-size:16.5px; max-width:620px; margin:0 auto; }
+  .note{ display:inline-flex; align-items:center; gap:8px; margin:16px auto 0; font-size:13px; color:#b9c6df;
+         background:rgba(99,102,241,.12); border:1px solid rgba(99,102,241,.35); padding:8px 14px; border-radius:999px; }
+  .chat{ margin:26px auto 8px; background:var(--panel); border:1px solid var(--line); border-radius:18px;
+         overflow:hidden; box-shadow:0 30px 70px rgba(0,0,0,.45); }
+  .chat-head{ display:flex; align-items:center; gap:11px; padding:14px 16px; border-bottom:1px solid var(--line);
+              background:linear-gradient(180deg,#15233f,#111c34); }
+  .av{ width:40px; height:40px; border-radius:12px; background:linear-gradient(135deg,#6366f1,#4f46e5);
+       display:flex; align-items:center; justify-content:center; font-size:20px; }
+  .who{ font-weight:700; font-size:15px; }
+  .st{ font-size:12.5px; color:var(--green); }
+  .st .d{ display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--green); margin-right:5px; vertical-align:middle; }
+  .msgs{ padding:18px 16px; height:430px; overflow-y:auto; display:flex; flex-direction:column; gap:10px; }
+  .msg{ max-width:80%; padding:11px 14px; border-radius:15px; font-size:15px; line-height:1.5; white-space:pre-wrap; word-wrap:break-word; }
+  .msg.in{ align-self:flex-start; background:#1b2942; border:1px solid var(--line); border-bottom-left-radius:5px; }
+  .msg.out{ align-self:flex-end; background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff; border-bottom-right-radius:5px; }
+  .msg.handoff{ align-self:flex-start; background:#22304a; border:1px dashed #4a5b80; }
+  .src{ display:block; margin-top:6px; font-size:11.5px; color:var(--muted); }
+  .typing{ align-self:flex-start; background:#1b2942; border:1px solid var(--line); border-bottom-left-radius:5px;
+           padding:13px 16px; border-radius:15px; display:none; }
+  .typing.show{ display:inline-block; }
+  .typing i{ display:inline-block; width:7px; height:7px; margin:0 2px; border-radius:50%; background:#7e8db0; animation:b 1.2s infinite; }
+  .typing i:nth-child(2){ animation-delay:.2s; } .typing i:nth-child(3){ animation-delay:.4s; }
+  @keyframes b{ 0%,60%,100%{ opacity:.3; transform:translateY(0); } 30%{ opacity:1; transform:translateY(-4px); } }
+  .chips{ padding:12px 16px 4px; display:flex; flex-wrap:wrap; gap:8px; border-top:1px solid var(--line); }
+  .chips .lbl{ width:100%; font-size:12px; color:var(--muted); margin-bottom:2px; }
+  .chip{ font-size:13px; color:#cdd7ea; background:#1b2942; border:1px solid var(--line); padding:7px 12px;
+         border-radius:999px; cursor:pointer; transition:.15s; }
+  .chip:hover{ border-color:#3a4a73; background:#22304a; }
+  .inrow{ display:flex; gap:9px; padding:12px 16px 16px; }
+  .inrow input{ flex:1; background:#0f1a30; border:1px solid var(--line); color:var(--text); border-radius:12px;
+                padding:13px 15px; font-size:15px; font-family:inherit; outline:none; }
+  .inrow input:focus{ border-color:#3a4a73; }
+  .inrow button{ background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff; border:0; border-radius:12px;
+                 padding:0 20px; font-weight:700; font-size:15px; cursor:pointer; }
+  .cta-final{ text-align:center; margin:26px auto 50px; background:var(--panel); border:1px solid var(--line);
+              border-radius:16px; padding:28px 22px; }
+  .cta-final h2{ margin:0 0 8px; font-size:22px; }
+  .cta-final p{ color:var(--muted); font-size:15px; max-width:540px; margin:0 auto 18px; }
+  .btn{ display:inline-block; padding:13px 22px; border-radius:12px; font-weight:700; text-decoration:none; margin:5px; }
+  .btn-primary{ background:linear-gradient(135deg,#6366f1,#4f46e5); color:#fff; }
+  .btn-ghost{ background:rgba(24,35,61,.7); color:#cdd7ea; border:1px solid var(--line); }
+  footer{ border-top:1px solid var(--line); padding:22px 0; text-align:center; color:var(--muted); font-size:13.5px; }
+  @media(max-width:600px){ .intro h1{ font-size:26px; } .msgs{ height:50vh; } .msg{ max-width:88%; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="brand" href="./"><span class="dot">🤖</span>AI Automation Studio</a>
+  <a class="hbtn" href="./">← Home</a>
+</div></header>
+
+<main class="wrap">
+  <div class="intro">
+    <h1>Try a <span class="grad">live AI chatbot</span> — right here</h1>
+    <p>This is a working demo bot for a fictional shop, <strong>Nordic Beans Coffee</strong>. Ask it anything.
+       It answers <strong>only from its knowledge base</strong> and, when it doesn't know, it hands off to a human
+       instead of making something up — exactly how your real bot would behave.</p>
+    <div class="note">🛟 Real retrieval over a sample knowledge base · no hallucinations · your bot uses <em>your</em> data</div>
+  </div>
+
+  <section class="chat" aria-label="AI chatbot demo">
+    <div class="chat-head">
+      <div class="av">☕</div>
+      <div>
+        <div class="who">Nordic Beans Bot</div>
+        <div class="st"><span class="d"></span>online · answers from shop data</div>
+      </div>
+    </div>
+    <div class="msgs" id="msgs">
+      <div class="msg in">Hi! I'm the Nordic Beans assistant ☕ Ask me about our coffee, shipping, returns, opening hours, wholesale — anything. Try a suggestion below or type your own question.</div>
+    </div>
+    <div class="typing" id="typing"><i></i><i></i><i></i></div>
+    <div class="chips" id="chips">
+      <span class="lbl">Try asking:</span>
+    </div>
+    <div class="inrow">
+      <input id="q" type="text" placeholder="Ask the bot a question…" autocomplete="off" aria-label="Your question">
+      <button id="send">Send</button>
+    </div>
+  </section>
+
+  <section class="cta-final">
+    <h2>Want a bot like this — on <em>your</em> data?</h2>
+    <p>This demo answers from a small sample knowledge base. Your real bot answers from your FAQ, prices and products,
+       captures leads, and hands off to you honestly when needed. Built in days, full source included, text-only.</p>
+    <a class="btn btn-primary" href="https://t.me/cotsemen_lead_bot?start=demo">💬 Get my own bot — free quote</a>
+    <a class="btn btn-ghost" href="answers/ai-chatbot-on-your-own-data.html">How it works (RAG)</a>
+  </section>
+</main>
+
+<footer>© AI Automation Studio · <a href="./">Home</a> · <a href="https://t.me/cotsemen_lead_bot?start=demo">Message the real bot</a>
+  · <span style="opacity:.8">Demo data is fictional</span></footer>
+
+<script>
+// ---- Sample knowledge base (this is the "data" the demo bot is grounded on) ----
+const KB = [
+  { id:'hours', q:'What are your opening hours?',
+    keys:'hours open opening time when close closed today weekend saturday sunday monday schedule',
+    a:"Our shop is open Mon–Fri 8:00–18:00 and Sat 9:00–16:00. We're closed on Sundays. The online store takes orders 24/7.",
+    src:'Knowledge base → Opening hours' },
+  { id:'ship', q:'Do you ship, and how long does it take?',
+    keys:'ship shipping delivery deliver how long days post send mail dispatch arrive abroad international countries country worldwide overseas europe eu other where',
+    a:"Yes! We ship across the EU. Standard delivery is 2–4 business days; orders over €40 ship free. We dispatch within 24 hours on weekdays.",
+    src:'Knowledge base → Shipping & delivery' },
+  { id:'returns', q:'What is your return policy?',
+    keys:'return returns refund money back exchange unhappy guarantee policy send back',
+    a:"Unopened bags can be returned within 14 days for a full refund. If a coffee isn't to your taste, message us — we'll make it right.",
+    src:'Knowledge base → Returns & refunds' },
+  { id:'beans', q:'What coffee do you sell?',
+    keys:'coffee beans sell products what offer roast espresso filter blends single origin decaf type kinds',
+    a:"We roast fresh weekly: single-origin beans (Ethiopia, Colombia, Brazil), two house blends (Espresso & Filter), and a decaf. Whole bean or ground to your brew method.",
+    src:'Knowledge base → Products' },
+  { id:'price', q:'How much does a bag cost?',
+    keys:'price cost how much bag euro money expensive cheap pricing pay',
+    a:"A 250g bag is €9–€12 depending on the origin; 1kg bags are €30–€38. Subscriptions save 10%.",
+    src:'Knowledge base → Pricing' },
+  { id:'sub', q:'Do you have a subscription?',
+    keys:'subscription subscribe monthly recurring regular auto delivery plan save',
+    a:"Yes — pick your beans and frequency (every 1, 2 or 4 weeks). Subscriptions save 10%, ship free, and you can pause or cancel anytime.",
+    src:'Knowledge base → Subscriptions' },
+  { id:'wholesale', q:'Do you sell wholesale to cafes?',
+    keys:'wholesale bulk cafe restaurant business b2b reseller trade large quantity office',
+    a:"We do! We supply cafes, restaurants and offices with wholesale pricing and regular delivery. Tell us your volume and we'll send a trade price list.",
+    src:'Knowledge base → Wholesale' },
+  { id:'decaf', q:'Do you have decaf?',
+    keys:'decaf decaffeinated without caffeine no caffeine',
+    a:"Yes — our Swiss-water decaf is chemical-free and tastes like the real thing. Available as 250g or 1kg, whole bean or ground.",
+    src:'Knowledge base → Products' },
+  { id:'origin', q:'Where do your beans come from?',
+    keys:'origin where from country source farm sustainable fair trade ethical grown',
+    a:"We source directly from farms in Ethiopia, Colombia and Brazil, paying above fair-trade prices. Each bag lists its farm and harvest.",
+    src:'Knowledge base → Sourcing' },
+  { id:'grind', q:'Can you grind the beans for me?',
+    keys:'grind ground whole bean grinder espresso aeropress moka french press filter v60 brew method',
+    a:"Of course — choose whole bean or tell us your brew method (espresso, moka, French press, V60, AeroPress) at checkout and we'll grind to match.",
+    src:'Knowledge base → Products' },
+  { id:'gift', q:'Do you do gift cards or gift sets?',
+    keys:'gift card present voucher set box bundle christmas birthday',
+    a:"We do — digital gift cards (any amount) and a tasting gift box with three single origins. Both can include a personal note.",
+    src:'Knowledge base → Gifts' },
+  { id:'pay', q:'What payment methods do you accept?',
+    keys:'payment pay methods card visa mastercard paypal apple google cash accept checkout',
+    a:"We accept all major cards, PayPal, and Apple/Google Pay. Payment is secure at checkout.",
+    src:'Knowledge base → Payment' },
+  { id:'contact', q:'How can I contact you?',
+    keys:'contact email phone reach call talk human support help address location',
+    a:"You can reach our team at hello@nordicbeans.example or right here in chat during opening hours. For anything I can't answer, I'll pass you to a person.",
+    src:'Knowledge base → Contact' },
+  { id:'store', q:'Is the coffee fresh / when is it roasted?',
+    keys:'fresh roast roasted date freshness old stale when batch new',
+    a:"Every order is roasted to order and shipped within 24 hours, so it reaches you days-fresh, not months-old off a shelf.",
+    src:'Knowledge base → Freshness' }
+];
+
+const STOP = new Set('a an the is are do does did you your my our we i it to of for and or in on at with how what when where can could would should will me my'.split(' '));
+function norm(s){ return s.toLowerCase().replace(/[^a-zäöå0-9\s]/g,' ').split(/\s+/).filter(w=>w && !STOP.has(w)); }
+
+// Pre-tokenise KB keywords once
+KB.forEach(e=>{ e._toks = new Set(norm(e.keys + ' ' + e.q)); });
+
+function retrieve(query){
+  const qt = norm(query);
+  if(!qt.length) return null;
+  let best=null, bestScore=0;
+  for(const e of KB){
+    let s=0;
+    for(const t of qt){ if(e._toks.has(t)) s+=1; }
+    // small boost for multi-word overlap so specific questions win
+    const score = s / Math.sqrt(qt.length);
+    if(score>bestScore){ bestScore=score; best=e; }
+  }
+  // Confidence threshold — below this we honestly hand off rather than guess
+  return bestScore >= 0.85 ? best : null;
+}
+
+const msgs=document.getElementById('msgs');
+const typing=document.getElementById('typing');
+const input=document.getElementById('q');
+
+function add(text, cls, src){
+  const d=document.createElement('div');
+  d.className='msg '+cls;
+  d.textContent=text;
+  if(src){ const s=document.createElement('span'); s.className='src'; s.textContent='📎 '+src; d.appendChild(s); }
+  msgs.appendChild(d);
+  msgs.scrollTop=msgs.scrollHeight;
+}
+function showTyping(on){ typing.classList.toggle('show', on); if(on) msgs.scrollTop=msgs.scrollHeight; }
+
+let busy=false;
+function ask(q){
+  q=(q||'').trim();
+  if(!q || busy) return;
+  add(q,'out');
+  input.value='';
+  busy=true;
+  showTyping(true);
+  const hit=retrieve(q);
+  setTimeout(()=>{
+    showTyping(false);
+    if(hit){
+      add(hit.a,'in',hit.src);
+    } else {
+      add("I don't have that in my knowledge base, so I won't guess. I'm connecting you to a human from the team — meanwhile, could you leave your email so we can follow up? 🙂",'handoff');
+    }
+    busy=false;
+    input.focus();
+  }, 600 + Math.random()*500);
+}
+
+// Suggestion chips
+const SUGG=['Do you ship to other countries?','What coffee do you sell?','How much is a bag?','What is your return policy?','Do you sell wholesale?','Do you have decaf?','When are you open?'];
+const chips=document.getElementById('chips');
+SUGG.forEach(t=>{ const c=document.createElement('span'); c.className='chip'; c.textContent=t; c.onclick=()=>ask(t); chips.appendChild(c); });
+
+document.getElementById('send').onclick=()=>ask(input.value);
+input.addEventListener('keydown',e=>{ if(e.key==='Enter') ask(input.value); });
+</script>
+</body>
+</html>
