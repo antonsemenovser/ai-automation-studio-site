@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>How to connect AI to your tools (integrations) — 2026 guide</title>
+<meta name="description" content="How to connect AI to the tools you already use in 2026: CRM, spreadsheets, email, Telegram/WhatsApp, databases and APIs — what an AI integration does, what it costs, and how to start.">
+<link rel="canonical" href="https://antonsemenovser.github.io/ai-automation-studio-site/answers/connect-ai-to-your-tools.html">
+<meta property="og:title" content="How to connect AI to your tools (integrations)">
+<meta property="og:description" content="Connect AI to your CRM, spreadsheets, email, chat, databases and APIs — what an AI integration does, what it costs, and how to start.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antonsemenovser.github.io/ai-automation-studio-site/answers/connect-ai-to-your-tools.html">
+<meta property="og:image" content="https://antonsemenovser.github.io/ai-automation-studio-site/assets/lead-bot.png">
+<meta property="og:site_name" content="AI Automation Studio">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://antonsemenovser.github.io/ai-automation-studio-site/assets/lead-bot.png">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%236366f1'/><stop offset='1' stop-color='%234f46e5'/></linearGradient></defs><rect width='64' height='64' rx='16' fill='url(%23g)'/><text x='32' y='44' font-family='Arial' font-size='30' font-weight='700' fill='white' text-anchor='middle'>AI</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="guide.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "How to connect AI to your tools (integrations)",
+      "description": "How to connect AI to the tools you already use: CRM, spreadsheets, email, Telegram/WhatsApp, databases and APIs — what an AI integration does, what it costs, and how to start.",
+      "image": "https://antonsemenovser.github.io/ai-automation-studio-site/assets/lead-bot.png",
+      "author": { "@type": "Organization", "name": "AI Automation Studio" },
+      "publisher": { "@type": "Organization", "name": "AI Automation Studio", "url": "https://antonsemenovser.github.io/ai-automation-studio-site/" },
+      "mainEntityOfPage": "https://antonsemenovser.github.io/ai-automation-studio-site/answers/connect-ai-to-your-tools.html",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "AI Automation Studio", "item": "https://antonsemenovser.github.io/ai-automation-studio-site/" },
+        { "@type": "ListItem", "position": 2, "name": "Connect AI to your tools", "item": "https://antonsemenovser.github.io/ai-automation-studio-site/answers/connect-ai-to-your-tools.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "Can AI connect to the tools I already use?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Most modern tools — CRMs, spreadsheets, email, Telegram and WhatsApp, e-commerce platforms, databases — offer an API or webhook that an AI agent can read from and write to. That connection is what lets AI act inside your existing stack instead of being a separate island you copy-paste into." } },
+        { "@type": "Question", "name": "What is an AI integration?", "acceptedAnswer": { "@type": "Answer", "text": "An AI integration is the connection that lets an AI model use your tools: read a record, understand a message, decide what to do, then write back — create a lead, update an order, send a reply, file a document. It turns AI from something you chat with into something wired into your real workflow." } },
+        { "@type": "Question", "name": "What tools can be connected?", "acceptedAnswer": { "@type": "Answer", "text": "Common ones include CRMs (HubSpot, Pipedrive and similar), Google Sheets and Excel, email and calendars, Telegram and WhatsApp, e-commerce and payment platforms, and any system with an API. If a tool has an API or export, it can usually be connected; the exact effort depends on that API." } },
+        { "@type": "Question", "name": "How much does an AI integration cost?", "acceptedAnswer": { "@type": "Answer", "text": "Connecting AI to a single tool with a clear API typically costs €150–€500. A workflow that spans several connected tools with custom logic usually lands €500–€2,000. Ongoing cost is hosting plus any per-action or per-message fees from the services involved." } },
+        { "@type": "Question", "name": "Do I need to replace my current tools?", "acceptedAnswer": { "@type": "Answer", "text": "No. The whole point of an integration is to keep the tools you already use and add AI on top, so your team's workflow stays familiar while the repetitive steps get automated. Replacing tools is rarely necessary and usually a mistake." } }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<header><div class="wrap"><a class="brand" href="../" style="color:var(--text)"><span class="dot">🤖</span>AI Automation Studio</a></div></header>
+
+<div class="wrap">
+  <div class="crumb"><a href="../">Home</a> › Connect AI to your tools</div>
+  <article>
+    <h1>How to connect AI to your tools (integrations)</h1>
+    <p class="lede">AI is most useful when it's <strong>wired into the tools you already use</strong> — CRM, spreadsheets, email, Telegram/WhatsApp, databases — so it can read a record, decide, and write back automatically. That connection is an <strong>integration</strong>, and it's what turns AI from "something you chat with" into "something that does the work."</p>
+    <p class="updated">Last reviewed: June 2026.</p>
+
+    <h2>What an AI integration actually is</h2>
+    <p>An integration is the connection that lets an AI model <strong>use</strong> your tools: read a record → understand it → decide → write back. Create a lead, update an order, send a reply, file a document — inside the systems you already run. You keep your tools; AI just gets hands.</p>
+
+    <h2>What can be connected</h2>
+    <table>
+      <thead><tr><th>Category</th><th>Examples</th></tr></thead>
+      <tbody>
+        <tr><td><strong>CRM</strong></td><td>HubSpot, Pipedrive, and similar</td></tr>
+        <tr><td><strong>Spreadsheets</strong></td><td>Google Sheets, Excel</td></tr>
+        <tr><td><strong>Messaging</strong></td><td>Telegram, WhatsApp, email</td></tr>
+        <tr><td><strong>Commerce</strong></td><td>Online stores, payment platforms</td></tr>
+        <tr><td><strong>Anything with an API</strong></td><td>Databases, internal systems, SaaS tools</td></tr>
+      </tbody>
+    </table>
+    <p>Rule of thumb: <strong>if a tool has an API or an export, it can usually be connected.</strong></p>
+
+    <h2>What it lets you automate</h2>
+    <ul>
+      <li><strong>Lead → CRM.</strong> A message comes in; the AI qualifies it and creates the CRM record.</li>
+      <li><strong>Order → sheet → notification.</strong> A new order flows to your sheet and pings your team.</li>
+      <li><strong>Email → action.</strong> An incoming email is read, classified and acted on.</li>
+      <li><strong>Data → alert.</strong> A change in a database triggers an AI-written summary to you.</li>
+    </ul>
+
+    <h2>What it costs</h2>
+    <table>
+      <thead><tr><th>Scope</th><th>Typical 2026 price</th></tr></thead>
+      <tbody>
+        <tr><td><strong>AI connected to one tool (clear API)</strong></td><td><span class="g">€150–€500</span></td></tr>
+        <tr><td><strong>Workflow across several connected tools</strong></td><td><span class="g">€500–€2,000</span></td></tr>
+        <tr><td><strong>Ongoing</strong></td><td><span class="g">Hosting + any per-action/per-message service fees</span></td></tr>
+      </tbody>
+    </table>
+
+    <h2>You don't replace your tools</h2>
+    <p>The point of an integration is to <strong>keep what you already use</strong> and add AI on top — your team's workflow stays familiar while the repetitive steps get automated. Replacing tools is rarely necessary and usually a mistake.</p>
+
+    <div class="box">
+      <h3 style="margin-top:0">Want AI wired into your stack?</h3>
+      <p>Tell our bot which tools you use and what should flow between them — we'll scope the integration and give you a free, honest estimate. Text-only, no calls, full source included.</p>
+      <a class="cta" href="https://t.me/cotsemen_lead_bot?start=ai_integration_article">💬 Get a free quote</a>
+      <a class="cta ghost" href="../">See live demos</a>
+    </div>
+
+    <div class="related">
+      <strong>Related guides:</strong>
+      <a href="what-is-an-ai-agent.html">→ What is an AI agent?</a>
+      <a href="ai-agent-for-business.html">→ AI agent for business: use cases &amp; cost</a>
+      <a href="business-automation-cost.html">→ How much does business automation cost?</a>
+    </div>
+
+    <h2>FAQ</h2>
+    <dl class="faq">
+      <dt>Can AI connect to my current tools?</dt>
+      <dd>Yes — most tools (CRM, sheets, email, Telegram/WhatsApp, databases) expose an API or webhook an AI agent can read and write.</dd>
+      <dt>What is an AI integration?</dt>
+      <dd>The connection that lets AI use your tools — read a record, decide, write back — inside your existing workflow.</dd>
+      <dt>What tools can be connected?</dt>
+      <dd>CRMs, Google Sheets/Excel, email/calendar, Telegram/WhatsApp, commerce/payments, and anything with an API.</dd>
+      <dt>How much does it cost?</dt>
+      <dd>One tool: €150–€500. Several connected tools: €500–€2,000. Plus hosting and any service fees.</dd>
+      <dt>Do I replace my tools?</dt>
+      <dd>No — integrations keep your tools and add AI on top; replacing is rarely needed.</dd>
+    </dl>
+  </article>
+</div>
+
+<footer>© AI Automation Studio · <a href="../">Home</a> · <a href="https://t.me/cotsemen_lead_bot?start=ai_integration_article">Message the bot</a></footer>
+</body>
+</html>

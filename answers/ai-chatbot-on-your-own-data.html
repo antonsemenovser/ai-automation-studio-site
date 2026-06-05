@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI chatbot trained on your own data (RAG): how it works (2026)</title>
+<meta name="description" content="How an AI chatbot trained on your own data works in 2026: what RAG is in plain English, why it stops hallucinations, what data you need, what it costs, and how to start.">
+<link rel="canonical" href="https://antonsemenovser.github.io/ai-automation-studio-site/answers/ai-chatbot-on-your-own-data.html">
+<meta property="og:title" content="AI chatbot trained on your own data (RAG): how it works">
+<meta property="og:description" content="What RAG is in plain English, why it stops hallucinations, what data you need, what it costs, and how to start.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://antonsemenovser.github.io/ai-automation-studio-site/answers/ai-chatbot-on-your-own-data.html">
+<meta property="og:image" content="https://antonsemenovser.github.io/ai-automation-studio-site/assets/ai-chatbot.png">
+<meta property="og:site_name" content="AI Automation Studio">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://antonsemenovser.github.io/ai-automation-studio-site/assets/ai-chatbot.png">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%236366f1'/><stop offset='1' stop-color='%234f46e5'/></linearGradient></defs><rect width='64' height='64' rx='16' fill='url(%23g)'/><text x='32' y='44' font-family='Arial' font-size='30' font-weight='700' fill='white' text-anchor='middle'>AI</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="guide.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "AI chatbot trained on your own data (RAG): how it works",
+      "description": "How an AI chatbot trained on your own data works: what RAG is in plain English, why it stops hallucinations, what data you need, what it costs, and how to start.",
+      "image": "https://antonsemenovser.github.io/ai-automation-studio-site/assets/ai-chatbot.png",
+      "author": { "@type": "Organization", "name": "AI Automation Studio" },
+      "publisher": { "@type": "Organization", "name": "AI Automation Studio", "url": "https://antonsemenovser.github.io/ai-automation-studio-site/" },
+      "mainEntityOfPage": "https://antonsemenovser.github.io/ai-automation-studio-site/answers/ai-chatbot-on-your-own-data.html",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "AI Automation Studio", "item": "https://antonsemenovser.github.io/ai-automation-studio-site/" },
+        { "@type": "ListItem", "position": 2, "name": "AI chatbot on your own data", "item": "https://antonsemenovser.github.io/ai-automation-studio-site/answers/ai-chatbot-on-your-own-data.html" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "What does an AI chatbot trained on my own data mean?", "acceptedAnswer": { "@type": "Answer", "text": "It means the chatbot answers from your specific content — your FAQ, prices, policies, product docs and manuals — instead of generic internet knowledge. When a customer asks, it retrieves the relevant passages from your data and answers based on them, so the replies are accurate for your business." } },
+        { "@type": "Question", "name": "What is RAG in plain English?", "acceptedAnswer": { "@type": "Answer", "text": "RAG stands for retrieval-augmented generation. In plain terms: before the AI answers, it first looks up the most relevant pieces of your data and reads them, then writes the answer grounded in what it found. This 'look it up first' step is what keeps answers tied to your real content instead of made up." } },
+        { "@type": "Question", "name": "Does training on my data stop the bot from making things up?", "acceptedAnswer": { "@type": "Answer", "text": "Largely, yes — when built properly. Because the bot answers from retrieved passages of your data and is instructed to say so or hand off when the answer isn't there, it doesn't invent facts. Grounding plus an honest 'I don't know, let me connect you' is what separates a trustworthy bot from a risky one." } },
+        { "@type": "Question", "name": "What data do I need to provide?", "acceptedAnswer": { "@type": "Answer", "text": "Whatever your customers ask about: FAQ, price lists, policies, product and service descriptions, manuals, common email replies. It doesn't need to be perfect — part of the build is cleaning and structuring it. Starting with your top 30–50 questions is usually enough for a strong first version." } },
+        { "@type": "Question", "name": "How much does a chatbot on my own data cost?", "acceptedAnswer": { "@type": "Answer", "text": "A custom RAG chatbot typically starts around €300–€600 for a focused build on a clean knowledge base, and €600–€1,500 for a larger, multilingual one with integrations. Ongoing cost is low hosting plus per-message model usage, which can be near-zero on local or open models." } }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<header><div class="wrap"><a class="brand" href="../" style="color:var(--text)"><span class="dot">🤖</span>AI Automation Studio</a></div></header>
+
+<div class="wrap">
+  <div class="crumb"><a href="../">Home</a> › AI chatbot on your own data</div>
+  <article>
+    <h1>AI chatbot trained on your own data (RAG)</h1>
+    <p class="lede">A chatbot trained on your data <strong>answers from your FAQ, prices, policies and docs</strong> — not generic internet knowledge. The trick is <strong>RAG</strong>: it looks up the relevant parts of your data first, then answers from them. That "look it up first" step is what stops it making things up.</p>
+    <p class="updated">Last reviewed: June 2026.</p>
+
+    <h2>What RAG actually means (plain English)</h2>
+    <p>RAG = <strong>retrieval-augmented generation</strong>. Before the AI writes an answer, it <strong>retrieves</strong> the most relevant pieces of your content and reads them, then <strong>generates</strong> the reply grounded in what it found. No magic — it's "look up the right passage, then answer from it," done in milliseconds.</p>
+
+    <h2>Why it stops hallucinations</h2>
+    <ul>
+      <li><strong>Answers come from retrieved passages</strong> of your real data, not the model's memory.</li>
+      <li><strong>When the answer isn't in your data,</strong> a good bot says so and hands off to a human — it doesn't guess.</li>
+      <li><strong>You can trace every answer</strong> back to the source content it used.</li>
+    </ul>
+    <p>Grounding plus an honest "I don't know, let me connect you" is exactly what separates a trustworthy bot from a risky one.</p>
+
+    <h2>How it's built</h2>
+    <ol>
+      <li><strong>Collect your content.</strong> FAQ, prices, policies, product docs, common replies.</li>
+      <li><strong>Clean &amp; structure it</strong> into a searchable knowledge base.</li>
+      <li><strong>Wire up retrieval</strong> so the bot finds the right passages per question.</li>
+      <li><strong>Add guardrails &amp; handoff</strong> for anything outside the data.</li>
+      <li><strong>Test on real questions</strong> before launch, then embed it on your site or chat.</li>
+    </ol>
+
+    <h2>What data you need</h2>
+    <p>Whatever customers ask about — it doesn't have to be perfect, cleaning it is part of the build. Starting with your <strong>top 30–50 questions</strong> is usually enough for a strong first version.</p>
+
+    <h2>What it costs</h2>
+    <table>
+      <thead><tr><th>Scope</th><th>Typical 2026 price</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Focused build on a clean knowledge base</strong></td><td><span class="g">€300–€600</span></td></tr>
+        <tr><td><strong>Larger, multilingual, with integrations</strong></td><td><span class="g">€600–€1,500</span></td></tr>
+        <tr><td><strong>Ongoing</strong></td><td><span class="g">Low hosting + per-message model (near-zero on local/open models)</span></td></tr>
+      </tbody>
+    </table>
+
+    <div class="box">
+      <h3 style="margin-top:0">Want a bot that knows your business cold?</h3>
+      <p>Send our bot your FAQ or a price list and we'll scope a RAG chatbot that answers strictly from your data — no hallucinations, honest handoff, you own the source. Text-only, no calls.</p>
+      <a class="cta" href="https://t.me/cotsemen_lead_bot?start=rag_chatbot_article">💬 Get a free quote</a>
+      <a class="cta ghost" href="../">See live demos</a>
+    </div>
+
+    <div class="related">
+      <strong>Related guides:</strong>
+      <a href="ai-chatbot-cost.html">→ How much does an AI chatbot cost?</a>
+      <a href="what-is-an-ai-agent.html">→ What is an AI agent?</a>
+      <a href="how-to-add-chatbot-to-website.html">→ How to add a chatbot to your website</a>
+    </div>
+
+    <h2>FAQ</h2>
+    <dl class="faq">
+      <dt>What does "trained on my own data" mean?</dt>
+      <dd>It answers from your FAQ, prices, policies and docs instead of generic internet knowledge.</dd>
+      <dt>What is RAG in plain English?</dt>
+      <dd>Retrieval-augmented generation — it looks up the relevant parts of your data first, then answers grounded in them.</dd>
+      <dt>Does it stop the bot making things up?</dt>
+      <dd>Largely yes — it answers from retrieved passages and hands off honestly when the answer isn't there.</dd>
+      <dt>What data do I provide?</dt>
+      <dd>FAQ, prices, policies, docs, common replies — your top 30–50 questions are enough to start; cleaning is part of the build.</dd>
+      <dt>How much does it cost?</dt>
+      <dd>~€300–€600 focused, €600–€1,500 larger/multilingual. Plus low hosting and per-message model cost (near-zero on local models).</dd>
+    </dl>
+  </article>
+</div>
+
+<footer>© AI Automation Studio · <a href="../">Home</a> · <a href="https://t.me/cotsemen_lead_bot?start=rag_chatbot_article">Message the bot</a></footer>
+</body>
+</html>
