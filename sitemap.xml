@@ -20,4 +20,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/business-automation-cost.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/telegram-vs-whatsapp-bot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://antonsemenovser.github.io/ai-automation-studio-site/answers/how-to-add-chatbot-to-website.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
