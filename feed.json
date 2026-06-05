@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-05 10:16 UTC",
+  "updated": "2026-06-05 16:41 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "title": "This is your laptop… on AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-05"
+    },
+    {
+      "kind": "video",
+      "id": "nz4h3H1MmTg",
+      "title": "AI News: Microsoft Finally Reveals They're Plan!",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=nz4h3H1MmTg",
+      "embed": "https://www.youtube.com/embed/nz4h3H1MmTg",
+      "thumb": "https://i.ytimg.com/vi/nz4h3H1MmTg/hqdefault.jpg",
+      "published": "2026-06-05"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1316461644.jpg?resize=1200,816",
+      "published": "2026-06-05"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-05"
+    },
+    {
+      "kind": "video",
+      "id": "UdbndwiYUy4",
+      "title": "I Didn’t Know AI Could Do THIS",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=UdbndwiYUy4",
+      "embed": "https://www.youtube.com/embed/UdbndwiYUy4",
+      "thumb": "https://i.ytimg.com/vi/UdbndwiYUy4/hqdefault.jpg",
+      "published": "2026-06-05"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
+      "published": "2026-06-05"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
@@ -37,42 +93,6 @@
       "url": "https://www.youtube.com/watch?v=RGh9kL8hVgQ",
       "embed": "https://www.youtube.com/embed/RGh9kL8hVgQ",
       "thumb": "https://i.ytimg.com/vi/RGh9kL8hVgQ/hqdefault.jpg",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "title": "Let us filter AI slop, you cowards",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-04"
     },
     {
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/J3JyVL6Jld0",
       "thumb": "https://i.ytimg.com/vi/J3JyVL6Jld0/hqdefault.jpg",
       "published": "2026-06-02"
-    },
-    {
-      "kind": "video",
-      "id": "IfR4aeXW37U",
-      "title": "AI Transformed My Website In A Few Hours",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=IfR4aeXW37U",
-      "embed": "https://www.youtube.com/embed/IfR4aeXW37U",
-      "thumb": "https://i.ytimg.com/vi/IfR4aeXW37U/hqdefault.jpg",
-      "published": "2026-06-02"
-    },
-    {
-      "kind": "video",
-      "id": "IYN2jfJHJd4",
-      "title": "Self Improving AI actually solves everything",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=IYN2jfJHJd4",
-      "embed": "https://www.youtube.com/embed/IYN2jfJHJd4",
-      "thumb": "https://i.ytimg.com/vi/IYN2jfJHJd4/hqdefault.jpg",
-      "published": "2026-05-29"
     }
   ]
 }
