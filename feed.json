@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05 16:41 UTC",
+  "updated": "2026-06-06 08:47 UTC",
   "count": 14,
   "items": [
     {
@@ -14,7 +14,7 @@
     {
       "kind": "video",
       "id": "nz4h3H1MmTg",
-      "title": "AI News: Microsoft Finally Reveals They're Plan!",
+      "title": "AI News: Microsoft Finally Reveals Their Plan!",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=nz4h3H1MmTg",
       "embed": "https://www.youtube.com/embed/nz4h3H1MmTg",
@@ -117,22 +117,22 @@
     },
     {
       "kind": "video",
-      "id": "4r80bMX_kGg",
-      "title": "OpenCode + Ollama: Claude Code Failed. This Works. (Full Setup)",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=4r80bMX_kGg",
-      "embed": "https://www.youtube.com/embed/4r80bMX_kGg",
-      "thumb": "https://i.ytimg.com/vi/4r80bMX_kGg/hqdefault.jpg",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "video",
       "id": "J3JyVL6Jld0",
       "title": "Entre 90 mil skills do Claude Code essas 10 são lendárias",
       "source": "NoCode StartUp",
       "url": "https://www.youtube.com/watch?v=J3JyVL6Jld0",
       "embed": "https://www.youtube.com/embed/J3JyVL6Jld0",
       "thumb": "https://i.ytimg.com/vi/J3JyVL6Jld0/hqdefault.jpg",
+      "published": "2026-06-02"
+    },
+    {
+      "kind": "video",
+      "id": "IfR4aeXW37U",
+      "title": "AI Transformed My Website In A Few Hours",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=IfR4aeXW37U",
+      "embed": "https://www.youtube.com/embed/IfR4aeXW37U",
+      "thumb": "https://i.ytimg.com/vi/IfR4aeXW37U/hqdefault.jpg",
       "published": "2026-06-02"
     }
   ]
