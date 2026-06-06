@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-06 08:47 UTC",
+  "updated": "2026-06-06 15:40 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "BYazAplOiNA",
+      "title": "Stop vibe coding. Use this repeatable AI framework instead",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=BYazAplOiNA",
+      "embed": "https://www.youtube.com/embed/BYazAplOiNA",
+      "thumb": "https://i.ytimg.com/vi/BYazAplOiNA/hqdefault.jpg",
+      "published": "2026-06-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-05"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "title": "Here comes new Siri again",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-05"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
@@ -68,24 +96,6 @@
       "published": "2026-06-04"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
-      "published": "2026-06-04"
-    },
-    {
       "kind": "video",
       "id": "RGh9kL8hVgQ",
       "title": "It's like AI insurance",
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=J3JyVL6Jld0",
       "embed": "https://www.youtube.com/embed/J3JyVL6Jld0",
       "thumb": "https://i.ytimg.com/vi/J3JyVL6Jld0/hqdefault.jpg",
-      "published": "2026-06-02"
-    },
-    {
-      "kind": "video",
-      "id": "IfR4aeXW37U",
-      "title": "AI Transformed My Website In A Few Hours",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=IfR4aeXW37U",
-      "embed": "https://www.youtube.com/embed/IfR4aeXW37U",
-      "thumb": "https://i.ytimg.com/vi/IfR4aeXW37U/hqdefault.jpg",
       "published": "2026-06-02"
     }
   ]
