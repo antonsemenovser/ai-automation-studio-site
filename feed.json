@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-06 15:40 UTC",
+  "updated": "2026-06-07 09:37 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798",
+      "published": "2026-06-06"
+    },
+    {
+      "kind": "video",
+      "id": "udS9osDCJKo",
+      "title": "Perplexity Just Built an AI That Does Everything",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=udS9osDCJKo",
+      "embed": "https://www.youtube.com/embed/udS9osDCJKo",
+      "thumb": "https://i.ytimg.com/vi/udS9osDCJKo/hqdefault.jpg",
+      "published": "2026-06-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833",
+      "published": "2026-06-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
+      "published": "2026-06-06"
+    },
     {
       "kind": "video",
       "id": "BYazAplOiNA",
@@ -59,15 +96,6 @@
       "published": "2026-06-05"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-05"
-    },
-    {
       "kind": "video",
       "id": "UdbndwiYUy4",
       "title": "I Didn’t Know AI Could Do THIS",
@@ -76,24 +104,6 @@
       "embed": "https://www.youtube.com/embed/UdbndwiYUy4",
       "thumb": "https://i.ytimg.com/vi/UdbndwiYUy4/hqdefault.jpg",
       "published": "2026-06-05"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
-      "published": "2026-06-05"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
-      "published": "2026-06-04"
     },
     {
       "kind": "video",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/BNKTPkhSibQ",
       "thumb": "https://i.ytimg.com/vi/BNKTPkhSibQ/hqdefault.jpg",
       "published": "2026-06-04"
-    },
-    {
-      "kind": "video",
-      "id": "J3JyVL6Jld0",
-      "title": "Entre 90 mil skills do Claude Code essas 10 são lendárias",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=J3JyVL6Jld0",
-      "embed": "https://www.youtube.com/embed/J3JyVL6Jld0",
-      "thumb": "https://i.ytimg.com/vi/J3JyVL6Jld0/hqdefault.jpg",
-      "published": "2026-06-02"
     }
   ]
 }
