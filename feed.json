@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-08 11:21 UTC",
+  "updated": "2026-06-08 17:29 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "title": "Amazon now lets you design custom merch using AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/about-amazon-hero-ai-merch-hero-amazon-news-lt-060226.jpg?resize=1200,675",
+      "published": "2026-06-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-08"
+    },
     {
       "kind": "video",
       "id": "08uMw4_BWOA",
@@ -75,24 +93,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
       "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-05"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "title": "Here comes new Siri again",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-05"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "title": "This is your laptop… on AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-05"
     },
     {
