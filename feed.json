@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-07 15:43 UTC",
+  "updated": "2026-06-08 11:21 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "08uMw4_BWOA",
+      "title": "How Big Tech Lies About AI Layoffs",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=08uMw4_BWOA",
+      "embed": "https://www.youtube.com/embed/08uMw4_BWOA",
+      "thumb": "https://i.ytimg.com/vi/08uMw4_BWOA/hqdefault.jpg",
+      "published": "2026-06-07"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "title": "OpenAI is still working on that ‘super app’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "published": "2026-06-07"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
@@ -87,15 +106,6 @@
       "published": "2026-06-05"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1316461644.jpg?resize=1200,816",
-      "published": "2026-06-05"
-    },
-    {
       "kind": "video",
       "id": "UdbndwiYUy4",
       "title": "I Didn’t Know AI Could Do THIS",
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=xOi8K_-GLRM",
       "embed": "https://www.youtube.com/embed/xOi8K_-GLRM",
       "thumb": "https://i.ytimg.com/vi/xOi8K_-GLRM/hqdefault.jpg",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "video",
-      "id": "BNKTPkhSibQ",
-      "title": "YouTube Is Cracking Down On AI Slop",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=BNKTPkhSibQ",
-      "embed": "https://www.youtube.com/embed/BNKTPkhSibQ",
-      "thumb": "https://i.ytimg.com/vi/BNKTPkhSibQ/hqdefault.jpg",
       "published": "2026-06-04"
     }
   ]
