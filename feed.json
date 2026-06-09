@@ -1,69 +1,99 @@
 {
-  "updated": "2026-06-09 10:03 UTC",
+  "updated": "2026-06-09 16:49 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+      "id": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-09"
+    },
+    {
+      "kind": "video",
+      "id": "GaiZvDn_Viw",
+      "title": "Every time I think I've caught up with the AI news...",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=GaiZvDn_Viw",
+      "embed": "https://www.youtube.com/embed/GaiZvDn_Viw",
+      "thumb": "https://i.ytimg.com/vi/GaiZvDn_Viw/hqdefault.jpg",
       "published": "2026-06-09"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?resize=1200,800",
-      "published": "2026-06-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "title": "Apple is using AI to fix Safari’s extension problem",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "title": "Apple’s AI promises are finally, almost, sort of here",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-08"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-09"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?resize=1200,677",
-      "published": "2026-06-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-      "title": "Amazon is launching AI-generated custom merch",
+      "id": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-08"
+      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-09"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "title": "OpenAI files for IPO, following Anthropic",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "title": "Apple’s AI pitch will live or die by its privacy promise",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-08"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/apple-intelligence-siri-ai-private-cloud-compute.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-09"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "id": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
-      "published": "2026-06-08"
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
+      "published": "2026-06-09"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "title": "Apple’s best AI idea looks a lot like vibe coding",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/AI-Apple-Shortcuts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-09"
+    },
+    {
+      "kind": "video",
+      "id": "LYsr7yVLXn8",
+      "title": "n8n Natively supports open telemetry and tracing",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=LYsr7yVLXn8",
+      "embed": "https://www.youtube.com/embed/LYsr7yVLXn8",
+      "thumb": "https://i.ytimg.com/vi/LYsr7yVLXn8/hqdefault.jpg",
+      "published": "2026-06-09"
+    },
+    {
+      "kind": "video",
+      "id": "Aa_6bmzDc80",
+      "title": "Claude Code Dynamic Workflows Explained for Beginners",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=Aa_6bmzDc80",
+      "embed": "https://www.youtube.com/embed/Aa_6bmzDc80",
+      "thumb": "https://i.ytimg.com/vi/Aa_6bmzDc80/hqdefault.jpg",
+      "published": "2026-06-09"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?resize=1200,675",
+      "published": "2026-06-09"
     },
     {
       "kind": "video",
@@ -104,36 +134,6 @@
       "embed": "https://www.youtube.com/embed/nz4h3H1MmTg",
       "thumb": "https://i.ytimg.com/vi/nz4h3H1MmTg/hqdefault.jpg",
       "published": "2026-06-05"
-    },
-    {
-      "kind": "video",
-      "id": "UdbndwiYUy4",
-      "title": "I Didn’t Know AI Could Do THIS",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=UdbndwiYUy4",
-      "embed": "https://www.youtube.com/embed/UdbndwiYUy4",
-      "thumb": "https://i.ytimg.com/vi/UdbndwiYUy4/hqdefault.jpg",
-      "published": "2026-06-05"
-    },
-    {
-      "kind": "video",
-      "id": "RGh9kL8hVgQ",
-      "title": "It's like AI insurance",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=RGh9kL8hVgQ",
-      "embed": "https://www.youtube.com/embed/RGh9kL8hVgQ",
-      "thumb": "https://i.ytimg.com/vi/RGh9kL8hVgQ/hqdefault.jpg",
-      "published": "2026-06-04"
-    },
-    {
-      "kind": "video",
-      "id": "xOi8K_-GLRM",
-      "title": "n8n Now Speaks OpenTelemetry: Production Tracing for Workflows",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=xOi8K_-GLRM",
-      "embed": "https://www.youtube.com/embed/xOi8K_-GLRM",
-      "thumb": "https://i.ytimg.com/vi/xOi8K_-GLRM/hqdefault.jpg",
-      "published": "2026-06-04"
     }
   ]
 }
