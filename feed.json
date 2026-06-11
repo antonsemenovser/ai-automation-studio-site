@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-11 10:58 UTC",
+  "updated": "2026-06-11 17:46 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+      "published": "2026-06-11"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "published": "2026-06-11"
+    },
+    {
+      "kind": "video",
+      "id": "1greFablcZY",
+      "title": "Why Eveyone Should Have A Local AI Model",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=1greFablcZY",
+      "embed": "https://www.youtube.com/embed/1greFablcZY",
+      "thumb": "https://i.ytimg.com/vi/1greFablcZY/hqdefault.jpg",
+      "published": "2026-06-11"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-11"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
@@ -46,33 +83,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "title": "I tried Siri AI, and so far it actually works",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-10"
     },
     {
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=LYsr7yVLXn8",
       "embed": "https://www.youtube.com/embed/LYsr7yVLXn8",
       "thumb": "https://i.ytimg.com/vi/LYsr7yVLXn8/hqdefault.jpg",
-      "published": "2026-06-09"
-    },
-    {
-      "kind": "video",
-      "id": "Aa_6bmzDc80",
-      "title": "Claude Code Dynamic Workflows Explained for Beginners",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=Aa_6bmzDc80",
-      "embed": "https://www.youtube.com/embed/Aa_6bmzDc80",
-      "thumb": "https://i.ytimg.com/vi/Aa_6bmzDc80/hqdefault.jpg",
       "published": "2026-06-09"
     }
   ]
