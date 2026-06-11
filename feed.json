@@ -1,14 +1,78 @@
 {
-  "updated": "2026-06-10 17:35 UTC",
+  "updated": "2026-06-11 10:58 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "id": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
+      "published": "2026-06-11"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "title": "Deezer launches an AI music detector for other streaming services",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "published": "2026-06-10"
+    },
+    {
+      "kind": "video",
+      "id": "z6vKjys5rtc",
+      "title": "Tudo que você precisa saber sobre o Claude Fable 5",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=z6vKjys5rtc",
+      "embed": "https://www.youtube.com/embed/z6vKjys5rtc",
+      "thumb": "https://i.ytimg.com/vi/z6vKjys5rtc/hqdefault.jpg",
+      "published": "2026-06-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+      "published": "2026-06-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "title": "I tried Siri AI, and so far it actually works",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-10"
     },
     {
@@ -22,63 +86,9 @@
       "published": "2026-06-10"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?resize=1200,1057",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "title": "How memory tools can make AI models worse",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/warner-music.jpg?resize=1200,800",
-      "published": "2026-06-10"
-    },
-    {
       "kind": "video",
       "id": "X9cvCQ3qrVk",
-      "title": "I Ran Home To Try This New AI Feature",
+      "title": "GitHub Just Made a Big AI Coding Move",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=X9cvCQ3qrVk",
       "embed": "https://www.youtube.com/embed/X9cvCQ3qrVk",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/Aa_6bmzDc80",
       "thumb": "https://i.ytimg.com/vi/Aa_6bmzDc80/hqdefault.jpg",
       "published": "2026-06-09"
-    },
-    {
-      "kind": "video",
-      "id": "08uMw4_BWOA",
-      "title": "How Big Tech Lies About AI Layoffs",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=08uMw4_BWOA",
-      "embed": "https://www.youtube.com/embed/08uMw4_BWOA",
-      "thumb": "https://i.ytimg.com/vi/08uMw4_BWOA/hqdefault.jpg",
-      "published": "2026-06-07"
     }
   ]
 }
