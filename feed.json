@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-11 17:46 UTC",
+  "updated": "2026-06-12 10:40 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "title": "Siri won’t be your AI girlfriend",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-12"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?resize=1200,685",
+      "published": "2026-06-12"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?resize=1200,799",
+      "published": "2026-06-12"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
+      "published": "2026-06-12"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-11"
+    },
+    {
+      "kind": "video",
+      "id": "LuWguPU3mCA",
+      "title": "Usei IA para Criar Conteúdo no Linkedin. E Isso aconteceu",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=LuWguPU3mCA",
+      "embed": "https://www.youtube.com/embed/LuWguPU3mCA",
+      "thumb": "https://i.ytimg.com/vi/LuWguPU3mCA/hqdefault.jpg",
+      "published": "2026-06-11"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
@@ -23,48 +78,12 @@
     {
       "kind": "video",
       "id": "1greFablcZY",
-      "title": "Why Eveyone Should Have A Local AI Model",
+      "title": "Unpopular opinion: you don't need to ask ChatGPT everything",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=1greFablcZY",
       "embed": "https://www.youtube.com/embed/1greFablcZY",
       "thumb": "https://i.ytimg.com/vi/1greFablcZY/hqdefault.jpg",
       "published": "2026-06-11"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-11"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
-      "published": "2026-06-11"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "published": "2026-06-10"
     },
     {
       "kind": "video",
@@ -74,15 +93,6 @@
       "url": "https://www.youtube.com/watch?v=z6vKjys5rtc",
       "embed": "https://www.youtube.com/embed/z6vKjys5rtc",
       "thumb": "https://i.ytimg.com/vi/z6vKjys5rtc/hqdefault.jpg",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
       "published": "2026-06-10"
     },
     {
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=GaiZvDn_Viw",
       "embed": "https://www.youtube.com/embed/GaiZvDn_Viw",
       "thumb": "https://i.ytimg.com/vi/GaiZvDn_Viw/hqdefault.jpg",
-      "published": "2026-06-09"
-    },
-    {
-      "kind": "video",
-      "id": "LYsr7yVLXn8",
-      "title": "n8n Natively supports open telemetry and tracing",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=LYsr7yVLXn8",
-      "embed": "https://www.youtube.com/embed/LYsr7yVLXn8",
-      "thumb": "https://i.ytimg.com/vi/LYsr7yVLXn8/hqdefault.jpg",
       "published": "2026-06-09"
     }
   ]
