@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 09:34 UTC",
+  "updated": "2026-06-13 15:04 UTC",
   "count": 14,
   "items": [
     {
@@ -42,6 +42,24 @@
     },
     {
       "kind": "news",
+      "id": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-12"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-12"
+    },
+    {
+      "kind": "news",
       "id": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
       "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "source": "TechCrunch",
@@ -68,15 +86,6 @@
       "published": "2026-06-12"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
-      "published": "2026-06-12"
-    },
-    {
       "kind": "video",
       "id": "nydHKXjwu0U",
       "title": "AI News: An INSANE Week… Here’s What Matters",
@@ -84,15 +93,6 @@
       "url": "https://www.youtube.com/watch?v=nydHKXjwu0U",
       "embed": "https://www.youtube.com/embed/nydHKXjwu0U",
       "thumb": "https://i.ytimg.com/vi/nydHKXjwu0U/hqdefault.jpg",
-      "published": "2026-06-12"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-12"
     },
     {
