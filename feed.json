@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-15 12:43 UTC",
+  "updated": "2026-06-15 18:46 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
+      "published": "2026-06-15"
+    },
+    {
+      "kind": "video",
+      "id": "W53XPj4tAyE",
+      "title": "Mythos BANNED (explained)",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=W53XPj4tAyE",
+      "embed": "https://www.youtube.com/embed/W53XPj4tAyE",
+      "thumb": "https://i.ytimg.com/vi/W53XPj4tAyE/hqdefault.jpg",
+      "published": "2026-06-15"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-15"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-15"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
+      "published": "2026-06-15"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam.jpg?resize=1200,800",
+      "published": "2026-06-15"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/newcore-founders.jpg?resize=1200,800",
+      "published": "2026-06-15"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
@@ -10,60 +74,6 @@
       "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Powder-Keg.png?resize=1200,960",
       "published": "2026-06-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
-      "published": "2026-06-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "published": "2026-06-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
-      "published": "2026-06-13"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?resize=1200,767",
-      "published": "2026-06-13"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "published": "2026-06-13"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-      "published": "2026-06-13"
     },
     {
       "kind": "video",
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=GclDWye2kgk",
       "embed": "https://www.youtube.com/embed/GclDWye2kgk",
       "thumb": "https://i.ytimg.com/vi/GclDWye2kgk/hqdefault.jpg",
-      "published": "2026-06-10"
-    },
-    {
-      "kind": "video",
-      "id": "X9cvCQ3qrVk",
-      "title": "GitHub Just Made a Big AI Coding Move",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=X9cvCQ3qrVk",
-      "embed": "https://www.youtube.com/embed/X9cvCQ3qrVk",
-      "thumb": "https://i.ytimg.com/vi/X9cvCQ3qrVk/hqdefault.jpg",
       "published": "2026-06-10"
     }
   ]
