@@ -1,34 +1,51 @@
 {
-  "updated": "2026-06-16 11:34 UTC",
+  "updated": "2026-06-16 18:40 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/respond-team-comp-2.webp?resize=1200,800",
+      "id": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-16"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "id": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
-      "published": "2026-06-15"
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+      "published": "2026-06-16"
     },
     {
-      "kind": "video",
-      "id": "NQof8hG8FwE",
-      "title": "Every New Apple AI Feature",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=NQof8hG8FwE",
-      "embed": "https://www.youtube.com/embed/NQof8hG8FwE",
-      "thumb": "https://i.ytimg.com/vi/NQof8hG8FwE/hqdefault.jpg",
-      "published": "2026-06-15"
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "published": "2026-06-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/08/SilverBlack-Plaud-Note-Pro.jpeg?resize=1200,675",
+      "published": "2026-06-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
+      "published": "2026-06-16"
     },
     {
       "kind": "news",
@@ -37,33 +54,25 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
       "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-15"
+      "published": "2026-06-16"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "id": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/trump-2267050833.jpg?resize=1200,800",
-      "published": "2026-06-15"
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/probably-peter-elias.png?resize=1200,800",
+      "published": "2026-06-16"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-      "title": "Facebook’s new AI Mode search gets its info from public posts",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
+      "kind": "video",
+      "id": "NQof8hG8FwE",
+      "title": "The Most Insane New Apple AI Features",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=NQof8hG8FwE",
+      "embed": "https://www.youtube.com/embed/NQof8hG8FwE",
+      "thumb": "https://i.ytimg.com/vi/NQof8hG8FwE/hqdefault.jpg",
       "published": "2026-06-15"
     },
     {
@@ -74,15 +83,6 @@
       "url": "https://www.youtube.com/watch?v=W53XPj4tAyE",
       "embed": "https://www.youtube.com/embed/W53XPj4tAyE",
       "thumb": "https://i.ytimg.com/vi/W53XPj4tAyE/hqdefault.jpg",
-      "published": "2026-06-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-15"
     },
     {
