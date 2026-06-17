@@ -1,0 +1,25 @@
+<!-- @dsCard group="Components" -->
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Badge & chips — AI Automation Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0f1e;--line:#243049;--text:#eef2f7;--green:#5eba7d;}
+*{box-sizing:border-box;}
+body{font-family:'Inter',-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);margin:0;padding:40px;-webkit-font-smoothing:antialiased;}
+.badge{display:inline-flex;align-items:center;gap:8px;margin-bottom:26px;background:rgba(99,102,241,.12);border:1px solid rgba(99,102,241,.35);color:#c7d0f0;padding:7px 15px;border-radius:30px;font-size:13px;font-weight:500;}
+.badge .pulse{width:8px;height:8px;border-radius:50%;background:var(--green);box-shadow:0 0 0 0 rgba(94,186,125,.6);animation:pulse 2.2s infinite;}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(94,186,125,.55);}70%{box-shadow:0 0 0 9px rgba(94,186,125,0);}100%{box-shadow:0 0 0 0 rgba(94,186,125,0);}}
+.chips{display:flex;gap:9px;flex-wrap:wrap;}
+.chips span{background:rgba(17,28,52,.7);border:1px solid var(--line);color:#cbd5e1;padding:8px 14px;border-radius:20px;font-size:13px;}
+</style></head><body>
+<div><span class="badge"><span class="pulse"></span> Live demo bots you can try right now</span></div>
+<div class="chips">
+  <span>🌍 Any language</span>
+  <span>🛟 No hallucinations</span>
+  <span>⚡ 24/7</span>
+  <span>🚀 Ready in 2–4 days</span>
+  <span>💬 Text-based</span>
+</div>
+</body></html>

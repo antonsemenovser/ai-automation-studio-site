@@ -1,0 +1,40 @@
+<!-- @dsCard group="Foundations" -->
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Colors — AI Automation Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0f1e;--panel:#111c34;--panel2:#16223d;--line:#243049;--accent:#6366f1;--accent2:#4f46e5;--accent3:#22d3ee;--text:#eef2f7;--muted:#93a4c0;--green:#5eba7d;}
+*{box-sizing:border-box;}
+body{font-family:'Inter',-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);margin:0;padding:36px;line-height:1.5;-webkit-font-smoothing:antialiased;}
+h2{font-size:22px;font-weight:700;margin:0 0 4px;}
+.sub{color:var(--muted);font-size:14px;margin:0 0 24px;}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;}
+.sw{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--panel);}
+.chip{height:74px;}
+.meta{padding:10px 12px;}
+.meta .nm{font-size:13px;font-weight:600;}
+.meta .hex{font-size:12px;color:var(--muted);font-family:ui-monospace,Menlo,monospace;margin-top:2px;}
+.grads{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;margin-top:22px;}
+.grad{height:84px;border-radius:14px;border:1px solid var(--line);display:flex;align-items:flex-end;padding:10px 12px;font-size:12px;font-weight:600;font-family:ui-monospace,Menlo,monospace;}
+</style></head><body>
+<h2>Colors</h2>
+<p class="sub">Deep-navy SaaS palette · indigo→violet brand with a cyan accent.</p>
+<div class="grid">
+  <div class="sw"><div class="chip" style="background:#0a0f1e"></div><div class="meta"><div class="nm">bg</div><div class="hex">#0a0f1e</div></div></div>
+  <div class="sw"><div class="chip" style="background:#111c34"></div><div class="meta"><div class="nm">panel</div><div class="hex">#111c34</div></div></div>
+  <div class="sw"><div class="chip" style="background:#16223d"></div><div class="meta"><div class="nm">panel2</div><div class="hex">#16223d</div></div></div>
+  <div class="sw"><div class="chip" style="background:#243049"></div><div class="meta"><div class="nm">line</div><div class="hex">#243049</div></div></div>
+  <div class="sw"><div class="chip" style="background:#6366f1"></div><div class="meta"><div class="nm">accent</div><div class="hex">#6366f1</div></div></div>
+  <div class="sw"><div class="chip" style="background:#4f46e5"></div><div class="meta"><div class="nm">accent2</div><div class="hex">#4f46e5</div></div></div>
+  <div class="sw"><div class="chip" style="background:#22d3ee"></div><div class="meta"><div class="nm">accent3</div><div class="hex">#22d3ee</div></div></div>
+  <div class="sw"><div class="chip" style="background:#5eba7d"></div><div class="meta"><div class="nm">green</div><div class="hex">#5eba7d</div></div></div>
+  <div class="sw"><div class="chip" style="background:#eef2f7"></div><div class="meta"><div class="nm">text</div><div class="hex">#eef2f7</div></div></div>
+  <div class="sw"><div class="chip" style="background:#93a4c0"></div><div class="meta"><div class="nm">muted</div><div class="hex">#93a4c0</div></div></div>
+</div>
+<div class="grads">
+  <div class="grad" style="background:linear-gradient(135deg,#6366f1,#4f46e5);color:#fff">brand · 135° #6366f1→#4f46e5</div>
+  <div class="grad" style="background:linear-gradient(120deg,#818cf8,#22d3ee);color:#0a0f1e">accent · 120° #818cf8→#22d3ee</div>
+</div>
+</body></html>

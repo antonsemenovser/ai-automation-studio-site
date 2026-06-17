@@ -1,0 +1,33 @@
+<!-- @dsCard group="Patterns" -->
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chat mockup — AI Automation Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0f1e;--green:#5eba7d;--text:#eef2f7;}
+*{box-sizing:border-box;}
+body{font-family:'Inter',-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);margin:0;padding:40px;display:flex;justify-content:center;-webkit-font-smoothing:antialiased;}
+.phone{width:300px;background:#0e1730;border:1px solid #2b3a5e;border-radius:32px;padding:14px 12px 20px;position:relative;box-shadow:0 34px 80px rgba(0,0,0,.55),0 0 0 7px rgba(99,102,241,.06);}
+.notch{width:110px;height:6px;border-radius:6px;background:#2b3a5e;margin:2px auto 13px;}
+.chat-head{display:flex;align-items:center;gap:10px;padding:0 6px 12px;border-bottom:1px solid #1e2c4a;margin-bottom:13px;}
+.chat-head .av{width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,#6366f1,#4f46e5);display:flex;align-items:center;justify-content:center;font-size:18px;flex:0 0 auto;}
+.chat-head .who{font-size:13.5px;font-weight:600;}
+.chat-head .st{font-size:11px;color:var(--green);}
+.msgs{display:flex;flex-direction:column;gap:9px;padding:0 4px;}
+.msg{max-width:84%;padding:9px 12px;border-radius:15px;font-size:13px;line-height:1.42;}
+.msg.in{align-self:flex-start;background:#1b2949;border-bottom-left-radius:5px;color:#dbe4f5;}
+.msg.out{align-self:flex-end;background:linear-gradient(135deg,#6366f1,#4f46e5);color:#fff;border-bottom-right-radius:5px;}
+</style></head><body>
+<div class="phone">
+  <div class="notch"></div>
+  <div class="chat-head"><span class="av">🤖</span><div><div class="who">AI Studio Bot</div><div class="st">● online · replies instantly</div></div></div>
+  <div class="msgs">
+    <div class="msg in">Hi! Do you build Telegram bots for business?</div>
+    <div class="msg out">Yes — lead capture, FAQ &amp; orders, 24/7, in any language. What's your business? 🙂</div>
+    <div class="msg in">Магазин квітів 🌷</div>
+    <div class="msg out">Perfect. A bot that takes orders and answers FAQs in your customers' language. Want a free quote? 💬</div>
+    <div class="msg in">Yes please!</div>
+  </div>
+</div>
+</body></html>
