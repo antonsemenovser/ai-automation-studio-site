@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-16 18:40 UTC",
+  "updated": "2026-06-17 11:17 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "title": "The next humanoid robot might not look human at all",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "video",
+      "id": "LmyLXX3PEB8",
+      "title": "Mythos & Fable Can Weaponize Cyberattacks. This n8n System Fights Back",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=LmyLXX3PEB8",
+      "embed": "https://www.youtube.com/embed/LmyLXX3PEB8",
+      "thumb": "https://i.ytimg.com/vi/LmyLXX3PEB8/hqdefault.jpg",
+      "published": "2026-06-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-16"
+    },
+    {
+      "kind": "video",
+      "id": "5cjqvl5SaWk",
+      "title": "Como faço o Claude lembrar de tudo sem precisar pagar por memória extra",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=5cjqvl5SaWk",
+      "embed": "https://www.youtube.com/embed/5cjqvl5SaWk",
+      "thumb": "https://i.ytimg.com/vi/5cjqvl5SaWk/hqdefault.jpg",
+      "published": "2026-06-16"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
@@ -45,24 +83,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/probably-peter-elias.png?resize=1200,800",
       "published": "2026-06-16"
     },
     {
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/nydHKXjwu0U",
       "thumb": "https://i.ytimg.com/vi/nydHKXjwu0U/hqdefault.jpg",
       "published": "2026-06-12"
-    },
-    {
-      "kind": "video",
-      "id": "LuWguPU3mCA",
-      "title": "Usei IA para Criar Conteúdo no Linkedin. E Isso aconteceu",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=LuWguPU3mCA",
-      "embed": "https://www.youtube.com/embed/LuWguPU3mCA",
-      "thumb": "https://i.ytimg.com/vi/LuWguPU3mCA/hqdefault.jpg",
-      "published": "2026-06-11"
-    },
-    {
-      "kind": "video",
-      "id": "1greFablcZY",
-      "title": "Unpopular opinion: you don't need to ask ChatGPT everything",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=1greFablcZY",
-      "embed": "https://www.youtube.com/embed/1greFablcZY",
-      "thumb": "https://i.ytimg.com/vi/1greFablcZY/hqdefault.jpg",
-      "published": "2026-06-11"
     }
   ]
 }
