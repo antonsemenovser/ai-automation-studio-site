@@ -1,0 +1,33 @@
+<!-- @dsCard group="Components" -->
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Form fields — AI Automation Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0f1e;--panel:#111c34;--line:#243049;--text:#eef2f7;--muted:#93a4c0;--accent:#6366f1;}
+*{box-sizing:border-box;}
+body{font-family:'Inter',-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);margin:0;padding:40px;display:flex;justify-content:center;-webkit-font-smoothing:antialiased;}
+.form{width:380px;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:26px;}
+.form h3{margin:0 0 4px;font-size:19px;}
+.form .hint{color:var(--muted);font-size:13px;margin:0 0 18px;}
+label{display:block;font-size:13px;color:var(--muted);margin:14px 0 6px;}
+.field{width:100%;background:#18233d;color:#dbe4f5;border:1px solid var(--line);border-radius:11px;padding:12px 14px;font-size:14px;font-family:inherit;}
+.field::placeholder{color:#6b7a98;}
+.field:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px rgba(99,102,241,.18);}
+select.field{-webkit-appearance:none;appearance:none;cursor:pointer;background-image:linear-gradient(45deg,transparent 50%,#93a4c0 50%),linear-gradient(135deg,#93a4c0 50%,transparent 50%);background-position:calc(100% - 18px) center,calc(100% - 13px) center;background-size:5px 5px,5px 5px;background-repeat:no-repeat;}
+textarea.field{min-height:84px;resize:vertical;}
+.btn{margin-top:20px;width:100%;text-align:center;padding:14px;border-radius:12px;font-weight:600;font-size:15px;border:0;cursor:pointer;background:linear-gradient(135deg,#6366f1,#4f46e5);color:#fff;box-shadow:0 10px 26px rgba(79,70,229,.42);}
+</style></head><body>
+<form class="form" onsubmit="return false">
+  <h3>Get a free quote</h3>
+  <p class="hint">Text-based, no calls — we sketch a solution for free.</p>
+  <label>What's your business?</label>
+  <input class="field" placeholder="e.g. flower shop, real estate, clinic…">
+  <label>What do you want to automate?</label>
+  <select class="field"><option>Lead capture &amp; FAQ bot</option><option>AI assistant on my data</option><option>Automation &amp; integrations</option><option>Website / landing</option><option>Something bigger — an app</option></select>
+  <label>Anything else?</label>
+  <textarea class="field" placeholder="A sentence about your goal…"></textarea>
+  <button class="btn">Request my free quote →</button>
+</form>
+</body></html>

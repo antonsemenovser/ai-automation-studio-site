@@ -1,0 +1,29 @@
+<!-- @dsCard group="Patterns" -->
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pricing — AI Automation Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0f1e;--panel:#111c34;--panel2:#16223d;--line:#243049;--text:#eef2f7;--muted:#93a4c0;--accent:#6366f1;--green:#5eba7d;--shadow:0 18px 40px rgba(0,0,0,.42);}
+*{box-sizing:border-box;}
+body{font-family:'Inter',-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);margin:0;padding:44px 32px;-webkit-font-smoothing:antialiased;}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;max-width:1100px;margin:0 auto;}
+.tier{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px;display:flex;flex-direction:column;transition:transform .16s ease,border-color .2s ease,box-shadow .2s ease;}
+.tier:hover{transform:translateY(-3px);border-color:#3a4a73;box-shadow:var(--shadow);}
+.tier .ic{font-size:22px;width:40px;height:40px;border-radius:11px;background:var(--panel2);display:flex;align-items:center;justify-content:center;margin-bottom:12px;}
+.tier h3{font-size:15px;margin:0 0 8px;line-height:1.3;}
+.tier .price{font-size:22px;font-weight:800;color:var(--green);margin-top:auto;}
+.tier .price small{font-size:13px;font-weight:600;color:var(--muted);}
+.tier.feat{background:linear-gradient(180deg,#1a2342,#141d36);border-color:rgba(99,102,241,.45);}
+</style></head><body>
+<div class="grid">
+  <div class="tier"><div class="ic">🤖</div><h3>Chatbots &amp; messaging bots</h3><div class="price"><small>from</small> €150</div></div>
+  <div class="tier feat"><div class="ic">🧠</div><h3>AI assistants on your data</h3><div class="price"><small>from</small> €300</div></div>
+  <div class="tier"><div class="ic">⚙️</div><h3>Automation &amp; integrations</h3><div class="price"><small>from</small> €150</div></div>
+  <div class="tier"><div class="ic">✍️</div><h3>AI content &amp; language</h3><div class="price"><small>from</small> €60</div></div>
+  <div class="tier"><div class="ic">📊</div><h3>Data &amp; reports</h3><div class="price"><small>from</small> €120</div></div>
+  <div class="tier"><div class="ic">🌐</div><h3>Web presence</h3><div class="price"><small>from</small> €180</div></div>
+  <div class="tier"><div class="ic">🚀</div><h3>Web &amp; mobile apps · MVPs</h3><div class="price"><small>from</small> €1,500</div></div>
+</div>
+</body></html>

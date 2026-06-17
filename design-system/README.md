@@ -9,9 +9,9 @@ Pushed to claude.ai/design via the `/design-sync` skill (DesignSync tool) so eve
 deck or landing Claude Design generates for the studio is already on-brand.
 
 ## Cards
-- `01-colors`, `02-typography` — **Foundations** (palette, gradients, Inter scale)
-- `03-buttons`, `04-badge-chips`, `05-service-card`, `06-catalog-card`, `07-feature-step` — **Components**
-- `08-chat-mockup`, `09-cta-panel` — **Patterns**
+- `01-colors`, `02-typography`, `12-section-heading` — **Foundations** (palette, gradients, Inter scale, section headers)
+- `03-buttons`, `04-badge-chips`, `05-service-card`, `06-catalog-card`, `07-feature-step`, `10-header-nav`, `14-feed-card`, `15-form-fields` — **Components**
+- `08-chat-mockup`, `09-cta-panel`, `11-hero`, `13-pricing` — **Patterns** (full hero, pricing grid)
 
 ## Re-sync after editing
 ```
