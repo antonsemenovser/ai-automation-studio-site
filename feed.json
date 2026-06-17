@@ -1,14 +1,78 @@
 {
-  "updated": "2026-06-17 11:17 UTC",
+  "updated": "2026-06-17 17:24 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "title": "The next humanoid robot might not look human at all",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03787_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "video",
+      "id": "_7BHqZayPOc",
+      "title": "PewDiePie Wants To Take Down The Big AI Companies",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=_7BHqZayPOc",
+      "embed": "https://www.youtube.com/embed/_7BHqZayPOc",
+      "thumb": "https://i.ytimg.com/vi/_7BHqZayPOc/hqdefault.jpg",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
+      "published": "2026-06-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/ask-pinterest.jpg?resize=1200,922",
       "published": "2026-06-17"
     },
     {
@@ -22,15 +86,6 @@
       "published": "2026-06-16"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-16"
-    },
-    {
       "kind": "video",
       "id": "5cjqvl5SaWk",
       "title": "Como faço o Claude lembrar de tudo sem precisar pagar por memória extra",
@@ -38,51 +93,6 @@
       "url": "https://www.youtube.com/watch?v=5cjqvl5SaWk",
       "embed": "https://www.youtube.com/embed/5cjqvl5SaWk",
       "thumb": "https://i.ytimg.com/vi/5cjqvl5SaWk/hqdefault.jpg",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/08/SilverBlack-Plaud-Note-Pro.jpeg?resize=1200,675",
-      "published": "2026-06-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
       "published": "2026-06-16"
     },
     {
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=m5nwIZFZ6ZE",
       "embed": "https://www.youtube.com/embed/m5nwIZFZ6ZE",
       "thumb": "https://i.ytimg.com/vi/m5nwIZFZ6ZE/hqdefault.jpg",
-      "published": "2026-06-12"
-    },
-    {
-      "kind": "video",
-      "id": "nydHKXjwu0U",
-      "title": "AI News: An INSANE Week… Here’s What Matters",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=nydHKXjwu0U",
-      "embed": "https://www.youtube.com/embed/nydHKXjwu0U",
-      "thumb": "https://i.ytimg.com/vi/nydHKXjwu0U/hqdefault.jpg",
       "published": "2026-06-12"
     }
   ]
