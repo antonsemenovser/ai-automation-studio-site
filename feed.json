@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-18 10:48 UTC",
+  "updated": "2026-06-18 17:29 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "title": "Who decides when AI is too dangerous?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "title": "Photoshop and Premiere now have AI assistants",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-18"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
@@ -18,51 +63,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "published": "2026-06-17"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/03/Tiffany-Luck_headshot.jpg?resize=1200,800",
-      "published": "2026-06-17"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281424015.jpg?w=1024",
-      "published": "2026-06-17"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "published": "2026-06-17"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-      "published": "2026-06-17"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "title": "Two-thirds of Americans think AI is advancing too quickly",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-17"
     },
     {
