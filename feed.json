@@ -1,74 +1,94 @@
 {
-  "updated": "2026-06-18 17:29 UTC",
+  "updated": "2026-06-19 10:57 UTC",
   "count": 14,
   "items": [
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
-      "published": "2026-06-18"
+      "kind": "video",
+      "id": "E-G-CvhDxeU",
+      "title": "n8n Dropped their own Skills Plugin",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=E-G-CvhDxeU",
+      "embed": "https://www.youtube.com/embed/E-G-CvhDxeU",
+      "thumb": "https://i.ytimg.com/vi/E-G-CvhDxeU/hqdefault.jpg",
+      "published": "2026-06-19"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
-      "published": "2026-06-18"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "title": "Who decides when AI is too dangerous?",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
       "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-18"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-19"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "title": "Photoshop and Premiere now have AI assistants",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-18"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-18"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "title": "How to turn off AI in your Google Docs",
+      "id": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+      "published": "2026-06-19"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "video",
+      "id": "l7Bu2Xwf3Po",
+      "title": "Por que os tutoriais de carrossel com IA te ensinam da forma errada",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=l7Bu2Xwf3Po",
+      "embed": "https://www.youtube.com/embed/l7Bu2Xwf3Po",
+      "thumb": "https://i.ytimg.com/vi/l7Bu2Xwf3Po/hqdefault.jpg",
       "published": "2026-06-18"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "id": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "published": "2026-06-17"
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?resize=1200,856",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
+      "published": "2026-06-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
+      "published": "2026-06-18"
     },
     {
       "kind": "video",
       "id": "_7BHqZayPOc",
-      "title": "I Tried PewDiePie’s Odysseus AI So You Don’t Have To (Its FREE)",
+      "title": "PewDiePie’s FREE Odysseus AI (Full Review & Setup)",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=_7BHqZayPOc",
       "embed": "https://www.youtube.com/embed/_7BHqZayPOc",
@@ -98,7 +118,7 @@
     {
       "kind": "video",
       "id": "NQof8hG8FwE",
-      "title": "The Most Insane New Apple AI Features",
+      "title": "The Most Insane iPhone AI Features",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=NQof8hG8FwE",
       "embed": "https://www.youtube.com/embed/NQof8hG8FwE",
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/W53XPj4tAyE",
       "thumb": "https://i.ytimg.com/vi/W53XPj4tAyE/hqdefault.jpg",
       "published": "2026-06-15"
-    },
-    {
-      "kind": "video",
-      "id": "zjFE-dBzP_E",
-      "title": "You NEED to try these open-source AI projects RIGHT NOW",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
-      "embed": "https://www.youtube.com/embed/zjFE-dBzP_E",
-      "thumb": "https://i.ytimg.com/vi/zjFE-dBzP_E/hqdefault.jpg",
-      "published": "2026-06-12"
-    },
-    {
-      "kind": "video",
-      "id": "m5nwIZFZ6ZE",
-      "title": "How To Use Claude Cowork + n8n Better Than 99% of People",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=m5nwIZFZ6ZE",
-      "embed": "https://www.youtube.com/embed/m5nwIZFZ6ZE",
-      "thumb": "https://i.ytimg.com/vi/m5nwIZFZ6ZE/hqdefault.jpg",
-      "published": "2026-06-12"
     }
   ]
 }
