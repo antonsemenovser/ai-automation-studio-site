@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-21 10:05 UTC",
+  "updated": "2026-06-21 16:11 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
+      "published": "2026-06-21"
+    },
+    {
+      "kind": "video",
+      "id": "v-6KM2ysQYo",
+      "title": "Claude Code + Unreal Engine: Build a Full Game with AI (MCP Setup Tutorial)",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=v-6KM2ysQYo",
+      "embed": "https://www.youtube.com/embed/v-6KM2ysQYo",
+      "thumb": "https://i.ytimg.com/vi/v-6KM2ysQYo/hqdefault.jpg",
+      "published": "2026-06-21"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
@@ -77,15 +96,6 @@
       "published": "2026-06-19"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
-      "published": "2026-06-19"
-    },
-    {
       "kind": "video",
       "id": "l7Bu2Xwf3Po",
       "title": "Por que os tutoriais de carrossel com IA te ensinam da forma errada",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/5cjqvl5SaWk",
       "thumb": "https://i.ytimg.com/vi/5cjqvl5SaWk/hqdefault.jpg",
       "published": "2026-06-16"
-    },
-    {
-      "kind": "video",
-      "id": "NQof8hG8FwE",
-      "title": "The Most Insane iPhone AI Features",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=NQof8hG8FwE",
-      "embed": "https://www.youtube.com/embed/NQof8hG8FwE",
-      "thumb": "https://i.ytimg.com/vi/NQof8hG8FwE/hqdefault.jpg",
-      "published": "2026-06-15"
     }
   ]
 }
