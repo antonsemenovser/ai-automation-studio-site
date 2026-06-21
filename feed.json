@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-20 15:54 UTC",
+  "updated": "2026-06-21 10:05 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
+      "published": "2026-06-20"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1278815846.jpg?resize=1200,800",
+      "published": "2026-06-20"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-20"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
@@ -59,15 +86,6 @@
       "published": "2026-06-19"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
-      "published": "2026-06-18"
-    },
-    {
       "kind": "video",
       "id": "l7Bu2Xwf3Po",
       "title": "Por que os tutoriais de carrossel com IA te ensinam da forma errada",
@@ -75,24 +93,6 @@
       "url": "https://www.youtube.com/watch?v=l7Bu2Xwf3Po",
       "embed": "https://www.youtube.com/embed/l7Bu2Xwf3Po",
       "thumb": "https://i.ytimg.com/vi/l7Bu2Xwf3Po/hqdefault.jpg",
-      "published": "2026-06-18"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?resize=1200,856",
-      "published": "2026-06-18"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
       "published": "2026-06-18"
     },
     {
