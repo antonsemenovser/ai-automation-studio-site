@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-23 10:02 UTC",
+  "updated": "2026-06-23 16:42 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-23"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-23"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200",
+      "published": "2026-06-23"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -36,33 +63,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-22"
     },
     {
