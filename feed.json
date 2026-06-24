@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-24 09:51 UTC",
+  "updated": "2026-06-24 16:33 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "title": "Figma now has AI motion graphics and shader tools",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "video",
+      "id": "7lfyY5ZiHgg",
+      "title": "The Only PewDiePie Odysseus AI Tutorial You'll Need",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=7lfyY5ZiHgg",
+      "embed": "https://www.youtube.com/embed/7lfyY5ZiHgg",
+      "thumb": "https://i.ytimg.com/vi/7lfyY5ZiHgg/hqdefault.jpg",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "video",
+      "id": "69LoLPpbKxs",
+      "title": "O Claude Criou um Dashboard do zero pra mim!",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=69LoLPpbKxs",
+      "embed": "https://www.youtube.com/embed/69LoLPpbKxs",
+      "thumb": "https://i.ytimg.com/vi/69LoLPpbKxs/hqdefault.jpg",
+      "published": "2026-06-24"
+    },
     {
       "kind": "video",
       "id": "2lmBj_XQq0I",
@@ -50,42 +106,6 @@
       "published": "2026-06-23"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-23"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-23"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200",
-      "published": "2026-06-23"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
-      "published": "2026-06-23"
-    },
-    {
       "kind": "video",
       "id": "J9Ih4ROpo4A",
       "title": "Como criar skills que realmente funcionam no Claude",
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/0V-cBQZ9Qrw",
       "thumb": "https://i.ytimg.com/vi/0V-cBQZ9Qrw/hqdefault.jpg",
       "published": "2026-06-22"
-    },
-    {
-      "kind": "video",
-      "id": "cT1zhqtrDSk",
-      "title": "How I Run a 100K YouTube Channel Using AI",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=cT1zhqtrDSk",
-      "embed": "https://www.youtube.com/embed/cT1zhqtrDSk",
-      "thumb": "https://i.ytimg.com/vi/cT1zhqtrDSk/hqdefault.jpg",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "video",
-      "id": "v-6KM2ysQYo",
-      "title": "Claude Code + Unreal Engine: Build a Full Game with AI (MCP Setup Tutorial)",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=v-6KM2ysQYo",
-      "embed": "https://www.youtube.com/embed/v-6KM2ysQYo",
-      "thumb": "https://i.ytimg.com/vi/v-6KM2ysQYo/hqdefault.jpg",
-      "published": "2026-06-21"
     }
   ]
 }
