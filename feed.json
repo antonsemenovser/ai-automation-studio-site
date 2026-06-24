@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-23 16:42 UTC",
+  "updated": "2026-06-24 09:51 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "2lmBj_XQq0I",
+      "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
+      "embed": "https://www.youtube.com/embed/2lmBj_XQq0I",
+      "thumb": "https://i.ytimg.com/vi/2lmBj_XQq0I/hqdefault.jpg",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+      "published": "2026-06-23"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "title": "Hollywood is bending the knee to OpenAI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+      "published": "2026-06-23"
+    },
+    {
+      "kind": "video",
+      "id": "j7A3tqdyz80",
+      "title": "O conector que coloca 500 ferramentas dentro do Claude de uma vez",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=j7A3tqdyz80",
+      "embed": "https://www.youtube.com/embed/j7A3tqdyz80",
+      "thumb": "https://i.ytimg.com/vi/j7A3tqdyz80/hqdefault.jpg",
+      "published": "2026-06-23"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-23"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
@@ -37,33 +84,6 @@
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
       "published": "2026-06-23"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-      "published": "2026-06-23"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "title": "The AI world is getting ‘loopy’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
-      "published": "2026-06-22"
     },
     {
       "kind": "video",
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/v-6KM2ysQYo",
       "thumb": "https://i.ytimg.com/vi/v-6KM2ysQYo/hqdefault.jpg",
       "published": "2026-06-21"
-    },
-    {
-      "kind": "video",
-      "id": "Db260rUuKJg",
-      "title": "AI News: No One Saw This Coming!",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=Db260rUuKJg",
-      "embed": "https://www.youtube.com/embed/Db260rUuKJg",
-      "thumb": "https://i.ytimg.com/vi/Db260rUuKJg/hqdefault.jpg",
-      "published": "2026-06-19"
-    },
-    {
-      "kind": "video",
-      "id": "E-G-CvhDxeU",
-      "title": "n8n Dropped their own Skills Plugin",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=E-G-CvhDxeU",
-      "embed": "https://www.youtube.com/embed/E-G-CvhDxeU",
-      "thumb": "https://i.ytimg.com/vi/E-G-CvhDxeU/hqdefault.jpg",
-      "published": "2026-06-19"
     }
   ]
 }
