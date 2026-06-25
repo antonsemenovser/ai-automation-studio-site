@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-25 09:44 UTC",
+  "updated": "2026-06-25 16:36 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "title": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
+      "published": "2026-06-25"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
@@ -30,6 +57,15 @@
       "published": "2026-06-24"
     },
     {
+      "kind": "news",
+      "id": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-24"
+    },
+    {
       "kind": "video",
       "id": "EtxdB7gpFqY",
       "title": "AI can run for days on its own now",
@@ -47,42 +83,6 @@
       "url": "https://www.youtube.com/watch?v=STH929HARLo",
       "embed": "https://www.youtube.com/embed/STH929HARLo",
       "thumb": "https://i.ytimg.com/vi/STH929HARLo/hqdefault.jpg",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "title": "Congresswoman denies staff used AI to write defense funding amendment",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "title": "Figma now has AI motion graphics and shader tools",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "title": "Facebook rolls out an AI companion app for creators",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
       "published": "2026-06-24"
     },
     {
