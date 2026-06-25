@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-24 16:33 UTC",
+  "updated": "2026-06-25 09:44 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?resize=1200,800",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?resize=1200,645",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "video",
+      "id": "EtxdB7gpFqY",
+      "title": "AI can run for days on its own now",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=EtxdB7gpFqY",
+      "embed": "https://www.youtube.com/embed/EtxdB7gpFqY",
+      "thumb": "https://i.ytimg.com/vi/EtxdB7gpFqY/hqdefault.jpg",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "video",
+      "id": "STH929HARLo",
+      "title": "9 Free AI Skills That Feel Like Cheat Codes",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=STH929HARLo",
+      "embed": "https://www.youtube.com/embed/STH929HARLo",
+      "thumb": "https://i.ytimg.com/vi/STH929HARLo/hqdefault.jpg",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+      "published": "2026-06-24"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-24"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
@@ -13,29 +78,11 @@
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "id": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "title": "Facebook rolls out an AI companion app for creators",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "title": "OpenAI reveals its first AI processor: Jalapeño",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
       "published": "2026-06-24"
     },
     {
@@ -69,24 +116,6 @@
       "published": "2026-06-24"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-      "published": "2026-06-23"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "title": "Hollywood is bending the knee to OpenAI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
-      "published": "2026-06-23"
-    },
-    {
       "kind": "video",
       "id": "j7A3tqdyz80",
       "title": "O conector que coloca 500 ferramentas dentro do Claude de uma vez",
@@ -97,15 +126,6 @@
       "published": "2026-06-23"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "title": "Why corporate AI super PACs spent $27 million on a local election",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-23"
-    },
-    {
       "kind": "video",
       "id": "J9Ih4ROpo4A",
       "title": "Como criar skills que realmente funcionam no Claude",
@@ -113,26 +133,6 @@
       "url": "https://www.youtube.com/watch?v=J9Ih4ROpo4A",
       "embed": "https://www.youtube.com/embed/J9Ih4ROpo4A",
       "thumb": "https://i.ytimg.com/vi/J9Ih4ROpo4A/hqdefault.jpg",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "video",
-      "id": "DjUXM0XwQdQ",
-      "title": "You're invited to n8n fest 2026",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=DjUXM0XwQdQ",
-      "embed": "https://www.youtube.com/embed/DjUXM0XwQdQ",
-      "thumb": "https://i.ytimg.com/vi/DjUXM0XwQdQ/hqdefault.jpg",
-      "published": "2026-06-22"
-    },
-    {
-      "kind": "video",
-      "id": "0V-cBQZ9Qrw",
-      "title": "How we use n8n: Senior Dev Rel, Education",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=0V-cBQZ9Qrw",
-      "embed": "https://www.youtube.com/embed/0V-cBQZ9Qrw",
-      "thumb": "https://i.ytimg.com/vi/0V-cBQZ9Qrw/hqdefault.jpg",
       "published": "2026-06-22"
     }
   ]
