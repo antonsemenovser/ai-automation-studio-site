@@ -1,14 +1,99 @@
 {
-  "updated": "2026-06-25 16:36 UTC",
+  "updated": "2026-06-26 09:52 UTC",
   "count": 14,
   "items": [
     {
+      "kind": "video",
+      "id": "oQ_aqiSTLQc",
+      "title": "GPT 5.6 is officially BANNED",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=oQ_aqiSTLQc",
+      "embed": "https://www.youtube.com/embed/oQ_aqiSTLQc",
+      "thumb": "https://i.ytimg.com/vi/oQ_aqiSTLQc/hqdefault.jpg",
+      "published": "2026-06-26"
+    },
+    {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "title": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "id": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "video",
+      "id": "jMARLiBFtL4",
+      "title": "A forma mais eficiente de usar IA no trabalho que quase ninguém usa",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=jMARLiBFtL4",
+      "embed": "https://www.youtube.com/embed/jMARLiBFtL4",
+      "thumb": "https://i.ytimg.com/vi/jMARLiBFtL4/hqdefault.jpg",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Patronus-team.jpg?resize=1200,800",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "video",
+      "id": "LE5NN3AjCnM",
+      "title": "Debunking AI \"Brain Rot\"",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=LE5NN3AjCnM",
+      "embed": "https://www.youtube.com/embed/LE5NN3AjCnM",
+      "thumb": "https://i.ytimg.com/vi/LE5NN3AjCnM/hqdefault.jpg",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "video",
+      "id": "_gtQJTnWA4E",
+      "title": "AI companies are trying to take over",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=_gtQJTnWA4E",
+      "embed": "https://www.youtube.com/embed/_gtQJTnWA4E",
+      "thumb": "https://i.ytimg.com/vi/_gtQJTnWA4E/hqdefault.jpg",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+      "published": "2026-06-25"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
       "published": "2026-06-25"
     },
     {
@@ -19,51 +104,6 @@
       "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
       "published": "2026-06-25"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
-      "published": "2026-06-25"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-25"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?resize=1200,800",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "title": "AI researchers continue to leave Google for its rivals",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?resize=1200,645",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-24"
     },
     {
       "kind": "video",
@@ -94,46 +134,6 @@
       "embed": "https://www.youtube.com/embed/7lfyY5ZiHgg",
       "thumb": "https://i.ytimg.com/vi/7lfyY5ZiHgg/hqdefault.jpg",
       "published": "2026-06-24"
-    },
-    {
-      "kind": "video",
-      "id": "69LoLPpbKxs",
-      "title": "O Claude Criou um Dashboard do zero pra mim!",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=69LoLPpbKxs",
-      "embed": "https://www.youtube.com/embed/69LoLPpbKxs",
-      "thumb": "https://i.ytimg.com/vi/69LoLPpbKxs/hqdefault.jpg",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "video",
-      "id": "2lmBj_XQq0I",
-      "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
-      "embed": "https://www.youtube.com/embed/2lmBj_XQq0I",
-      "thumb": "https://i.ytimg.com/vi/2lmBj_XQq0I/hqdefault.jpg",
-      "published": "2026-06-24"
-    },
-    {
-      "kind": "video",
-      "id": "j7A3tqdyz80",
-      "title": "O conector que coloca 500 ferramentas dentro do Claude de uma vez",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=j7A3tqdyz80",
-      "embed": "https://www.youtube.com/embed/j7A3tqdyz80",
-      "thumb": "https://i.ytimg.com/vi/j7A3tqdyz80/hqdefault.jpg",
-      "published": "2026-06-23"
-    },
-    {
-      "kind": "video",
-      "id": "J9Ih4ROpo4A",
-      "title": "Como criar skills que realmente funcionam no Claude",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=J9Ih4ROpo4A",
-      "embed": "https://www.youtube.com/embed/J9Ih4ROpo4A",
-      "thumb": "https://i.ytimg.com/vi/J9Ih4ROpo4A/hqdefault.jpg",
-      "published": "2026-06-22"
     }
   ]
 }
