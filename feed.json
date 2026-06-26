@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-26 09:52 UTC",
+  "updated": "2026-06-26 16:28 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
+      "published": "2026-06-26"
+    },
     {
       "kind": "video",
       "id": "oQ_aqiSTLQc",
@@ -52,7 +61,7 @@
     {
       "kind": "video",
       "id": "LE5NN3AjCnM",
-      "title": "Debunking AI \"Brain Rot\"",
+      "title": "They're Lying About AI \"Brain Rot\"",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=LE5NN3AjCnM",
       "embed": "https://www.youtube.com/embed/LE5NN3AjCnM",
@@ -94,15 +103,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
-      "published": "2026-06-25"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
       "published": "2026-06-25"
     },
     {
