@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-27 08:49 UTC",
+  "updated": "2026-06-27 15:39 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "fvXWEqut82c",
+      "title": "Apple just raised prices...",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=fvXWEqut82c",
+      "embed": "https://www.youtube.com/embed/fvXWEqut82c",
+      "thumb": "https://i.ytimg.com/vi/fvXWEqut82c/hqdefault.jpg",
+      "published": "2026-06-27"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM.png?resize=1200,683",
+      "published": "2026-06-27"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-27"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "published": "2026-06-27"
+    },
     {
       "kind": "video",
       "id": "rg9oHMXzLl0",
@@ -69,15 +106,6 @@
       "published": "2026-06-26"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-      "published": "2026-06-26"
-    },
-    {
       "kind": "video",
       "id": "oQ_aqiSTLQc",
       "title": "GPT 5.6 is officially BANNED",
@@ -86,15 +114,6 @@
       "embed": "https://www.youtube.com/embed/oQ_aqiSTLQc",
       "thumb": "https://i.ytimg.com/vi/oQ_aqiSTLQc/hqdefault.jpg",
       "published": "2026-06-26"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-      "published": "2026-06-25"
     },
     {
       "kind": "video",
@@ -107,15 +126,6 @@
       "published": "2026-06-25"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-25"
-    },
-    {
       "kind": "video",
       "id": "LE5NN3AjCnM",
       "title": "They're Lying About AI \"Brain Rot\"",
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=LE5NN3AjCnM",
       "embed": "https://www.youtube.com/embed/LE5NN3AjCnM",
       "thumb": "https://i.ytimg.com/vi/LE5NN3AjCnM/hqdefault.jpg",
-      "published": "2026-06-25"
-    },
-    {
-      "kind": "video",
-      "id": "_gtQJTnWA4E",
-      "title": "AI companies are trying to take over",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=_gtQJTnWA4E",
-      "embed": "https://www.youtube.com/embed/_gtQJTnWA4E",
-      "thumb": "https://i.ytimg.com/vi/_gtQJTnWA4E/hqdefault.jpg",
       "published": "2026-06-25"
     }
   ]
