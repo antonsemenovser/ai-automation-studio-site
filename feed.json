@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-28 09:32 UTC",
+  "updated": "2026-06-28 15:40 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-28"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
@@ -74,15 +83,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
-      "published": "2026-06-26"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
       "published": "2026-06-26"
     },
     {
