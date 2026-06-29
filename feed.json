@@ -1,42 +1,33 @@
 {
-  "updated": "2026-06-29 11:23 UTC",
+  "updated": "2026-06-29 17:12 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-28"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-28"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "id": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
-      "published": "2026-06-28"
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+      "published": "2026-06-29"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "id": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+      "published": "2026-06-29"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "title": "Lawmakers want to ban AI companies from selling your health data",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-28"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-29"
     },
     {
       "kind": "news",
@@ -45,25 +36,44 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-27"
+      "published": "2026-06-29"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-27"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "id": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
-      "published": "2026-06-27"
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
+      "published": "2026-06-29"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Omen-AI-Team_1.jpg?resize=1200,800",
+      "published": "2026-06-29"
+    },
+    {
+      "kind": "video",
+      "id": "sNzsGC2zf6c",
+      "title": "How To Generate The BEST Motion Graphics With AI",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=sNzsGC2zf6c",
+      "embed": "https://www.youtube.com/embed/sNzsGC2zf6c",
+      "thumb": "https://i.ytimg.com/vi/sNzsGC2zf6c/hqdefault.jpg",
+      "published": "2026-06-29"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-28"
     },
     {
       "kind": "video",
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=jMARLiBFtL4",
       "embed": "https://www.youtube.com/embed/jMARLiBFtL4",
       "thumb": "https://i.ytimg.com/vi/jMARLiBFtL4/hqdefault.jpg",
-      "published": "2026-06-25"
-    },
-    {
-      "kind": "video",
-      "id": "LE5NN3AjCnM",
-      "title": "They're Lying About AI \"Brain Rot\"",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=LE5NN3AjCnM",
-      "embed": "https://www.youtube.com/embed/LE5NN3AjCnM",
-      "thumb": "https://i.ytimg.com/vi/LE5NN3AjCnM/hqdefault.jpg",
       "published": "2026-06-25"
     }
   ]
