@@ -1,79 +1,89 @@
 {
-  "updated": "2026-06-29 17:12 UTC",
+  "updated": "2026-06-30 10:01 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "id": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "title": "The AI jobs debate just got messier",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "video",
+      "id": "xBhcX0JuyDU",
+      "title": "Como esse skill gera conteúdo viral em segundos usando o Claude Code",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=xBhcX0JuyDU",
+      "embed": "https://www.youtube.com/embed/xBhcX0JuyDU",
+      "thumb": "https://i.ytimg.com/vi/xBhcX0JuyDU/hqdefault.jpg",
       "published": "2026-06-29"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "id": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
+      "published": "2026-06-29"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "title": "OpenAI is teasing new hardware… for Codex",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-06-29"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "id": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Omen-AI-Team_1.jpg?resize=1200,800",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
       "published": "2026-06-29"
     },
     {
       "kind": "video",
       "id": "sNzsGC2zf6c",
-      "title": "How To Generate The BEST Motion Graphics With AI",
+      "title": "Generate The BEST Animations With AI",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=sNzsGC2zf6c",
       "embed": "https://www.youtube.com/embed/sNzsGC2zf6c",
       "thumb": "https://i.ytimg.com/vi/sNzsGC2zf6c/hqdefault.jpg",
       "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-28"
     },
     {
       "kind": "video",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/oQ_aqiSTLQc",
       "thumb": "https://i.ytimg.com/vi/oQ_aqiSTLQc/hqdefault.jpg",
       "published": "2026-06-26"
-    },
-    {
-      "kind": "video",
-      "id": "jMARLiBFtL4",
-      "title": "A forma mais eficiente de usar IA no trabalho que quase ninguém usa",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=jMARLiBFtL4",
-      "embed": "https://www.youtube.com/embed/jMARLiBFtL4",
-      "thumb": "https://i.ytimg.com/vi/jMARLiBFtL4/hqdefault.jpg",
-      "published": "2026-06-25"
     }
   ]
 }
