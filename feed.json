@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-30 10:01 UTC",
+  "updated": "2026-06-30 16:31 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "video",
+      "id": "BF7ohr7OJcE",
+      "title": "Don't Fall For This AI Trap",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=BF7ohr7OJcE",
+      "embed": "https://www.youtube.com/embed/BF7ohr7OJcE",
+      "thumb": "https://i.ytimg.com/vi/BF7ohr7OJcE/hqdefault.jpg",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "video",
+      "id": "cUwH8wxYDx8",
+      "title": "Pi + Ollama I Replaced Claude Code With This FREE Local Agent",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=cUwH8wxYDx8",
+      "embed": "https://www.youtube.com/embed/cUwH8wxYDx8",
+      "thumb": "https://i.ytimg.com/vi/cUwH8wxYDx8/hqdefault.jpg",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "title": "Libby will filter out AI content, kind of",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-30"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
@@ -30,15 +86,6 @@
       "published": "2026-06-30"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
-      "published": "2026-06-30"
-    },
-    {
       "kind": "video",
       "id": "xBhcX0JuyDU",
       "title": "Como esse skill gera conteúdo viral em segundos usando o Claude Code",
@@ -46,33 +93,6 @@
       "url": "https://www.youtube.com/watch?v=xBhcX0JuyDU",
       "embed": "https://www.youtube.com/embed/xBhcX0JuyDU",
       "thumb": "https://i.ytimg.com/vi/xBhcX0JuyDU/hqdefault.jpg",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
       "published": "2026-06-29"
     },
     {
@@ -113,26 +133,6 @@
       "url": "https://www.youtube.com/watch?v=zMVZvgCOr40",
       "embed": "https://www.youtube.com/embed/zMVZvgCOr40",
       "thumb": "https://i.ytimg.com/vi/zMVZvgCOr40/hqdefault.jpg",
-      "published": "2026-06-26"
-    },
-    {
-      "kind": "video",
-      "id": "vwSUy4m9lC0",
-      "title": "COMO eu crio roteiros para o Youtube usando o Claude",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=vwSUy4m9lC0",
-      "embed": "https://www.youtube.com/embed/vwSUy4m9lC0",
-      "thumb": "https://i.ytimg.com/vi/vwSUy4m9lC0/hqdefault.jpg",
-      "published": "2026-06-26"
-    },
-    {
-      "kind": "video",
-      "id": "oQ_aqiSTLQc",
-      "title": "GPT 5.6 is officially BANNED",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=oQ_aqiSTLQc",
-      "embed": "https://www.youtube.com/embed/oQ_aqiSTLQc",
-      "thumb": "https://i.ytimg.com/vi/oQ_aqiSTLQc/hqdefault.jpg",
       "published": "2026-06-26"
     }
   ]
