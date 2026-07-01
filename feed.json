@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-01 10:14 UTC",
+  "updated": "2026-07-01 16:39 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "video",
+      "id": "Qt0oRFQm_3U",
+      "title": "Why OpenAI Is Worth LESS Than Anthropic",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=Qt0oRFQm_3U",
+      "embed": "https://www.youtube.com/embed/Qt0oRFQm_3U",
+      "thumb": "https://i.ytimg.com/vi/Qt0oRFQm_3U/hqdefault.jpg",
+      "published": "2026-07-01"
+    },
     {
       "kind": "video",
       "id": "T66rsZ08tEw",
@@ -59,33 +96,6 @@
       "published": "2026-06-30"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
-      "published": "2026-06-30"
-    },
-    {
       "kind": "video",
       "id": "BF7ohr7OJcE",
       "title": "Don't Fall For This AI Trap",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/sNzsGC2zf6c",
       "thumb": "https://i.ytimg.com/vi/sNzsGC2zf6c/hqdefault.jpg",
       "published": "2026-06-29"
-    },
-    {
-      "kind": "video",
-      "id": "fvXWEqut82c",
-      "title": "Apple just raised prices...",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=fvXWEqut82c",
-      "embed": "https://www.youtube.com/embed/fvXWEqut82c",
-      "thumb": "https://i.ytimg.com/vi/fvXWEqut82c/hqdefault.jpg",
-      "published": "2026-06-27"
     }
   ]
 }
