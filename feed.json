@@ -1,32 +1,88 @@
 {
-  "updated": "2026-06-30 16:31 UTC",
+  "updated": "2026-07-01 10:14 UTC",
   "count": 14,
   "items": [
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
+      "kind": "video",
+      "id": "T66rsZ08tEw",
+      "title": "Ninguém fala sobre esses recursos do Codex",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=T66rsZ08tEw",
+      "embed": "https://www.youtube.com/embed/T66rsZ08tEw",
+      "thumb": "https://i.ytimg.com/vi/T66rsZ08tEw/hqdefault.jpg",
       "published": "2026-06-30"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "id": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "title": "OpenClaw is finally available on Android and iOS",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "video",
+      "id": "BjrNgkbGayY",
+      "title": "Essa IA chinesa cria LP de marca bilionária de graça",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=BjrNgkbGayY",
+      "embed": "https://www.youtube.com/embed/BjrNgkbGayY",
+      "thumb": "https://i.ytimg.com/vi/BjrNgkbGayY/hqdefault.jpg",
       "published": "2026-06-30"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "id": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Etched-founder-CEO-Gavin-Uberti.jpg?resize=1200,1029",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-06-30"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
       "published": "2026-06-30"
     },
     {
@@ -47,42 +103,6 @@
       "url": "https://www.youtube.com/watch?v=cUwH8wxYDx8",
       "embed": "https://www.youtube.com/embed/cUwH8wxYDx8",
       "thumb": "https://i.ytimg.com/vi/cUwH8wxYDx8/hqdefault.jpg",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "title": "Libby will filter out AI content, kind of",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "title": "The AI jobs debate just got messier",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
       "published": "2026-06-30"
     },
     {
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/fvXWEqut82c",
       "thumb": "https://i.ytimg.com/vi/fvXWEqut82c/hqdefault.jpg",
       "published": "2026-06-27"
-    },
-    {
-      "kind": "video",
-      "id": "rg9oHMXzLl0",
-      "title": "GPT 5.6 is officially NOT BANNED (even worse)",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=rg9oHMXzLl0",
-      "embed": "https://www.youtube.com/embed/rg9oHMXzLl0",
-      "thumb": "https://i.ytimg.com/vi/rg9oHMXzLl0/hqdefault.jpg",
-      "published": "2026-06-26"
-    },
-    {
-      "kind": "video",
-      "id": "zMVZvgCOr40",
-      "title": "AI News: The New Model That's As Good As Fable",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=zMVZvgCOr40",
-      "embed": "https://www.youtube.com/embed/zMVZvgCOr40",
-      "thumb": "https://i.ytimg.com/vi/zMVZvgCOr40/hqdefault.jpg",
-      "published": "2026-06-26"
     }
   ]
 }
