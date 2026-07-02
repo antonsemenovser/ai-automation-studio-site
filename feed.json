@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-02 09:32 UTC",
+  "updated": "2026-07-02 16:16 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "video",
+      "id": "VX3RXec-Ots",
+      "title": "OpenAI Codex: The Complete Beginner's Tutorial (2026)",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=VX3RXec-Ots",
+      "embed": "https://www.youtube.com/embed/VX3RXec-Ots",
+      "thumb": "https://i.ytimg.com/vi/VX3RXec-Ots/hqdefault.jpg",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-02"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
@@ -79,24 +116,6 @@
       "published": "2026-07-01"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
-      "published": "2026-07-01"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
-      "published": "2026-07-01"
-    },
-    {
       "kind": "video",
       "id": "Qt0oRFQm_3U",
       "title": "How OpenAI LOST To Anthropic's Valuation",
@@ -114,25 +133,6 @@
       "url": "https://www.youtube.com/watch?v=T66rsZ08tEw",
       "embed": "https://www.youtube.com/embed/T66rsZ08tEw",
       "thumb": "https://i.ytimg.com/vi/T66rsZ08tEw/hqdefault.jpg",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "title": "OpenClaw is finally available on Android and iOS",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "video",
-      "id": "BjrNgkbGayY",
-      "title": "Essa IA chinesa cria LP de marca bilionária de graça",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=BjrNgkbGayY",
-      "embed": "https://www.youtube.com/embed/BjrNgkbGayY",
-      "thumb": "https://i.ytimg.com/vi/BjrNgkbGayY/hqdefault.jpg",
       "published": "2026-06-30"
     }
   ]
