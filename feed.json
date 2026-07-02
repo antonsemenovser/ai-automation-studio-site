@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-01 16:39 UTC",
+  "updated": "2026-07-02 09:32 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "video",
+      "id": "kZ1aMvN-F9c",
+      "title": "Kimi K2.7 Gerou Minha Landing Page Melhor que Esperava",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=kZ1aMvN-F9c",
+      "embed": "https://www.youtube.com/embed/kZ1aMvN-F9c",
+      "thumb": "https://i.ytimg.com/vi/kZ1aMvN-F9c/hqdefault.jpg",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "video",
+      "id": "9iYrEZJIxE4",
+      "title": "Claude Sonnet 5: o modelo barato que assustou a própria Anthropic",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=9iYrEZJIxE4",
+      "embed": "https://www.youtube.com/embed/9iYrEZJIxE4",
+      "thumb": "https://i.ytimg.com/vi/9iYrEZJIxE4/hqdefault.jpg",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "video",
+      "id": "KgNXSNwvfzc",
+      "title": "I Automated My Home Security With n8n (Free Workflows Inside)",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=KgNXSNwvfzc",
+      "embed": "https://www.youtube.com/embed/KgNXSNwvfzc",
+      "thumb": "https://i.ytimg.com/vi/KgNXSNwvfzc/hqdefault.jpg",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "video",
+      "id": "XbHeJL45USQ",
+      "title": "GLM-5.2 Proves Open-Source AI is Finally Good Now!",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=XbHeJL45USQ",
+      "embed": "https://www.youtube.com/embed/XbHeJL45USQ",
+      "thumb": "https://i.ytimg.com/vi/XbHeJL45USQ/hqdefault.jpg",
+      "published": "2026-07-01"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
+      "published": "2026-07-01"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -32,7 +99,7 @@
     {
       "kind": "video",
       "id": "Qt0oRFQm_3U",
-      "title": "Why OpenAI Is Worth LESS Than Anthropic",
+      "title": "How OpenAI LOST To Anthropic's Valuation",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=Qt0oRFQm_3U",
       "embed": "https://www.youtube.com/embed/Qt0oRFQm_3U",
@@ -67,73 +134,6 @@
       "embed": "https://www.youtube.com/embed/BjrNgkbGayY",
       "thumb": "https://i.ytimg.com/vi/BjrNgkbGayY/hqdefault.jpg",
       "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Etched-founder-CEO-Gavin-Uberti.jpg?resize=1200,1029",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "video",
-      "id": "BF7ohr7OJcE",
-      "title": "Don't Fall For This AI Trap",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=BF7ohr7OJcE",
-      "embed": "https://www.youtube.com/embed/BF7ohr7OJcE",
-      "thumb": "https://i.ytimg.com/vi/BF7ohr7OJcE/hqdefault.jpg",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "video",
-      "id": "cUwH8wxYDx8",
-      "title": "Pi + Ollama I Replaced Claude Code With This FREE Local Agent",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=cUwH8wxYDx8",
-      "embed": "https://www.youtube.com/embed/cUwH8wxYDx8",
-      "thumb": "https://i.ytimg.com/vi/cUwH8wxYDx8/hqdefault.jpg",
-      "published": "2026-06-30"
-    },
-    {
-      "kind": "video",
-      "id": "xBhcX0JuyDU",
-      "title": "Como esse skill gera conteúdo viral em segundos usando o Claude Code",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=xBhcX0JuyDU",
-      "embed": "https://www.youtube.com/embed/xBhcX0JuyDU",
-      "thumb": "https://i.ytimg.com/vi/xBhcX0JuyDU/hqdefault.jpg",
-      "published": "2026-06-29"
-    },
-    {
-      "kind": "video",
-      "id": "sNzsGC2zf6c",
-      "title": "Generate The BEST Animations With AI",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=sNzsGC2zf6c",
-      "embed": "https://www.youtube.com/embed/sNzsGC2zf6c",
-      "thumb": "https://i.ytimg.com/vi/sNzsGC2zf6c/hqdefault.jpg",
-      "published": "2026-06-29"
     }
   ]
 }
