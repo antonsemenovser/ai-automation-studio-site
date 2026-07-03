@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-03 09:34 UTC",
+  "updated": "2026-07-03 16:00 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "VruF9Z6WrGg",
+      "title": "Same Prompt, Very Different Automations",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=VruF9Z6WrGg",
+      "embed": "https://www.youtube.com/embed/VruF9Z6WrGg",
+      "thumb": "https://i.ytimg.com/vi/VruF9Z6WrGg/hqdefault.jpg",
+      "published": "2026-07-03"
+    },
+    {
+      "kind": "video",
+      "id": "NVP_paJarG4",
+      "title": "AI News: Fable's Back But This New Model is Better?",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
+      "embed": "https://www.youtube.com/embed/NVP_paJarG4",
+      "thumb": "https://i.ytimg.com/vi/NVP_paJarG4/hqdefault.jpg",
+      "published": "2026-07-03"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -24,7 +44,7 @@
     {
       "kind": "video",
       "id": "iNlbPVrQA-U",
-      "title": "Sakana AI Venceu o Claude, Mas Não Do Jeito Que Você Pensa",
+      "title": "Sakana AI: Por Que o Japão Conseguiu Bater a IA Americana",
       "source": "NoCode StartUp",
       "url": "https://www.youtube.com/watch?v=iNlbPVrQA-U",
       "embed": "https://www.youtube.com/embed/iNlbPVrQA-U",
@@ -107,16 +127,6 @@
       "published": "2026-07-01"
     },
     {
-      "kind": "video",
-      "id": "KgNXSNwvfzc",
-      "title": "I Automated My Home Security With n8n (Free Workflows Inside)",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=KgNXSNwvfzc",
-      "embed": "https://www.youtube.com/embed/KgNXSNwvfzc",
-      "thumb": "https://i.ytimg.com/vi/KgNXSNwvfzc/hqdefault.jpg",
-      "published": "2026-07-01"
-    },
-    {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -124,16 +134,6 @@
       "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
       "published": "2026-07-01"
-    },
-    {
-      "kind": "video",
-      "id": "T66rsZ08tEw",
-      "title": "Ninguém fala sobre esses recursos do Codex",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=T66rsZ08tEw",
-      "embed": "https://www.youtube.com/embed/T66rsZ08tEw",
-      "thumb": "https://i.ytimg.com/vi/T66rsZ08tEw/hqdefault.jpg",
-      "published": "2026-06-30"
     }
   ]
 }
