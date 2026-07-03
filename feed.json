@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-02 16:16 UTC",
+  "updated": "2026-07-03 09:34 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "video",
+      "id": "JPPWiCWdTnQ",
+      "title": "O que você não sabia sobre skills de IA",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=JPPWiCWdTnQ",
+      "embed": "https://www.youtube.com/embed/JPPWiCWdTnQ",
+      "thumb": "https://i.ytimg.com/vi/JPPWiCWdTnQ/hqdefault.jpg",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "video",
+      "id": "iNlbPVrQA-U",
+      "title": "Sakana AI Venceu o Claude, Mas Não Do Jeito Que Você Pensa",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=iNlbPVrQA-U",
+      "embed": "https://www.youtube.com/embed/iNlbPVrQA-U",
+      "thumb": "https://i.ytimg.com/vi/iNlbPVrQA-U/hqdefault.jpg",
+      "published": "2026-07-02"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+      "published": "2026-07-02"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
@@ -85,44 +123,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
-      "published": "2026-07-01"
-    },
-    {
-      "kind": "video",
-      "id": "XbHeJL45USQ",
-      "title": "GLM-5.2 Proves Open-Source AI is Finally Good Now!",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=XbHeJL45USQ",
-      "embed": "https://www.youtube.com/embed/XbHeJL45USQ",
-      "thumb": "https://i.ytimg.com/vi/XbHeJL45USQ/hqdefault.jpg",
-      "published": "2026-07-01"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
-      "published": "2026-07-01"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
-      "published": "2026-07-01"
-    },
-    {
-      "kind": "video",
-      "id": "Qt0oRFQm_3U",
-      "title": "How OpenAI LOST To Anthropic's Valuation",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=Qt0oRFQm_3U",
-      "embed": "https://www.youtube.com/embed/Qt0oRFQm_3U",
-      "thumb": "https://i.ytimg.com/vi/Qt0oRFQm_3U/hqdefault.jpg",
       "published": "2026-07-01"
     },
     {
