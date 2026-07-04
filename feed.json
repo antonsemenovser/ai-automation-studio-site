@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-03 16:00 UTC",
+  "updated": "2026-07-04 09:01 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "hUH4HD6Ah9c",
+      "title": "The ONLY AI Benchmark You Need!",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=hUH4HD6Ah9c",
+      "embed": "https://www.youtube.com/embed/hUH4HD6Ah9c",
+      "thumb": "https://i.ytimg.com/vi/hUH4HD6Ah9c/hqdefault.jpg",
+      "published": "2026-07-04"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "title": "The only AI glossary you’ll need this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+      "published": "2026-07-03"
+    },
+    {
+      "kind": "video",
+      "id": "ehCcwVlrgKE",
+      "title": "Sakana AI faz o que o Claude e o ChatGPT não fazem?",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=ehCcwVlrgKE",
+      "embed": "https://www.youtube.com/embed/ehCcwVlrgKE",
+      "thumb": "https://i.ytimg.com/vi/ehCcwVlrgKE/hqdefault.jpg",
+      "published": "2026-07-03"
+    },
     {
       "kind": "video",
       "id": "VruF9Z6WrGg",
@@ -81,7 +110,7 @@
     {
       "kind": "video",
       "id": "VX3RXec-Ots",
-      "title": "OpenAI Codex: The Complete Beginner's Tutorial (2026)",
+      "title": "OpenAI Codex - Full Tutorial for Beginners",
       "source": "Leon van Zyl",
       "url": "https://www.youtube.com/watch?v=VX3RXec-Ots",
       "embed": "https://www.youtube.com/embed/VX3RXec-Ots",
@@ -105,35 +134,6 @@
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
       "published": "2026-07-02"
-    },
-    {
-      "kind": "video",
-      "id": "kZ1aMvN-F9c",
-      "title": "Kimi K2.7 Gerou Minha Landing Page Melhor que Esperava",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=kZ1aMvN-F9c",
-      "embed": "https://www.youtube.com/embed/kZ1aMvN-F9c",
-      "thumb": "https://i.ytimg.com/vi/kZ1aMvN-F9c/hqdefault.jpg",
-      "published": "2026-07-02"
-    },
-    {
-      "kind": "video",
-      "id": "9iYrEZJIxE4",
-      "title": "Claude Sonnet 5: o modelo barato que assustou a própria Anthropic",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=9iYrEZJIxE4",
-      "embed": "https://www.youtube.com/embed/9iYrEZJIxE4",
-      "thumb": "https://i.ytimg.com/vi/9iYrEZJIxE4/hqdefault.jpg",
-      "published": "2026-07-01"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
-      "published": "2026-07-01"
     }
   ]
 }
