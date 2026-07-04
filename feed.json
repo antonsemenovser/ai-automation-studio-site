@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04 09:01 UTC",
+  "updated": "2026-07-04 15:31 UTC",
   "count": 14,
   "items": [
     {
@@ -49,6 +49,15 @@
       "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
       "embed": "https://www.youtube.com/embed/NVP_paJarG4",
       "thumb": "https://i.ytimg.com/vi/NVP_paJarG4/hqdefault.jpg",
+      "published": "2026-07-03"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-07-03"
     },
     {
@@ -124,15 +133,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-02"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
       "published": "2026-07-02"
     }
   ]
