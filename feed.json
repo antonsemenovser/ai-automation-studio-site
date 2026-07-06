@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-06 11:03 UTC",
+  "updated": "2026-07-06 17:16 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+      "published": "2026-07-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
+      "published": "2026-07-06"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
@@ -58,15 +76,6 @@
       "published": "2026-07-04"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "title": "The only AI glossary you’ll need this year",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-      "published": "2026-07-03"
-    },
-    {
       "kind": "video",
       "id": "ehCcwVlrgKE",
       "title": "Sakana AI faz o que o Claude e o ChatGPT não fazem?",
@@ -94,15 +103,6 @@
       "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
       "embed": "https://www.youtube.com/embed/NVP_paJarG4",
       "thumb": "https://i.ytimg.com/vi/NVP_paJarG4/hqdefault.jpg",
-      "published": "2026-07-03"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-07-03"
     },
     {
