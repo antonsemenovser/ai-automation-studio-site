@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-06 17:16 UTC",
+  "updated": "2026-07-07 10:00 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "video",
+      "id": "1KKB_UiW6ls",
+      "title": "Cut your AI cost IN HALF (EASY)",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
+      "embed": "https://www.youtube.com/embed/1KKB_UiW6ls",
+      "thumb": "https://i.ytimg.com/vi/1KKB_UiW6ls/hqdefault.jpg",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
+      "published": "2026-07-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "published": "2026-07-06"
+    },
+    {
+      "kind": "video",
+      "id": "H8rZXlbA1ME",
+      "title": "Fiz essa automação pra Linkedin com o Claude Code!",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=H8rZXlbA1ME",
+      "embed": "https://www.youtube.com/embed/H8rZXlbA1ME",
+      "thumb": "https://i.ytimg.com/vi/H8rZXlbA1ME/hqdefault.jpg",
+      "published": "2026-07-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?resize=1200,800",
+      "published": "2026-07-06"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+      "published": "2026-07-06"
+    },
+    {
+      "kind": "video",
+      "id": "1CAy_mB6E-g",
+      "title": "Building An Automated Video Production Factory",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=1CAy_mB6E-g",
+      "embed": "https://www.youtube.com/embed/1CAy_mB6E-g",
+      "thumb": "https://i.ytimg.com/vi/1CAy_mB6E-g/hqdefault.jpg",
+      "published": "2026-07-06"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
@@ -13,62 +88,17 @@
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "id": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
       "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
-      "published": "2026-07-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-      "published": "2026-07-04"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
-      "published": "2026-07-04"
     },
     {
       "kind": "video",
       "id": "hUH4HD6Ah9c",
-      "title": "I Prompted Gary Busey with Every AI Model Ever!",
+      "title": "I Built a Time Machine for AI Models",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=hUH4HD6Ah9c",
       "embed": "https://www.youtube.com/embed/hUH4HD6Ah9c",
@@ -104,36 +134,6 @@
       "embed": "https://www.youtube.com/embed/NVP_paJarG4",
       "thumb": "https://i.ytimg.com/vi/NVP_paJarG4/hqdefault.jpg",
       "published": "2026-07-03"
-    },
-    {
-      "kind": "video",
-      "id": "JPPWiCWdTnQ",
-      "title": "O que você não sabia sobre skills de IA",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=JPPWiCWdTnQ",
-      "embed": "https://www.youtube.com/embed/JPPWiCWdTnQ",
-      "thumb": "https://i.ytimg.com/vi/JPPWiCWdTnQ/hqdefault.jpg",
-      "published": "2026-07-02"
-    },
-    {
-      "kind": "video",
-      "id": "iNlbPVrQA-U",
-      "title": "Sakana AI: Por Que o Japão Conseguiu Bater a IA Americana",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=iNlbPVrQA-U",
-      "embed": "https://www.youtube.com/embed/iNlbPVrQA-U",
-      "thumb": "https://i.ytimg.com/vi/iNlbPVrQA-U/hqdefault.jpg",
-      "published": "2026-07-02"
-    },
-    {
-      "kind": "video",
-      "id": "VX3RXec-Ots",
-      "title": "OpenAI Codex - Full Tutorial for Beginners",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=VX3RXec-Ots",
-      "embed": "https://www.youtube.com/embed/VX3RXec-Ots",
-      "thumb": "https://i.ytimg.com/vi/VX3RXec-Ots/hqdefault.jpg",
-      "published": "2026-07-02"
     }
   ]
 }
