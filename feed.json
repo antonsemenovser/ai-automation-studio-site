@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-07 10:00 UTC",
+  "updated": "2026-07-07 16:41 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "mCu3mVcvpLE",
+      "title": "This Movie Trailer Was Made Entirely With AI",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=mCu3mVcvpLE",
+      "embed": "https://www.youtube.com/embed/mCu3mVcvpLE",
+      "thumb": "https://i.ytimg.com/vi/mCu3mVcvpLE/hqdefault.jpg",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "video",
+      "id": "zHWco8xg7ME",
+      "title": "Cheap tricks for AI",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=zHWco8xg7ME",
+      "embed": "https://www.youtube.com/embed/zHWco8xg7ME",
+      "thumb": "https://i.ytimg.com/vi/zHWco8xg7ME/hqdefault.jpg",
+      "published": "2026-07-07"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
@@ -70,7 +99,7 @@
     {
       "kind": "video",
       "id": "1CAy_mB6E-g",
-      "title": "Building An Automated Video Production Factory",
+      "title": "Building An Automated Video Factory with Fable",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=1CAy_mB6E-g",
       "embed": "https://www.youtube.com/embed/1CAy_mB6E-g",
@@ -84,15 +113,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
       "published": "2026-07-06"
     },
     {
@@ -113,26 +133,6 @@
       "url": "https://www.youtube.com/watch?v=ehCcwVlrgKE",
       "embed": "https://www.youtube.com/embed/ehCcwVlrgKE",
       "thumb": "https://i.ytimg.com/vi/ehCcwVlrgKE/hqdefault.jpg",
-      "published": "2026-07-03"
-    },
-    {
-      "kind": "video",
-      "id": "VruF9Z6WrGg",
-      "title": "Where Should You Build Your Automation?",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=VruF9Z6WrGg",
-      "embed": "https://www.youtube.com/embed/VruF9Z6WrGg",
-      "thumb": "https://i.ytimg.com/vi/VruF9Z6WrGg/hqdefault.jpg",
-      "published": "2026-07-03"
-    },
-    {
-      "kind": "video",
-      "id": "NVP_paJarG4",
-      "title": "AI News: Fable's Back But This New Model is Better?",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
-      "embed": "https://www.youtube.com/embed/NVP_paJarG4",
-      "thumb": "https://i.ytimg.com/vi/NVP_paJarG4/hqdefault.jpg",
       "published": "2026-07-03"
     }
   ]
