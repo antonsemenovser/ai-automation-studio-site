@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-08 08:43 UTC",
+  "updated": "2026-07-08 16:12 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "video",
+      "id": "ptlZzbtzdfE",
+      "title": "I Built A Monetizable Business With AI",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=ptlZzbtzdfE",
+      "embed": "https://www.youtube.com/embed/ptlZzbtzdfE",
+      "thumb": "https://i.ytimg.com/vi/ptlZzbtzdfE/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "video",
+      "id": "X_oW2ZNJfcM",
+      "title": "These AI Agents Improve My App Every 10 Minutes While I Sleep",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=X_oW2ZNJfcM",
+      "embed": "https://www.youtube.com/embed/X_oW2ZNJfcM",
+      "thumb": "https://i.ytimg.com/vi/X_oW2ZNJfcM/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/kw_2019-1.jpg?resize=1198,1200",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-08"
+    },
     {
       "kind": "video",
       "id": "9D_UxabscdI",
@@ -71,38 +118,11 @@
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-07"
-    },
-    {
-      "kind": "news",
       "id": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
-      "published": "2026-07-07"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
-      "published": "2026-07-07"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
       "published": "2026-07-07"
     },
     {
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/zHWco8xg7ME",
       "thumb": "https://i.ytimg.com/vi/zHWco8xg7ME/hqdefault.jpg",
       "published": "2026-07-07"
-    },
-    {
-      "kind": "video",
-      "id": "1KKB_UiW6ls",
-      "title": "Cut your AI cost IN HALF (EASY)",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
-      "embed": "https://www.youtube.com/embed/1KKB_UiW6ls",
-      "thumb": "https://i.ytimg.com/vi/1KKB_UiW6ls/hqdefault.jpg",
-      "published": "2026-07-07"
-    },
-    {
-      "kind": "video",
-      "id": "H8rZXlbA1ME",
-      "title": "Fiz essa automação pra Linkedin com o Claude Code!",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=H8rZXlbA1ME",
-      "embed": "https://www.youtube.com/embed/H8rZXlbA1ME",
-      "thumb": "https://i.ytimg.com/vi/H8rZXlbA1ME/hqdefault.jpg",
-      "published": "2026-07-06"
     }
   ]
 }
