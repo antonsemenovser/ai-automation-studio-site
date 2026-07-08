@@ -1,24 +1,108 @@
 {
-  "updated": "2026-07-07 16:41 UTC",
+  "updated": "2026-07-08 08:43 UTC",
   "count": 14,
   "items": [
     {
       "kind": "video",
-      "id": "mCu3mVcvpLE",
-      "title": "This Movie Trailer Was Made Entirely With AI",
+      "id": "9D_UxabscdI",
+      "title": "So AI is \"thinking\" for real",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=9D_UxabscdI",
+      "embed": "https://www.youtube.com/embed/9D_UxabscdI",
+      "thumb": "https://i.ytimg.com/vi/9D_UxabscdI/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "video",
+      "id": "bjHuGNo3spk",
+      "title": "We just figured out how AI actually works (J-Space)",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=bjHuGNo3spk",
+      "embed": "https://www.youtube.com/embed/bjHuGNo3spk",
+      "thumb": "https://i.ytimg.com/vi/bjHuGNo3spk/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "video",
+      "id": "ICMqVnkqMuY",
+      "title": "Imersão Claude: do zero ao Orquestrador de Agentes",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=ICMqVnkqMuY",
+      "embed": "https://www.youtube.com/embed/ICMqVnkqMuY",
+      "thumb": "https://i.ytimg.com/vi/ICMqVnkqMuY/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "video",
+      "id": "bxdsBsbtoSg",
+      "title": "AI Can FINALLY Edit Videos For You",
       "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=mCu3mVcvpLE",
-      "embed": "https://www.youtube.com/embed/mCu3mVcvpLE",
-      "thumb": "https://i.ytimg.com/vi/mCu3mVcvpLE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bxdsBsbtoSg",
+      "embed": "https://www.youtube.com/embed/bxdsBsbtoSg",
+      "thumb": "https://i.ytimg.com/vi/bxdsBsbtoSg/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
       "published": "2026-07-07"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "id": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
+      "published": "2026-07-07"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
       "published": "2026-07-07"
     },
     {
@@ -32,15 +116,6 @@
       "published": "2026-07-07"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
-      "published": "2026-07-07"
-    },
-    {
       "kind": "video",
       "id": "1KKB_UiW6ls",
       "title": "Cut your AI cost IN HALF (EASY)",
@@ -51,24 +126,6 @@
       "published": "2026-07-07"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "published": "2026-07-06"
-    },
-    {
       "kind": "video",
       "id": "H8rZXlbA1ME",
       "title": "Fiz essa automação pra Linkedin com o Claude Code!",
@@ -77,63 +134,6 @@
       "embed": "https://www.youtube.com/embed/H8rZXlbA1ME",
       "thumb": "https://i.ytimg.com/vi/H8rZXlbA1ME/hqdefault.jpg",
       "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?resize=1200,800",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "video",
-      "id": "1CAy_mB6E-g",
-      "title": "Building An Automated Video Factory with Fable",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=1CAy_mB6E-g",
-      "embed": "https://www.youtube.com/embed/1CAy_mB6E-g",
-      "thumb": "https://i.ytimg.com/vi/1CAy_mB6E-g/hqdefault.jpg",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-      "published": "2026-07-06"
-    },
-    {
-      "kind": "video",
-      "id": "hUH4HD6Ah9c",
-      "title": "I Built a Time Machine for AI Models",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=hUH4HD6Ah9c",
-      "embed": "https://www.youtube.com/embed/hUH4HD6Ah9c",
-      "thumb": "https://i.ytimg.com/vi/hUH4HD6Ah9c/hqdefault.jpg",
-      "published": "2026-07-04"
-    },
-    {
-      "kind": "video",
-      "id": "ehCcwVlrgKE",
-      "title": "Sakana AI faz o que o Claude e o ChatGPT não fazem?",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=ehCcwVlrgKE",
-      "embed": "https://www.youtube.com/embed/ehCcwVlrgKE",
-      "thumb": "https://i.ytimg.com/vi/ehCcwVlrgKE/hqdefault.jpg",
-      "published": "2026-07-03"
     }
   ]
 }
