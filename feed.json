@@ -1,24 +1,88 @@
 {
-  "updated": "2026-07-08 16:12 UTC",
+  "updated": "2026-07-09 10:03 UTC",
   "count": 14,
   "items": [
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "title": "These AI startups are growing  revenue at faster and faster rates",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
-      "published": "2026-07-08"
+      "kind": "video",
+      "id": "ii5XPvUto2g",
+      "title": "Nunca Peça Isso pro ChatGPT",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=ii5XPvUto2g",
+      "embed": "https://www.youtube.com/embed/ii5XPvUto2g",
+      "thumb": "https://i.ytimg.com/vi/ii5XPvUto2g/hqdefault.jpg",
+      "published": "2026-07-09"
     },
     {
       "kind": "video",
-      "id": "ptlZzbtzdfE",
-      "title": "I Built A Monetizable Business With AI",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=ptlZzbtzdfE",
-      "embed": "https://www.youtube.com/embed/ptlZzbtzdfE",
-      "thumb": "https://i.ytimg.com/vi/ptlZzbtzdfE/hqdefault.jpg",
+      "id": "uKHqvu_nUzo",
+      "title": "44 Skills de Marketing Escondidas no Claude (Uso Só 5)",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=uKHqvu_nUzo",
+      "embed": "https://www.youtube.com/embed/uKHqvu_nUzo",
+      "thumb": "https://i.ytimg.com/vi/uKHqvu_nUzo/hqdefault.jpg",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
+      "published": "2026-07-08"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
       "published": "2026-07-08"
     },
     {
@@ -32,24 +96,6 @@
       "published": "2026-07-08"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/kw_2019-1.jpg?resize=1198,1200",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-08"
-    },
-    {
       "kind": "video",
       "id": "9D_UxabscdI",
       "title": "So AI is \"thinking\" for real",
@@ -57,24 +103,6 @@
       "url": "https://www.youtube.com/watch?v=9D_UxabscdI",
       "embed": "https://www.youtube.com/embed/9D_UxabscdI",
       "thumb": "https://i.ytimg.com/vi/9D_UxabscdI/hqdefault.jpg",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
       "published": "2026-07-08"
     },
     {
@@ -106,34 +134,6 @@
       "embed": "https://www.youtube.com/embed/bxdsBsbtoSg",
       "thumb": "https://i.ytimg.com/vi/bxdsBsbtoSg/hqdefault.jpg",
       "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
-      "published": "2026-07-07"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
-      "published": "2026-07-07"
-    },
-    {
-      "kind": "video",
-      "id": "zHWco8xg7ME",
-      "title": "Cheap tricks for AI",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=zHWco8xg7ME",
-      "embed": "https://www.youtube.com/embed/zHWco8xg7ME",
-      "thumb": "https://i.ytimg.com/vi/zHWco8xg7ME/hqdefault.jpg",
-      "published": "2026-07-07"
     }
   ]
 }
