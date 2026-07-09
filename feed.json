@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-09 10:03 UTC",
+  "updated": "2026-07-09 16:41 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-09"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "published": "2026-07-09"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
+      "published": "2026-07-09"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-09"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
+      "published": "2026-07-09"
+    },
     {
       "kind": "video",
       "id": "ii5XPvUto2g",
@@ -15,7 +60,7 @@
     {
       "kind": "video",
       "id": "uKHqvu_nUzo",
-      "title": "44 Skills de Marketing Escondidas no Claude (Uso Só 5)",
+      "title": "As únicas 5 Skills do Claude Pra Vendas",
       "source": "NoCode StartUp",
       "url": "https://www.youtube.com/watch?v=uKHqvu_nUzo",
       "embed": "https://www.youtube.com/embed/uKHqvu_nUzo",
@@ -38,51 +83,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
-      "published": "2026-07-08"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
       "published": "2026-07-08"
     },
     {
