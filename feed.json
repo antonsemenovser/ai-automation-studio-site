@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-10 09:52 UTC",
+  "updated": "2026-07-10 16:33 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "EOCRtSnvNNE",
+      "title": "AI News: GPT-5.6 and the new Super App are a Massive Leap!",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=EOCRtSnvNNE",
+      "embed": "https://www.youtube.com/embed/EOCRtSnvNNE",
+      "thumb": "https://i.ytimg.com/vi/EOCRtSnvNNE/hqdefault.jpg",
+      "published": "2026-07-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-10"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "title": "Would you host part of an AI data center in your home?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-10"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
@@ -43,7 +71,7 @@
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
@@ -68,24 +96,6 @@
       "published": "2026-07-09"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
-      "published": "2026-07-09"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
-      "published": "2026-07-09"
-    },
-    {
       "kind": "video",
       "id": "roGmNXASYOM",
       "title": "GPT-5.6 SOL is HERE",
@@ -93,16 +103,6 @@
       "url": "https://www.youtube.com/watch?v=roGmNXASYOM",
       "embed": "https://www.youtube.com/embed/roGmNXASYOM",
       "thumb": "https://i.ytimg.com/vi/roGmNXASYOM/hqdefault.jpg",
-      "published": "2026-07-09"
-    },
-    {
-      "kind": "video",
-      "id": "s3qT_4ZsAgk",
-      "title": "Como fazer um vídeo acima da média com IA (Usando o Remotion e o Claude Code)",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=s3qT_4ZsAgk",
-      "embed": "https://www.youtube.com/embed/s3qT_4ZsAgk",
-      "thumb": "https://i.ytimg.com/vi/s3qT_4ZsAgk/hqdefault.jpg",
       "published": "2026-07-09"
     },
     {
