@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-11 15:15 UTC",
+  "updated": "2026-07-12 08:31 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "Iir8dmNoNTg",
+      "title": "ChatGPT’s Latest Update Is MASSIVE",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=Iir8dmNoNTg",
+      "embed": "https://www.youtube.com/embed/Iir8dmNoNTg",
+      "thumb": "https://i.ytimg.com/vi/Iir8dmNoNTg/hqdefault.jpg",
+      "published": "2026-07-11"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+      "published": "2026-07-11"
+    },
     {
       "kind": "video",
       "id": "5Ls0BXthEQw",
@@ -97,15 +116,6 @@
       "published": "2026-07-10"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
-      "published": "2026-07-10"
-    },
-    {
       "kind": "video",
       "id": "Cu8V4_m_sjY",
       "title": "AI Agents Fix My App Every 10 Minutes (While I Sleep)",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/M63E52uSs_I",
       "thumb": "https://i.ytimg.com/vi/M63E52uSs_I/hqdefault.jpg",
       "published": "2026-07-10"
-    },
-    {
-      "kind": "video",
-      "id": "roGmNXASYOM",
-      "title": "GPT-5.6 SOL is HERE",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=roGmNXASYOM",
-      "embed": "https://www.youtube.com/embed/roGmNXASYOM",
-      "thumb": "https://i.ytimg.com/vi/roGmNXASYOM/hqdefault.jpg",
-      "published": "2026-07-09"
     }
   ]
 }
