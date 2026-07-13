@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-13 09:47 UTC",
+  "updated": "2026-07-13 16:43 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "title": "Should AI help you get away with killing your spouse?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
+      "published": "2026-07-13"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
+      "published": "2026-07-13"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "title": "The fight against AI data centers is just beginning",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-13"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-13"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
@@ -60,15 +96,6 @@
       "published": "2026-07-11"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-      "published": "2026-07-11"
-    },
-    {
       "kind": "video",
       "id": "5Ls0BXthEQw",
       "title": "The Hidden Catch With OpenAI's FREE Codex Cloud",
@@ -77,33 +104,6 @@
       "embed": "https://www.youtube.com/embed/5Ls0BXthEQw",
       "thumb": "https://i.ytimg.com/vi/5Ls0BXthEQw/hqdefault.jpg",
       "published": "2026-07-11"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
-      "published": "2026-07-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-10"
     },
     {
       "kind": "video",
