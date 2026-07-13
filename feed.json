@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-12 15:16 UTC",
+  "updated": "2026-07-13 09:47 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-13"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-13"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-13"
+    },
+    {
+      "kind": "video",
+      "id": "lIi2FjPgjkg",
+      "title": "This Tech CEO Is Building the “Linux of AI”",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=lIi2FjPgjkg",
+      "embed": "https://www.youtube.com/embed/lIi2FjPgjkg",
+      "thumb": "https://i.ytimg.com/vi/lIi2FjPgjkg/hqdefault.jpg",
+      "published": "2026-07-12"
+    },
+    {
+      "kind": "video",
+      "id": "mAmTBsIwkqc",
+      "title": "Build it yourself",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=mAmTBsIwkqc",
+      "embed": "https://www.youtube.com/embed/mAmTBsIwkqc",
+      "thumb": "https://i.ytimg.com/vi/mAmTBsIwkqc/hqdefault.jpg",
+      "published": "2026-07-12"
+    },
     {
       "kind": "video",
       "id": "Iir8dmNoNTg",
@@ -69,15 +116,6 @@
       "published": "2026-07-10"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-      "published": "2026-07-10"
-    },
-    {
       "kind": "video",
       "id": "2T-xz4DmacE",
       "title": "n8n Now Builds For You (n8n Assistant)",
@@ -88,24 +126,6 @@
       "published": "2026-07-10"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
-      "published": "2026-07-10"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/SK-Hynix.jpg?resize=1200,675",
-      "published": "2026-07-10"
-    },
-    {
       "kind": "video",
       "id": "EOCRtSnvNNE",
       "title": "AI News: GPT-5.6 and the new Super App are a Massive Leap!",
@@ -113,26 +133,6 @@
       "url": "https://www.youtube.com/watch?v=EOCRtSnvNNE",
       "embed": "https://www.youtube.com/embed/EOCRtSnvNNE",
       "thumb": "https://i.ytimg.com/vi/EOCRtSnvNNE/hqdefault.jpg",
-      "published": "2026-07-10"
-    },
-    {
-      "kind": "video",
-      "id": "Cu8V4_m_sjY",
-      "title": "AI Agents Fix My App Every 10 Minutes (While I Sleep)",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=Cu8V4_m_sjY",
-      "embed": "https://www.youtube.com/embed/Cu8V4_m_sjY",
-      "thumb": "https://i.ytimg.com/vi/Cu8V4_m_sjY/hqdefault.jpg",
-      "published": "2026-07-10"
-    },
-    {
-      "kind": "video",
-      "id": "M63E52uSs_I",
-      "title": "Deixa a IA vender enquanto você cresce #IA #negócio",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=M63E52uSs_I",
-      "embed": "https://www.youtube.com/embed/M63E52uSs_I",
-      "thumb": "https://i.ytimg.com/vi/M63E52uSs_I/hqdefault.jpg",
       "published": "2026-07-10"
     }
   ]
