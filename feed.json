@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-14 08:27 UTC",
+  "updated": "2026-07-14 15:45 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "auj9ajsiI9s",
+      "title": "‘How Mercedes-Benz Scales AI Agents with n8n’ - n8n Business Lab (April 2026)",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=auj9ajsiI9s",
+      "embed": "https://www.youtube.com/embed/auj9ajsiI9s",
+      "thumb": "https://i.ytimg.com/vi/auj9ajsiI9s/hqdefault.jpg",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "title": "The real AI race may no longer be at the frontier",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Superhuman-Auto-Drafts-2.jpeg?resize=1200,900",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "video",
+      "id": "Rdxo4Drwh10",
+      "title": "Grok 4.5 in Cursor: Agentic Coding Just Got WAY Cheaper (Full Tutorial)",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=Rdxo4Drwh10",
+      "embed": "https://www.youtube.com/embed/Rdxo4Drwh10",
+      "thumb": "https://i.ytimg.com/vi/Rdxo4Drwh10/hqdefault.jpg",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-14"
+    },
     {
       "kind": "video",
       "id": "4wSiQA8vG78",
@@ -24,7 +80,7 @@
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
@@ -38,42 +94,6 @@
       "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
       "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
       "published": "2026-07-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-      "published": "2026-07-13"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-      "published": "2026-07-13"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-13"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-      "published": "2026-07-13"
     },
     {
       "kind": "video",
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/5Ls0BXthEQw",
       "thumb": "https://i.ytimg.com/vi/5Ls0BXthEQw/hqdefault.jpg",
       "published": "2026-07-11"
-    },
-    {
-      "kind": "video",
-      "id": "Ar15fswiYMQ",
-      "title": "A skill de design para criar páginas absurdas!",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=Ar15fswiYMQ",
-      "embed": "https://www.youtube.com/embed/Ar15fswiYMQ",
-      "thumb": "https://i.ytimg.com/vi/Ar15fswiYMQ/hqdefault.jpg",
-      "published": "2026-07-10"
-    },
-    {
-      "kind": "video",
-      "id": "2T-xz4DmacE",
-      "title": "n8n Now Builds For You (n8n Assistant)",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=2T-xz4DmacE",
-      "embed": "https://www.youtube.com/embed/2T-xz4DmacE",
-      "thumb": "https://i.ytimg.com/vi/2T-xz4DmacE/hqdefault.jpg",
-      "published": "2026-07-10"
     }
   ]
 }
