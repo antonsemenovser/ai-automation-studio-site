@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-14 15:45 UTC",
+  "updated": "2026-07-15 08:35 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
+      "published": "2026-07-15"
+    },
+    {
+      "kind": "video",
+      "id": "Vb8b3GW79WQ",
+      "title": "Esse skill vai viralizar seu conteúdo",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=Vb8b3GW79WQ",
+      "embed": "https://www.youtube.com/embed/Vb8b3GW79WQ",
+      "thumb": "https://i.ytimg.com/vi/Vb8b3GW79WQ/hqdefault.jpg",
+      "published": "2026-07-15"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2222568145.jpg?resize=1200,799",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181367.jpg?w=1024",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-14"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+      "published": "2026-07-14"
+    },
     {
       "kind": "video",
       "id": "auj9ajsiI9s",
@@ -13,30 +86,13 @@
       "published": "2026-07-14"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "title": "The real AI race may no longer be at the frontier",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Superhuman-Auto-Drafts-2.jpeg?resize=1200,900",
+      "kind": "video",
+      "id": "KzJkS00Ztd8",
+      "title": "Try This Awesome AI Video Transition!",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=KzJkS00Ztd8",
+      "embed": "https://www.youtube.com/embed/KzJkS00Ztd8",
+      "thumb": "https://i.ytimg.com/vi/KzJkS00Ztd8/hqdefault.jpg",
       "published": "2026-07-14"
     },
     {
@@ -50,15 +106,6 @@
       "published": "2026-07-14"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-14"
-    },
-    {
       "kind": "video",
       "id": "4wSiQA8vG78",
       "title": "Solving road safety with n8n",
@@ -66,33 +113,6 @@
       "url": "https://www.youtube.com/watch?v=4wSiQA8vG78",
       "embed": "https://www.youtube.com/embed/4wSiQA8vG78",
       "thumb": "https://i.ytimg.com/vi/4wSiQA8vG78/hqdefault.jpg",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=1200",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
       "published": "2026-07-14"
     },
     {
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/mAmTBsIwkqc",
       "thumb": "https://i.ytimg.com/vi/mAmTBsIwkqc/hqdefault.jpg",
       "published": "2026-07-12"
-    },
-    {
-      "kind": "video",
-      "id": "Iir8dmNoNTg",
-      "title": "ChatGPT’s Latest Update Is MASSIVE",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=Iir8dmNoNTg",
-      "embed": "https://www.youtube.com/embed/Iir8dmNoNTg",
-      "thumb": "https://i.ytimg.com/vi/Iir8dmNoNTg/hqdefault.jpg",
-      "published": "2026-07-11"
-    },
-    {
-      "kind": "video",
-      "id": "5Ls0BXthEQw",
-      "title": "The Hidden Catch With OpenAI's FREE Codex Cloud",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=5Ls0BXthEQw",
-      "embed": "https://www.youtube.com/embed/5Ls0BXthEQw",
-      "thumb": "https://i.ytimg.com/vi/5Ls0BXthEQw/hqdefault.jpg",
-      "published": "2026-07-11"
     }
   ]
 }
