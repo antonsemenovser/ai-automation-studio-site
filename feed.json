@@ -1,59 +1,118 @@
 {
-  "updated": "2026-07-15 15:50 UTC",
+  "updated": "2026-07-16 08:34 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "id": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "video",
+      "id": "uwTFcfjc63w",
+      "title": "Qual AI realmente é melhor – GPT 5.6 ou Claude",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=uwTFcfjc63w",
+      "embed": "https://www.youtube.com/embed/uwTFcfjc63w",
+      "thumb": "https://i.ytimg.com/vi/uwTFcfjc63w/hqdefault.jpg",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/05/boxing_gloves_suit-e1650068012177.jpg?resize=1200,800",
       "published": "2026-07-15"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
+      "id": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
+      "published": "2026-07-15"
+    },
+    {
+      "kind": "video",
+      "id": "MDy_b9F7oUc",
+      "title": "Complete Guide to ChatGPT 5.6 + Prompting Guide",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
+      "embed": "https://www.youtube.com/embed/MDy_b9F7oUc",
+      "thumb": "https://i.ytimg.com/vi/MDy_b9F7oUc/hqdefault.jpg",
       "published": "2026-07-15"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?resize=1200,825",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-15"
+    },
+    {
+      "kind": "video",
+      "id": "5HTqWgt6ctk",
+      "title": "AI NEWS LIVE",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
+      "embed": "https://www.youtube.com/embed/5HTqWgt6ctk",
+      "thumb": "https://i.ytimg.com/vi/5HTqWgt6ctk/hqdefault.jpg",
       "published": "2026-07-15"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+      "id": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-07-15"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "id": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
+      "published": "2026-07-15"
+    },
+    {
+      "kind": "video",
+      "id": "WMiylHobhBM",
+      "title": "AI NEWS LIVE",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=WMiylHobhBM",
+      "embed": "https://www.youtube.com/embed/WMiylHobhBM",
+      "thumb": "https://i.ytimg.com/vi/WMiylHobhBM/hqdefault.jpg",
+      "published": "2026-07-15"
+    },
+    {
+      "kind": "video",
+      "id": "CfsHiS85gK0",
+      "title": "Claude Fable 5 criou esse site 3D que vale R$10k em minutos",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=CfsHiS85gK0",
+      "embed": "https://www.youtube.com/embed/CfsHiS85gK0",
+      "thumb": "https://i.ytimg.com/vi/CfsHiS85gK0/hqdefault.jpg",
       "published": "2026-07-15"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "id": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
       "published": "2026-07-15"
     },
     {
@@ -67,15 +126,6 @@
       "published": "2026-07-15"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2222568145.jpg?resize=1200,799",
-      "published": "2026-07-14"
-    },
-    {
       "kind": "video",
       "id": "auj9ajsiI9s",
       "title": "‘How Mercedes-Benz Scales AI Agents with n8n’ - n8n Business Lab (April 2026)",
@@ -84,56 +134,6 @@
       "embed": "https://www.youtube.com/embed/auj9ajsiI9s",
       "thumb": "https://i.ytimg.com/vi/auj9ajsiI9s/hqdefault.jpg",
       "published": "2026-07-14"
-    },
-    {
-      "kind": "video",
-      "id": "KzJkS00Ztd8",
-      "title": "Try This Awesome AI Video Transition!",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=KzJkS00Ztd8",
-      "embed": "https://www.youtube.com/embed/KzJkS00Ztd8",
-      "thumb": "https://i.ytimg.com/vi/KzJkS00Ztd8/hqdefault.jpg",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "video",
-      "id": "Rdxo4Drwh10",
-      "title": "Grok 4.5 in Cursor: Agentic Coding Just Got WAY Cheaper (Full Tutorial)",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=Rdxo4Drwh10",
-      "embed": "https://www.youtube.com/embed/Rdxo4Drwh10",
-      "thumb": "https://i.ytimg.com/vi/Rdxo4Drwh10/hqdefault.jpg",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "video",
-      "id": "4wSiQA8vG78",
-      "title": "Solving road safety with n8n",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=4wSiQA8vG78",
-      "embed": "https://www.youtube.com/embed/4wSiQA8vG78",
-      "thumb": "https://i.ytimg.com/vi/4wSiQA8vG78/hqdefault.jpg",
-      "published": "2026-07-14"
-    },
-    {
-      "kind": "video",
-      "id": "lIi2FjPgjkg",
-      "title": "This Tech CEO Is Building the “Linux of AI”",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=lIi2FjPgjkg",
-      "embed": "https://www.youtube.com/embed/lIi2FjPgjkg",
-      "thumb": "https://i.ytimg.com/vi/lIi2FjPgjkg/hqdefault.jpg",
-      "published": "2026-07-12"
-    },
-    {
-      "kind": "video",
-      "id": "mAmTBsIwkqc",
-      "title": "Build it yourself",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=mAmTBsIwkqc",
-      "embed": "https://www.youtube.com/embed/mAmTBsIwkqc",
-      "thumb": "https://i.ytimg.com/vi/mAmTBsIwkqc/hqdefault.jpg",
-      "published": "2026-07-12"
     }
   ]
 }
