@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-16 08:34 UTC",
+  "updated": "2026-07-16 15:46 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "video",
+      "id": "FO5zsDIY6Yc",
+      "title": "Testing the 2 BIGGEST AI Website Builders",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=FO5zsDIY6Yc",
+      "embed": "https://www.youtube.com/embed/FO5zsDIY6Yc",
+      "thumb": "https://i.ytimg.com/vi/FO5zsDIY6Yc/hqdefault.jpg",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "video",
+      "id": "VNGXVn56AyQ",
+      "title": "700 Workflows, 3,000 Employees: How Luka Pilic Scaled n8n Inside a European Enterprise",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=VNGXVn56AyQ",
+      "embed": "https://www.youtube.com/embed/VNGXVn56AyQ",
+      "thumb": "https://i.ytimg.com/vi/VNGXVn56AyQ/hqdefault.jpg",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "video",
+      "id": "QUH3N1y1mYA",
+      "title": "Master the New ChatGPT Desktop App - Chat, Work & Codex",
+      "source": "Leon van Zyl",
+      "url": "https://www.youtube.com/watch?v=QUH3N1y1mYA",
+      "embed": "https://www.youtube.com/embed/QUH3N1y1mYA",
+      "thumb": "https://i.ytimg.com/vi/QUH3N1y1mYA/hqdefault.jpg",
+      "published": "2026-07-16"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
@@ -50,15 +116,6 @@
       "published": "2026-07-15"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-15"
-    },
-    {
       "kind": "video",
       "id": "5HTqWgt6ctk",
       "title": "AI NEWS LIVE",
@@ -66,24 +123,6 @@
       "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
       "embed": "https://www.youtube.com/embed/5HTqWgt6ctk",
       "thumb": "https://i.ytimg.com/vi/5HTqWgt6ctk/hqdefault.jpg",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
       "published": "2026-07-15"
     },
     {
@@ -95,45 +134,6 @@
       "embed": "https://www.youtube.com/embed/WMiylHobhBM",
       "thumb": "https://i.ytimg.com/vi/WMiylHobhBM/hqdefault.jpg",
       "published": "2026-07-15"
-    },
-    {
-      "kind": "video",
-      "id": "CfsHiS85gK0",
-      "title": "Claude Fable 5 criou esse site 3D que vale R$10k em minutos",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=CfsHiS85gK0",
-      "embed": "https://www.youtube.com/embed/CfsHiS85gK0",
-      "thumb": "https://i.ytimg.com/vi/CfsHiS85gK0/hqdefault.jpg",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "video",
-      "id": "Vb8b3GW79WQ",
-      "title": "Esse skill vai viralizar seu conteúdo",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=Vb8b3GW79WQ",
-      "embed": "https://www.youtube.com/embed/Vb8b3GW79WQ",
-      "thumb": "https://i.ytimg.com/vi/Vb8b3GW79WQ/hqdefault.jpg",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "video",
-      "id": "auj9ajsiI9s",
-      "title": "‘How Mercedes-Benz Scales AI Agents with n8n’ - n8n Business Lab (April 2026)",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=auj9ajsiI9s",
-      "embed": "https://www.youtube.com/embed/auj9ajsiI9s",
-      "thumb": "https://i.ytimg.com/vi/auj9ajsiI9s/hqdefault.jpg",
-      "published": "2026-07-14"
     }
   ]
 }
