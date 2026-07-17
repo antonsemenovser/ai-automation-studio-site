@@ -1,42 +1,98 @@
 {
-  "updated": "2026-07-16 15:46 UTC",
+  "updated": "2026-07-17 08:28 UTC",
   "count": 14,
   "items": [
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
+      "kind": "video",
+      "id": "XvgBe4bb1lQ",
+      "title": "O Fable 5 Criou Este Site do iPhone e Ficou Absurdo",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=XvgBe4bb1lQ",
+      "embed": "https://www.youtube.com/embed/XvgBe4bb1lQ",
+      "thumb": "https://i.ytimg.com/vi/XvgBe4bb1lQ/hqdefault.jpg",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "video",
+      "id": "keSNcHmjnAc",
+      "title": "O Criador do Claude Code Ensinou Como Economizar Tokens",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=keSNcHmjnAc",
+      "embed": "https://www.youtube.com/embed/keSNcHmjnAc",
+      "thumb": "https://i.ytimg.com/vi/keSNcHmjnAc/hqdefault.jpg",
       "published": "2026-07-16"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "id": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "title": "Google Vids now lets you star in your own AI videos",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "published": "2026-07-16"
+    },
+    {
+      "kind": "news",
+      "id": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
       "published": "2026-07-16"
     },
     {
       "kind": "video",
       "id": "FO5zsDIY6Yc",
-      "title": "Testing the 2 BIGGEST AI Website Builders",
+      "title": "Which AI Is Better? 🖥️ WEBSITE EDITION",
       "source": "Matt Wolfe",
       "url": "https://www.youtube.com/watch?v=FO5zsDIY6Yc",
       "embed": "https://www.youtube.com/embed/FO5zsDIY6Yc",
       "thumb": "https://i.ytimg.com/vi/FO5zsDIY6Yc/hqdefault.jpg",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
       "published": "2026-07-16"
     },
     {
@@ -50,15 +106,6 @@
       "published": "2026-07-16"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
-      "published": "2026-07-16"
-    },
-    {
       "kind": "video",
       "id": "QUH3N1y1mYA",
       "title": "Master the New ChatGPT Desktop App - Chat, Work & Codex",
@@ -66,15 +113,6 @@
       "url": "https://www.youtube.com/watch?v=QUH3N1y1mYA",
       "embed": "https://www.youtube.com/embed/QUH3N1y1mYA",
       "thumb": "https://i.ytimg.com/vi/QUH3N1y1mYA/hqdefault.jpg",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800",
       "published": "2026-07-16"
     },
     {
@@ -88,24 +126,6 @@
       "published": "2026-07-16"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/05/boxing_gloves_suit-e1650068012177.jpg?resize=1200,800",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "news",
-      "id": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
-      "published": "2026-07-15"
-    },
-    {
       "kind": "video",
       "id": "MDy_b9F7oUc",
       "title": "Complete Guide to ChatGPT 5.6 + Prompting Guide",
@@ -113,26 +133,6 @@
       "url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
       "embed": "https://www.youtube.com/embed/MDy_b9F7oUc",
       "thumb": "https://i.ytimg.com/vi/MDy_b9F7oUc/hqdefault.jpg",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "video",
-      "id": "5HTqWgt6ctk",
-      "title": "AI NEWS LIVE",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
-      "embed": "https://www.youtube.com/embed/5HTqWgt6ctk",
-      "thumb": "https://i.ytimg.com/vi/5HTqWgt6ctk/hqdefault.jpg",
-      "published": "2026-07-15"
-    },
-    {
-      "kind": "video",
-      "id": "WMiylHobhBM",
-      "title": "AI NEWS LIVE",
-      "source": "Matthew Berman",
-      "url": "https://www.youtube.com/watch?v=WMiylHobhBM",
-      "embed": "https://www.youtube.com/embed/WMiylHobhBM",
-      "thumb": "https://i.ytimg.com/vi/WMiylHobhBM/hqdefault.jpg",
       "published": "2026-07-15"
     }
   ]
