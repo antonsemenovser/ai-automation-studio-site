@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-17 08:28 UTC",
+  "updated": "2026-07-17 15:40 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "video",
+      "id": "ss2LaCKUQmU",
+      "title": "AI News: Claude's New Browser, Spotify Gets AI & OpenAI's New Hardware",
+      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=ss2LaCKUQmU",
+      "embed": "https://www.youtube.com/embed/ss2LaCKUQmU",
+      "thumb": "https://i.ytimg.com/vi/ss2LaCKUQmU/hqdefault.jpg",
+      "published": "2026-07-17"
+    },
     {
       "kind": "video",
       "id": "XvgBe4bb1lQ",
@@ -15,7 +34,7 @@
     {
       "kind": "video",
       "id": "keSNcHmjnAc",
-      "title": "O Criador do Claude Code Ensinou Como Economizar Tokens",
+      "title": "O criador do Claude Code faz isso antes de cada projeto.",
       "source": "NoCode StartUp",
       "url": "https://www.youtube.com/watch?v=keSNcHmjnAc",
       "embed": "https://www.youtube.com/embed/keSNcHmjnAc",
@@ -77,15 +96,6 @@
       "published": "2026-07-16"
     },
     {
-      "kind": "news",
-      "id": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "published": "2026-07-16"
-    },
-    {
       "kind": "video",
       "id": "FO5zsDIY6Yc",
       "title": "Which AI Is Better? 🖥️ WEBSITE EDITION",
@@ -124,16 +134,6 @@
       "embed": "https://www.youtube.com/embed/uwTFcfjc63w",
       "thumb": "https://i.ytimg.com/vi/uwTFcfjc63w/hqdefault.jpg",
       "published": "2026-07-16"
-    },
-    {
-      "kind": "video",
-      "id": "MDy_b9F7oUc",
-      "title": "Complete Guide to ChatGPT 5.6 + Prompting Guide",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
-      "embed": "https://www.youtube.com/embed/MDy_b9F7oUc",
-      "thumb": "https://i.ytimg.com/vi/MDy_b9F7oUc/hqdefault.jpg",
-      "published": "2026-07-15"
     }
   ]
 }
