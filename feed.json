@@ -1,14 +1,78 @@
 {
-  "updated": "2026-07-17 15:40 UTC",
+  "updated": "2026-07-18 08:08 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "id": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "title": "Neil Rimer thinks the AI money is coming back out",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
+      "published": "2026-07-18"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "video",
+      "id": "_CNBdUfGL7Y",
+      "title": "Por que o setup simples funciona melhor que tudo com o Claude",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=_CNBdUfGL7Y",
+      "embed": "https://www.youtube.com/embed/_CNBdUfGL7Y",
+      "thumb": "https://i.ytimg.com/vi/_CNBdUfGL7Y/hqdefault.jpg",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-17"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
       "published": "2026-07-17"
     },
     {
@@ -42,60 +106,6 @@
       "published": "2026-07-16"
     },
     {
-      "kind": "news",
-      "id": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "news",
-      "id": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "thumb": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "published": "2026-07-16"
-    },
-    {
       "kind": "video",
       "id": "FO5zsDIY6Yc",
       "title": "Which AI Is Better? 🖥️ WEBSITE EDITION",
@@ -118,21 +128,11 @@
     {
       "kind": "video",
       "id": "QUH3N1y1mYA",
-      "title": "Master the New ChatGPT Desktop App - Chat, Work & Codex",
+      "title": "Master 95% of the New ChatGPT App in 18 Minutes",
       "source": "Leon van Zyl",
       "url": "https://www.youtube.com/watch?v=QUH3N1y1mYA",
       "embed": "https://www.youtube.com/embed/QUH3N1y1mYA",
       "thumb": "https://i.ytimg.com/vi/QUH3N1y1mYA/hqdefault.jpg",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "video",
-      "id": "uwTFcfjc63w",
-      "title": "Qual AI realmente é melhor – GPT 5.6 ou Claude",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=uwTFcfjc63w",
-      "embed": "https://www.youtube.com/embed/uwTFcfjc63w",
-      "thumb": "https://i.ytimg.com/vi/uwTFcfjc63w/hqdefault.jpg",
       "published": "2026-07-16"
     }
   ]
