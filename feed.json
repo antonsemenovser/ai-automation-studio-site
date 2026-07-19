@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-18 15:15 UTC",
+  "updated": "2026-07-19 08:32 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-18"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
@@ -64,15 +73,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-17"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
       "published": "2026-07-17"
     },
     {
