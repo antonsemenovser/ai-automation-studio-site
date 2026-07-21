@@ -1,69 +1,79 @@
 {
-  "updated": "2026-07-20 16:01 UTC",
+  "updated": "2026-07-21 08:45 UTC",
   "count": 14,
   "items": [
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "id": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "title": "Trump’s latest AI czar has already resigned",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?resize=1200,674",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
       "published": "2026-07-20"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "title": "China delivers a one-two punch to America’s AI dominance",
+      "id": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-07-20"
     },
     {
       "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "id": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+      "published": "2026-07-20"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "title": "SpaceX in your index fund, explained",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "published": "2026-07-20"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "id": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-      "published": "2026-07-19"
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
+      "published": "2026-07-20"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "id": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
-      "published": "2026-07-19"
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+      "published": "2026-07-20"
+    },
+    {
+      "kind": "video",
+      "id": "Po127LnJEUU",
+      "title": "The 10-Minute Setup (I Automated the Hard Part)",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=Po127LnJEUU",
+      "embed": "https://www.youtube.com/embed/Po127LnJEUU",
+      "thumb": "https://i.ytimg.com/vi/Po127LnJEUU/hqdefault.jpg",
+      "published": "2026-07-20"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "id": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-      "published": "2026-07-19"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
-      "published": "2026-07-18"
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.11.16-PM.jpg?resize=1200,619",
+      "published": "2026-07-20"
     },
     {
       "kind": "video",
@@ -123,16 +133,6 @@
       "url": "https://www.youtube.com/watch?v=VNGXVn56AyQ",
       "embed": "https://www.youtube.com/embed/VNGXVn56AyQ",
       "thumb": "https://i.ytimg.com/vi/VNGXVn56AyQ/hqdefault.jpg",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "video",
-      "id": "QUH3N1y1mYA",
-      "title": "Master 95% of the New ChatGPT App in 18 Minutes",
-      "source": "Leon van Zyl",
-      "url": "https://www.youtube.com/watch?v=QUH3N1y1mYA",
-      "embed": "https://www.youtube.com/embed/QUH3N1y1mYA",
-      "thumb": "https://i.ytimg.com/vi/QUH3N1y1mYA/hqdefault.jpg",
       "published": "2026-07-16"
     }
   ]
