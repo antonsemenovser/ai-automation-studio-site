@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-21 15:52 UTC",
+  "updated": "2026-07-22 08:45 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Roleplay-Sessions_Press-Kit_Product_01.png?resize=1200,675",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "video",
+      "id": "u2KhZJC7cXs",
+      "title": "Inside n8n: Daniela, Workflow Automation Engineer",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=u2KhZJC7cXs",
+      "embed": "https://www.youtube.com/embed/u2KhZJC7cXs",
+      "thumb": "https://i.ytimg.com/vi/u2KhZJC7cXs/hqdefault.jpg",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/whisper.png?resize=1200,800",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2248543137.jpg?resize=1200,840",
+      "published": "2026-07-21"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-21"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-21"
+    },
     {
       "kind": "news",
       "id": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
@@ -12,58 +67,33 @@
       "published": "2026-07-21"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1322017304.jpg?resize=1200,675",
+      "kind": "video",
+      "id": "E3YIRpnnAYk",
+      "title": "A técnica que engenheiros de IA usam pra ela nunca esquecer o que você pediu",
+      "source": "NoCode StartUp",
+      "url": "https://www.youtube.com/watch?v=E3YIRpnnAYk",
+      "embed": "https://www.youtube.com/embed/E3YIRpnnAYk",
+      "thumb": "https://i.ytimg.com/vi/E3YIRpnnAYk/hqdefault.jpg",
       "published": "2026-07-21"
     },
     {
       "kind": "news",
-      "id": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "id": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/01/Deezer-AIdetection.png?w=1200",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
       "published": "2026-07-21"
     },
     {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "title": "America needs to stop getting shocked by Chinese AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "kind": "video",
+      "id": "6BtIQIGqGJc",
+      "title": "The Most Important Conversation in AI Right Now",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
+      "embed": "https://www.youtube.com/embed/6BtIQIGqGJc",
+      "thumb": "https://i.ytimg.com/vi/6BtIQIGqGJc/hqdefault.jpg",
       "published": "2026-07-21"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/gritt-machine-3.jpg?resize=1200,675",
-      "published": "2026-07-21"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "title": "Trump’s latest AI czar has already resigned",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
-      "published": "2026-07-20"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-20"
     },
     {
       "kind": "video",
@@ -104,36 +134,6 @@
       "embed": "https://www.youtube.com/embed/XvgBe4bb1lQ",
       "thumb": "https://i.ytimg.com/vi/XvgBe4bb1lQ/hqdefault.jpg",
       "published": "2026-07-17"
-    },
-    {
-      "kind": "video",
-      "id": "keSNcHmjnAc",
-      "title": "O criador do Claude Code faz isso antes de cada projeto.",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=keSNcHmjnAc",
-      "embed": "https://www.youtube.com/embed/keSNcHmjnAc",
-      "thumb": "https://i.ytimg.com/vi/keSNcHmjnAc/hqdefault.jpg",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "video",
-      "id": "FO5zsDIY6Yc",
-      "title": "Which AI Is Better? 🖥️ WEBSITE EDITION",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=FO5zsDIY6Yc",
-      "embed": "https://www.youtube.com/embed/FO5zsDIY6Yc",
-      "thumb": "https://i.ytimg.com/vi/FO5zsDIY6Yc/hqdefault.jpg",
-      "published": "2026-07-16"
-    },
-    {
-      "kind": "video",
-      "id": "VNGXVn56AyQ",
-      "title": "700 Workflows, 3,000 Employees: How Luka Pilic Scaled n8n Inside a European Enterprise",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=VNGXVn56AyQ",
-      "embed": "https://www.youtube.com/embed/VNGXVn56AyQ",
-      "thumb": "https://i.ytimg.com/vi/VNGXVn56AyQ/hqdefault.jpg",
-      "published": "2026-07-16"
     }
   ]
 }
