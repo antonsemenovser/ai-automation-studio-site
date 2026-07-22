@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-22 08:45 UTC",
+  "updated": "2026-07-22 15:51 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "video",
+      "id": "N6dAAXULoDQ",
+      "title": "Building n8n workflows with AI",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=N6dAAXULoDQ",
+      "embed": "https://www.youtube.com/embed/N6dAAXULoDQ",
+      "thumb": "https://i.ytimg.com/vi/N6dAAXULoDQ/hqdefault.jpg",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "video",
+      "id": "VtCbCdKrqAE",
+      "title": "How to Simplify OAuth in Self Hosted n8n",
+      "source": "n8n",
+      "url": "https://www.youtube.com/watch?v=VtCbCdKrqAE",
+      "embed": "https://www.youtube.com/embed/VtCbCdKrqAE",
+      "thumb": "https://i.ytimg.com/vi/VtCbCdKrqAE/hqdefault.jpg",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "title": "Utility companies promise to spare us from AI’s energy bill",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "published": "2026-07-22"
+    },
     {
       "kind": "news",
       "id": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
@@ -22,51 +96,6 @@
       "published": "2026-07-22"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/whisper.png?resize=1200,800",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2248543137.jpg?resize=1200,840",
-      "published": "2026-07-21"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-21"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-21"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-21"
-    },
-    {
       "kind": "video",
       "id": "E3YIRpnnAYk",
       "title": "A técnica que engenheiros de IA usam pra ela nunca esquecer o que você pediu",
@@ -74,15 +103,6 @@
       "url": "https://www.youtube.com/watch?v=E3YIRpnnAYk",
       "embed": "https://www.youtube.com/embed/E3YIRpnnAYk",
       "thumb": "https://i.ytimg.com/vi/E3YIRpnnAYk/hqdefault.jpg",
-      "published": "2026-07-21"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
       "published": "2026-07-21"
     },
     {
@@ -113,26 +133,6 @@
       "url": "https://www.youtube.com/watch?v=_CNBdUfGL7Y",
       "embed": "https://www.youtube.com/embed/_CNBdUfGL7Y",
       "thumb": "https://i.ytimg.com/vi/_CNBdUfGL7Y/hqdefault.jpg",
-      "published": "2026-07-17"
-    },
-    {
-      "kind": "video",
-      "id": "ss2LaCKUQmU",
-      "title": "AI News: Claude's New Browser, Spotify Gets AI & OpenAI's New Hardware",
-      "source": "Matt Wolfe",
-      "url": "https://www.youtube.com/watch?v=ss2LaCKUQmU",
-      "embed": "https://www.youtube.com/embed/ss2LaCKUQmU",
-      "thumb": "https://i.ytimg.com/vi/ss2LaCKUQmU/hqdefault.jpg",
-      "published": "2026-07-17"
-    },
-    {
-      "kind": "video",
-      "id": "XvgBe4bb1lQ",
-      "title": "O Fable 5 Criou Este Site do iPhone e Ficou Absurdo",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=XvgBe4bb1lQ",
-      "embed": "https://www.youtube.com/embed/XvgBe4bb1lQ",
-      "thumb": "https://i.ytimg.com/vi/XvgBe4bb1lQ/hqdefault.jpg",
       "published": "2026-07-17"
     }
   ]
