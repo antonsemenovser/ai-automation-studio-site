@@ -1,0 +1,16 @@
+{
+ "procs": {
+  "studio-site-feed": {
+   "last": "2026-07-23T09:23:47Z",
+   "ok": true,
+   "rc": 0
+  }
+ },
+ "history": [
+  {
+   "proc": "studio-site-feed",
+   "at": "2026-07-23T09:23:47Z",
+   "ok": true
+  }
+ ]
+}
