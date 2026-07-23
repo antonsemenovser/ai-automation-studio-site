@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-22 15:51 UTC",
+  "updated": "2026-07-23 09:04 UTC",
   "count": 14,
   "items": [
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "video",
+      "id": "_X0kRfqGsx8",
+      "title": "WORST AI Mistakes by Companies",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=_X0kRfqGsx8",
+      "embed": "https://www.youtube.com/embed/_X0kRfqGsx8",
+      "thumb": "https://i.ytimg.com/vi/_X0kRfqGsx8/hqdefault.jpg",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "video",
+      "id": "r4H7rx5nn1A",
+      "title": "It Begins: An AI Tried to Escape the Lab",
+      "source": "Matthew Berman",
+      "url": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
+      "embed": "https://www.youtube.com/embed/r4H7rx5nn1A",
+      "thumb": "https://i.ytimg.com/vi/r4H7rx5nn1A/hqdefault.jpg",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
+      "published": "2026-07-22"
+    },
+    {
+      "kind": "news",
+      "id": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2259521127.jpg?w=1024",
+      "published": "2026-07-22"
+    },
     {
       "kind": "video",
       "id": "N6dAAXULoDQ",
@@ -13,15 +96,6 @@
       "published": "2026-07-22"
     },
     {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
-      "published": "2026-07-22"
-    },
-    {
       "kind": "video",
       "id": "VtCbCdKrqAE",
       "title": "How to Simplify OAuth in Self Hosted n8n",
@@ -29,60 +103,6 @@
       "url": "https://www.youtube.com/watch?v=VtCbCdKrqAE",
       "embed": "https://www.youtube.com/embed/VtCbCdKrqAE",
       "thumb": "https://i.ytimg.com/vi/VtCbCdKrqAE/hqdefault.jpg",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "title": "Utility companies promise to spare us from AI’s energy bill",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "published": "2026-07-22"
-    },
-    {
-      "kind": "news",
-      "id": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2026/07/Roleplay-Sessions_Press-Kit_Product_01.png?resize=1200,675",
       "published": "2026-07-22"
     },
     {
@@ -114,26 +134,6 @@
       "embed": "https://www.youtube.com/embed/6BtIQIGqGJc",
       "thumb": "https://i.ytimg.com/vi/6BtIQIGqGJc/hqdefault.jpg",
       "published": "2026-07-21"
-    },
-    {
-      "kind": "video",
-      "id": "Po127LnJEUU",
-      "title": "The 10-Minute Setup (I Automated the Hard Part)",
-      "source": "n8n",
-      "url": "https://www.youtube.com/watch?v=Po127LnJEUU",
-      "embed": "https://www.youtube.com/embed/Po127LnJEUU",
-      "thumb": "https://i.ytimg.com/vi/Po127LnJEUU/hqdefault.jpg",
-      "published": "2026-07-20"
-    },
-    {
-      "kind": "video",
-      "id": "_CNBdUfGL7Y",
-      "title": "Por que o setup simples funciona melhor que tudo com o Claude",
-      "source": "NoCode StartUp",
-      "url": "https://www.youtube.com/watch?v=_CNBdUfGL7Y",
-      "embed": "https://www.youtube.com/embed/_CNBdUfGL7Y",
-      "thumb": "https://i.ytimg.com/vi/_CNBdUfGL7Y/hqdefault.jpg",
-      "published": "2026-07-17"
     }
   ]
 }
