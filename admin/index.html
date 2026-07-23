@@ -88,7 +88,6 @@
   <h1>⚙️ Studio Admin</h1>
   <span class="spacer"></span>
   <button id="refresh">↻ Обновить</button>
-  <button id="settings">🔑 Токен</button>
 </header>
 
 <div class="wrap">
@@ -123,41 +122,27 @@
     </div>
   </div>
 
-  <div class="foot">AI Automation Studio · данные приватны, тянутся под твоим GitHub-токеном прямо в браузере</div>
+  <div class="foot">AI Automation Studio · статусы и лиды читаются публично с чашки (git.oleks.space)</div>
 </div>
 
-<dialog id="dlg">
-  <h3>🔑 GitHub-токен</h3>
-  <p class="note">Панель читает статусы и запускает процессы через GitHub API под твоим токеном.
-  Токен хранится только в этом браузере (localStorage), никуда не отправляется кроме github.com.</p>
-  <ol>
-    <li>Открой <a href="https://github.com/settings/personal-access-tokens/new" target="_blank">Fine-grained PAT</a></li>
-    <li>Resource owner: <code>antonsemenovser</code>; Repositories → только <code>ai-automation-studio</code> + <code>ai-automation-studio-site</code></li>
-    <li>Permissions → <code>Actions: Read and write</code>, <code>Contents: Read</code></li>
-    <li>Сгенерируй и вставь сюда:</li>
-  </ol>
-  <input id="tok" type="password" placeholder="github_pat_…" autocomplete="off">
-  <div style="display:flex;gap:8px;justify-content:flex-end">
-    <button id="dlg-clear">Удалить токен</button>
-    <button class="primary" id="dlg-save">Сохранить</button>
-  </div>
-</dialog>
+
 
 <div class="toast" id="toast"></div>
 
 <script>
-const OWNER="antonsemenovser", REPO="ai-automation-studio", BRANCH="master";
-const API="https://api.github.com";
-const WORKFLOWS=[
-  {file:"channel-poster.yml", name:"Постер канала", emoji:"📢",
+// Всё читается ПУБЛИЧНО с чашки (Gitea) — токен не нужен (anton/ai-automation-studio#1).
+const RAW_SITE="https://git.oleks.space/anton/ai-automation-studio-site/raw/branch/main";
+const RAW_STUDIO="https://git.oleks.space/anton/ai-automation-studio/raw/branch/master";
+const K8S_HINT="kubectl create job -n kotkan run-<proc> --from=cronjob/<proc>";
+const PROCS=[
+  {key:"studio-channel-poster", name:"Постер канала", emoji:"📢",
    desc:"новости + видео-реклама в @ai_bots_for_business", cron:"0 6,9,12,15 * * *"},
-  {file:"intent-radar.yml", name:"Радар лидов", emoji:"🔍",
+  {key:"studio-intent-radar", name:"Радар лидов", emoji:"🔍",
    desc:"ищет покупательский интент → тебе в ЛС", cron:"30 7,15 * * *"},
-  {file:"site-feed.yml", name:"Лента сайта", emoji:"🌐",
+  {key:"studio-site-feed", name:"Лента сайта", emoji:"🌐",
    desc:"обновляет feed.json (видео + новости)", cron:"15 6,14 * * *"},
 ];
-const tokKey="studio_admin_pat";
-let TOKEN=localStorage.getItem(tokKey)||"";
+localStorage.removeItem("studio_admin_pat"); // токен больше не нужен и вычищается
 
 const $=s=>document.querySelector(s);
 const el=(t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e;};
@@ -192,90 +177,59 @@ function inHuman(t){
   return "через "+Math.floor(s/86400)+"д";
 }
 
-async function gh(path,opts={}){
-  const r=await fetch(API+path,{...opts,headers:{
-    "Authorization":"Bearer "+TOKEN,
-    "Accept":"application/vnd.github+json",
-    "X-GitHub-Api-Version":"2022-11-28",
-    ...(opts.headers||{})}});
-  if(r.status===401) throw new Error("401 — токен неверный или истёк");
-  if(r.status===403) throw new Error("403 — токену не хватает прав (нужно Actions: read&write)");
-  if(r.status===404) throw new Error(`404 — токен не видит приватный репо ${OWNER}/${REPO}. Добавь его в fine-grained PAT (Repository access → Only select → ${REPO}) с Actions: Read`);
-  if(!r.ok && r.status!==204) throw new Error(r.status+" "+(await r.text()).slice(0,120));
-  return r.status===204?null:r.json();
+let STATUS=null;
+async function loadStatus(){
+  try{
+    const r=await fetch(RAW_SITE+"/status.json?cb="+Date.now());
+    STATUS = r.ok ? await r.json() : null;
+  }catch(e){ STATUS=null; }
 }
 
-function badge(run){
-  if(!run) return ['b-idle','нет данных'];
-  if(run.status!=="completed") return ['b-run','идёт…'];
-  if(run.conclusion==="success") return ['b-ok','успех'];
-  if(run.conclusion==="failure") return ['b-bad','сбой'];
-  return ['b-idle',run.conclusion||run.status];
+function badge(p){
+  if(!p) return ['b-idle','нет данных'];
+  return p.ok ? ['b-ok','успех'] : ['b-bad','сбой rc='+p.rc];
 }
 
 async function loadProcs(){
   const box=$("#procs"); box.innerHTML="";
-  for(const wf of WORKFLOWS){
+  for(const wf of PROCS){
+    const p=STATUS&&STATUS.procs&&STATUS.procs[wf.key];
     const row=el("div","row");
-    let run=null,err=null;
-    try{
-      const d=await gh(`/repos/${OWNER}/${REPO}/actions/workflows/${wf.file}/runs?per_page=1`);
-      run=d.workflow_runs&&d.workflow_runs[0];
-    }catch(e){err=e.message;}
-    const[bc,bt]=badge(run);
+    const[bc,bt]=badge(p);
     const nr=nextRun(wf.cron);
     row.appendChild(el("div","l",
       `<div class="name">${wf.emoji} ${wf.name}</div>
-       <div class="sub">${err?('⚠ '+err):(wf.desc)}</div>
-       <div class="sub">⏱ ${run?ago(run.created_at):'—'} · след. ${inHuman(nr)}</div>`));
+       <div class="sub">${wf.desc}</div>
+       <div class="sub">⏱ ${p?ago(p.last):'—'} · след. ${inHuman(nr)}</div>`));
     const right=el("div","actions");
     right.appendChild(el("span","badge "+bc,bt));
-    if(run) right.appendChild(Object.assign(el("button",null,"📜"),{onclick:()=>open(run.html_url,"_blank")}));
-    const runBtn=el("button","primary","▶");
-    runBtn.onclick=()=>dispatch(wf,runBtn);
-    right.appendChild(runBtn);
     row.appendChild(right);
     box.appendChild(row);
   }
-}
-
-async function dispatch(wf,btn){
-  if(!confirm(`Запустить «${wf.name}» сейчас?`)) return;
-  btn.disabled=true; const old=btn.textContent; btn.textContent="…";
-  try{
-    await gh(`/repos/${OWNER}/${REPO}/actions/workflows/${wf.file}/dispatches`,
-      {method:"POST",body:JSON.stringify({ref:BRANCH})});
-    toast("🚀 Запущено: "+wf.name);
-    setTimeout(()=>{loadProcs();loadActivity();},2500);
-  }catch(e){toast("Ошибка: "+e.message);}
-  finally{btn.disabled=false;btn.textContent=old;}
+  box.appendChild(el("div","note",
+    'Процессы крутятся в k8s (ns kotkan). Ручной запуск: <code>'+K8S_HINT+'</code>'));
 }
 
 async function loadActivity(){
   const box=$("#activity");
-  try{
-    const d=await gh(`/repos/${OWNER}/${REPO}/actions/runs?per_page=12`);
-    box.innerHTML="";
-    for(const r of d.workflow_runs){
-      const[bc,bt]=badge(r);
-      const e=el("div","e");
-      e.appendChild(el("span","when",ago(r.created_at)));
-      e.appendChild(el("span","badge "+bc,bt));
-      e.appendChild(el("span",null,`<a href="${r.html_url}" target="_blank">${r.name}</a>`));
-      box.appendChild(e);
-    }
-    if(!d.workflow_runs.length) box.innerHTML='<div class="note">Запусков ещё не было.</div>';
-  }catch(e){box.innerHTML='<div class="note">⚠ '+e.message+'</div>';}
+  box.innerHTML="";
+  const hist=(STATUS&&STATUS.history)||[];
+  for(const h of hist.slice(0,12)){
+    const e=el("div","e");
+    e.appendChild(el("span","when",ago(h.at)));
+    e.appendChild(el("span","badge "+(h.ok?'b-ok':'b-bad'),h.ok?'успех':'сбой'));
+    e.appendChild(el("span",null,h.proc));
+    box.appendChild(e);
+  }
+  if(!hist.length) box.innerHTML='<div class="note">Запусков ещё не было (status.json появится после первого прогона).</div>';
 }
 
 async function loadLeads(){
   const box=$("#leads");
   try{
-    const r=await fetch(`${API}/repos/${OWNER}/${REPO}/contents/state/leads.json?ref=${BRANCH}&_=`+Date.now(),
-      {headers:{"Authorization":"Bearer "+TOKEN,"Accept":"application/vnd.github.raw",
-                "X-GitHub-Api-Version":"2022-11-28"}});
+    const r=await fetch(RAW_STUDIO+"/state/leads.json?cb="+Date.now());
     if(r.status===404){box.innerHTML='<div class="note">Снимок лидов ещё не опубликован ботом. Полная CRM — в боте (<code>/panel</code>).</div>';return;}
-    if(!r.ok) throw new Error(r.status===401?"токен":r.status);
+    if(!r.ok) throw new Error(r.status);
     const d=await r.json();
     box.innerHTML="";
     box.appendChild(el("div","kpis",
@@ -314,32 +268,20 @@ async function loadFeed(){
   }catch(e){box.innerHTML='<div class="note">⚠ не удалось прочитать feed.json</div>';}
 }
 
-function setConn(){
-  $("#conn").classList.toggle("on",!!TOKEN);
-  $("#banner").innerHTML = TOKEN ? "" :
-    '<div class="err">🔑 Токен не задан — статусы процессов и управление недоступны. Нажми «Токен».</div>';
-}
+function setConn(){ $("#conn").classList.add("on"); $("#banner").innerHTML=""; }
 
 async function refreshAll(){
   setConn();
-  loadFeed();
-  if(TOKEN){ loadProcs(); loadActivity(); loadLeads(); }
-  else { $("#procs").innerHTML='<div class="note">Подключи токен, чтобы увидеть статус и управлять.</div>';
-         $("#activity").innerHTML='<div class="note">Нужен токен.</div>'; }
+  await loadStatus();
+  loadFeed(); loadProcs(); loadActivity(); loadLeads();
 }
 
-// dialog
-const dlg=$("#dlg");
-$("#settings").onclick=()=>{$("#tok").value=TOKEN;dlg.showModal();};
-$("#dlg-save").onclick=()=>{TOKEN=$("#tok").value.trim();localStorage.setItem(tokKey,TOKEN);dlg.close();toast("Токен сохранён");refreshAll();};
-$("#dlg-clear").onclick=()=>{TOKEN="";localStorage.removeItem(tokKey);dlg.close();refreshAll();};
 $("#refresh").onclick=refreshAll;
 
 // live clocks
 setInterval(()=>{$("#proc-clock").textContent="· "+new Date().toUTCString().slice(17,25)+" UTC";},1000);
 
 refreshAll();
-if(!TOKEN) setTimeout(()=>dlg.showModal(),400);
 </script>
 </body>
 </html>
