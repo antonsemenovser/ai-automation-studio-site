@@ -733,7 +733,7 @@
         +'<div class="nthumb">'+thumb+'<div class="ntag">📰 '+esc(it.source)+'</div></div>'
         +'<div class="nb"><div class="nt">'+esc(it.title)+'</div><div class="nm">'+esc(it.published)+'</div></div></a>';
     }
-    fetch('https://antonsemenovser.github.io/ai-automation-studio-site/feed.json?cb='+Date.now()).then(function(r){ return r.json(); }).then(function(d){
+    fetch('https://git.oleks.space/anton/ai-automation-studio-site/raw/branch/main/feed.json?cb='+Date.now()).then(function(r){ return r.json(); }).then(function(d){
       var items=(d&&d.items)||[];
       var vids=items.filter(function(it){ return it.kind==='video'; });
       var news=items.filter(function(it){ return it.kind!=='video'; });
